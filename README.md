@@ -3,13 +3,13 @@
 A personal tracker for **2027 software engineering internships and new-grad roles in Europe**, with continental Europe and mid-size European companies front and centre and July starts highlighted.
 
 - **Site:** https://luca7ok.github.io/job-scrapper/
-- **Updates:** every day at 05:00 UTC via GitHub Actions. New postings, and watchlist companies that just opened, arrive by email.
+- **Updates:** every 3 days at 05:00 UTC (07:00 Romanian winter time) via GitHub Actions. New postings, and watchlist companies that just opened, arrive by email.
 - **No server, no database, no accounts.** The scraper writes JSON into the repo and GitHub Pages serves it.
 
 ## How it works
 
 ```
-GitHub Actions (daily 05:00 UTC)
+GitHub Actions (every 3 days, 05:00 UTC)
   └─ python -m tracker.update
        ├─ sources        GitHub lists (Simplify, SpeedyApply, EarlyCareers EU),
        │                 179 company job boards (Greenhouse, Lever, Ashby, Workable,

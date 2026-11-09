@@ -1,7 +1,7 @@
 name: update
 
 on:
-  schedule: [{cron: "0 5 * * *"}]
+  schedule: [{cron: "0 5 */3 * *"}]
   workflow_dispatch: {}
   push:
     branches: [main]
