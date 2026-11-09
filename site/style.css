@@ -361,6 +361,10 @@ input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px
 .co.done .co-name { color: var(--muted); font-weight: 500; }
 .co.done .co-head:hover .co-name { color: var(--purple); }
 .pill.muted { background: var(--line); color: var(--muted); box-shadow: none; }
+.co-actions { padding: 8px 0 0 16px; font-size: 13px; }
+.co-actions .link { color: var(--muted); }
+.co-actions .link:hover { color: var(--purple); }
+.toast-action { font: inherit; font-weight: 600; background: none; border: 0; padding: 0 0 0 8px; color: var(--bg); text-decoration: underline; cursor: pointer; }
 .role-meta { grid-column: 1; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .role-note { grid-column: 1 / -1; font-size: 13px; color: var(--muted); }
 .role-ctl { grid-column: 2; grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }

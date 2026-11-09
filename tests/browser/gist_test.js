@@ -97,6 +97,14 @@ async function mock(page) {
   const rows = await a.$$eval(".app", (e) => e.length);
   check(rows === 2, `device A shows both applications (${rows})`);
 
+  await a.evaluate(() => { const t = JSON.parse(localStorage.getItem("tracker.v1")); t.companies = { acme: { hidden: true, name: "Acme", u: Date.now() } }; localStorage.setItem("tracker.v1", JSON.stringify(t)); });
+  await a.reload({ waitUntil: "networkidle0" }); await sleep(300);
+  await a.click("#gist-sync"); await sleep(800);
+  const g2 = JSON.parse(gists[ids[0]].files["eu-swe-2027-tracker.json"].content);
+  check(g2.companies && g2.companies.acme && g2.companies.acme.hidden, "hidden companies sync to the gist");
+  await b.reload({ waitUntil: "networkidle0" }); await sleep(800);
+  const bt = JSON.parse(await b.evaluate(() => localStorage.getItem("tracker.v1")));
+  check(bt.companies && bt.companies.acme && bt.companies.acme.hidden, "and reach the second device");
   await a.click("#gist-disconnect");
   check((await a.evaluate(() => localStorage.getItem("tracker.gist.v1"))) === null, "disconnect forgets the token");
   console.log("calls:", calls.join(", "));

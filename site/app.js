@@ -26,7 +26,7 @@
   const DONE = new Set(["applied", "logged", "oa", "interview", "offer", "rejected", "withdrawn"]);
   const SHEET_STATUSES = new Set(["applied", "oa", "interview", "offer"]);
   const COUNTRY_ALIASES = ["uk", "u.k.", "great britain", "england", "scotland", "wales", "northern ireland", "the netherlands", "holland", "deutschland", "czech republic", "turkey", "espana", "italia", "polska", "osterreich", "schweiz", "suisse", "belgique", "romania", "worldwide", "europe", "emea", "eu"];
-  const DEFAULT_FILTERS = { q: "", kind: "all", country: "noUK", size: "all", start: "any", status: "open", mine: "any" };
+  const DEFAULT_FILTERS = { q: "", kind: "all", country: "noUK", size: "all", start: "any", status: "open", mine: "any", hidden: "show" };
 
   const $ = (sel) => document.querySelector(sel);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -77,8 +77,8 @@
 
   function loadTracker() {
     const t = store.get(KEYS.tracker, null);
-    if (t && typeof t === "object" && t.items && typeof t.items === "object") return { v: 1, items: t.items };
-    return { v: 1, items: {} };
+    if (t && typeof t === "object" && t.items && typeof t.items === "object") return { v: 1, items: t.items, companies: t.companies && typeof t.companies === "object" ? t.companies : {} };
+    return { v: 1, items: {}, companies: {} };
   }
 
   function saveTracker() {
@@ -137,12 +137,35 @@
   }
 
   let toastTimer = null;
-  function toast(msg) {
+  function toast(msg, actionLabel, onAction) {
     const el = $("#toast");
     el.textContent = msg;
+    if (actionLabel) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "toast-action";
+      btn.textContent = actionLabel;
+      btn.addEventListener("click", () => { el.hidden = true; onAction(); });
+      el.append(" ", btn);
+    }
     el.hidden = false;
     clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => { el.hidden = true; }, 3200);
+    toastTimer = setTimeout(() => { el.hidden = true; }, actionLabel ? 6000 : 3200);
+  }
+
+  function isHidden(key) {
+    const c = (S.tracker.companies || {})[key];
+    return !!(c && c.hidden);
+  }
+
+  function setHidden(key, company, hidden) {
+    S.tracker.companies = S.tracker.companies || {};
+    S.tracker.companies[key] = { hidden, name: company, u: Date.now() };
+    saveTracker();
+  }
+
+  function hiddenCount() {
+    return Object.values(S.tracker.companies || {}).filter((c) => c && c.hidden).length;
   }
 
   function saveFilters() {
@@ -151,7 +174,7 @@
 
   function activeFilterCount() {
     let n = 0;
-    for (const k of ["kind", "country", "size", "start", "status", "mine"]) {
+    for (const k of ["kind", "country", "size", "start", "status", "mine", "hidden"]) {
       if (S.filters[k] !== DEFAULT_FILTERS[k]) n++;
     }
     return n;
@@ -174,6 +197,8 @@
       const t = track(r.id);
       if (f.mine === "none" ? t : !t || t.status !== f.mine) return false;
     }
+    if (f.hidden === "hide" && isHidden(r._co)) return false;
+    if (f.hidden === "only" && !isHidden(r._co)) return false;
     if (f.q) {
       const terms = fold(f.q).split(/\s+/).filter(Boolean);
       for (const term of terms) if (!r._hay.includes(term)) return false;
@@ -234,7 +259,7 @@
     return `<span class="track${st ? " st-" + st : ""}"><span class="val" aria-hidden="true">${esc(label)}</span><select data-track="${esc(r.id)}" aria-label="Application status for ${esc(r.title)} at ${esc(r.company)}">${opts}</select></span>`;
   }
 
-  function roleHtml(r, mixedKinds) {
+  function roleHtml(r, mixedKinds, companyDone) {
     const t = track(r.id);
     const bits = [];
     if (r.locations) bits.push(esc(r.locations.length > 90 ? r.locations.slice(0, 88) + "…" : r.locations));
@@ -248,7 +273,7 @@
     const noteOpen = S.openNotes.has(r.id);
     const noteBtn = t ? `<button type="button" class="link notebtn" data-note="${esc(r.id)}" aria-expanded="${noteOpen}">${t.notes ? "Notes" : "Add note"}</button>` : "";
     const notes = t && noteOpen ? `<div class="role-notes"><label class="sr-only" for="n-${esc(r.id)}">Notes</label><textarea id="n-${esc(r.id)}" data-notes="${esc(r.id)}" placeholder="Notes: referral, deadlines, contacts…">${esc(t.notes || "")}</textarea></div>` : "";
-    const cls = (t && DONE.has(t.status) ? " done" : "") + (t && t.status === "rejected" ? " rejected" : "");
+    const cls = ((t && DONE.has(t.status)) || companyDone ? " done" : "") + (t && t.status === "rejected" ? " rejected" : "");
     const newDot = r.is_new ? `<span class="sr-only">New. </span>` : "";
     return `<div class="role${cls}">
       <div>${newDot}<a class="role-title" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)} <span class="arrow" aria-hidden="true">↗</span></a></div>
@@ -259,19 +284,26 @@
     </div>`;
   }
 
+  function rolesHtml(g) {
+    const marked = isHidden(g.key);
+    const action = `<div class="co-actions"><button type="button" class="link" data-hide="${esc(g.key)}" data-company="${esc(g.company)}">${marked ? "Unmark company" : "Mark company as done"}</button></div>`;
+    return g.roles.map((r) => roleHtml(r, g.kinds.size > 1, marked)).join("") + action;
+  }
+
   function companyHtml(g) {
     const open = S.expanded.has(g.key);
     const id = "co-" + g.key;
     const n = g.roles.length;
     const kinds = [...g.kinds].join(", ");
     const done = allDone(g);
-    return `<div class="co${open ? " open" : ""}${done ? " done" : ""}" data-co="${esc(g.key)}">
+    const hiddenCo = isHidden(g.key);
+    return `<div class="co${open ? " open" : ""}${done || hiddenCo ? " done" : ""}${hiddenCo ? " is-hidden" : ""}" data-co="${esc(g.key)}">
       <button type="button" class="co-head" aria-expanded="${open}" aria-controls="${esc(id)}">
         <span class="co-name">${g.isNew ? `<span class="dot" aria-hidden="true"></span><span class="sr-only">New roles: </span>` : ""}<span class="nm">${esc(g.company)}</span>${g.midsize ? `<span class="tag">mid-size</span>` : ""}</span>
-        <span class="co-right">${pillFor(g.pill, g.pillLabel, done)}<span class="co-count" aria-label="${n} role${n === 1 ? "" : "s"}">${n}</span></span>
+        <span class="co-right">${pillFor(g.pill, g.pillLabel, done || hiddenCo)}<span class="co-count" aria-label="${n} role${n === 1 ? "" : "s"}">${n}</span></span>
         <span class="co-sub">${esc(kinds)} · ${esc(countryList(g.countries))}</span>
       </button>
-      <div class="roles" id="${esc(id)}"><div class="roles-inner">${open ? g.roles.map((r) => roleHtml(r, g.kinds.size > 1)).join("") : ""}</div></div>
+      <div class="roles" id="${esc(id)}"><div class="roles-inner">${open ? rolesHtml(g) : ""}</div></div>
     </div>`;
   }
 
@@ -316,7 +348,8 @@
     more.hidden = S.groups.length <= S.shown;
     more.textContent = `Show more (${S.groups.length - S.shown} companies)`;
     const nRoles = visible.length;
-    $("#resultline").textContent = `${S.groups.length} compan${S.groups.length === 1 ? "y" : "ies"} · ${nRoles} role${nRoles === 1 ? "" : "s"}`;
+    const nHidden = hiddenCount();
+    $("#resultline").textContent = `${S.groups.length} compan${S.groups.length === 1 ? "y" : "ies"} · ${nRoles} role${nRoles === 1 ? "" : "s"}` + (nHidden && S.filters.hidden === "hide" ? ` · ${nHidden} marked done and hidden` : "");
     renderChips();
   }
 
@@ -329,7 +362,7 @@
     const pill = el.querySelector(".co-right .pill");
     if (pill) pill.outerHTML = pillFor(g.pill, g.pillLabel, done);
     const inner = el.querySelector(".roles-inner");
-    inner.innerHTML = S.expanded.has(key) ? g.roles.map((r) => roleHtml(r, g.kinds.size > 1)).join("") : "";
+    inner.innerHTML = S.expanded.has(key) ? rolesHtml(g) : "";
   }
 
   function toggleCompany(key) {
@@ -486,6 +519,17 @@
     }
 
     $("#list").addEventListener("click", (e) => {
+      const hb = e.target.closest("[data-hide]");
+      if (hb) {
+        const key = hb.dataset.hide;
+        const name = hb.dataset.company;
+        const hide = !isHidden(key);
+        setHidden(key, name, hide);
+        if (hide && S.filters.hidden === "hide") S.expanded.delete(key);
+        renderJobs();
+        if (hide) toast(`Marked ${name} as done.`, "Undo", () => { setHidden(key, name, false); renderJobs(); });
+        return;
+      }
       const head = e.target.closest(".co-head");
       if (head) { toggleCompany(head.parentElement.dataset.co); return; }
       const nb = e.target.closest("[data-note]");
@@ -595,7 +639,7 @@
         if (!t || typeof t.items !== "object") throw new Error("not a tracker export");
         const n = Object.values(t.items).filter((x) => x && x.status).length;
         if (!confirm(`Replace your current tracker with ${n} tracked role${n === 1 ? "" : "s"} from ${file.name}?`)) return;
-        S.tracker = { v: 1, items: t.items };
+        S.tracker = { v: 1, items: t.items, companies: t.companies && typeof t.companies === "object" ? t.companies : {} };
         saveTracker();
         render();
         toast(`Imported ${n} tracked role${n === 1 ? "" : "s"}.`);
@@ -692,9 +736,10 @@
           if (f.truncated && f.raw_url) content = await (await fetch(f.raw_url)).text();
           try { remote = JSON.parse(content || "{}"); } catch (e) { remote = { v: 1, items: {} }; }
         }
-        const merged = { v: 1, items: mergeItems(remote.items || {}, S.tracker.items) };
-        const changedLocal = JSON.stringify(merged.items) !== JSON.stringify(S.tracker.items);
-        const changedRemote = JSON.stringify(merged.items) !== JSON.stringify(remote.items || {});
+        const merged = { v: 1, items: mergeItems(remote.items || {}, S.tracker.items), companies: mergeItems(remote.companies || {}, S.tracker.companies || {}) };
+        const sig = (t) => JSON.stringify([t.items || {}, t.companies || {}]);
+        const changedLocal = sig(merged) !== sig(S.tracker);
+        const changedRemote = sig(merged) !== sig(remote);
         if (changedLocal) {
           S.tracker = merged;
           store.set(KEYS.tracker, S.tracker);

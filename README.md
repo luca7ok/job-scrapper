@@ -60,6 +60,7 @@ python scripts/smoke.py --no-fixtures
 The status pill next to each role (Saved, Applied, OA, Interview, Offer, Rejected, Withdrawn), the applied date (set automatically when you pick *Applied*) and notes are stored **only in your browser** (`localStorage`, key `tracker.v1`). Nobody else visiting the site can see them.
 
 - **My applications** lists everything you've tracked, including roles that have since closed.
+- **Mark company as done:** open a company and click *Mark company as done* at the bottom of its roles. The company and all its roles turn grey but stay in the list and in search. *Unmark company* undoes it, and Filters → *Companies marked done* can hide them or show only them.
 - **Export JSON / Import JSON** for backups or moving between devices by hand. Import replaces the current tracker.
 - **Sync across devices:** paste a GitHub token that has only the `gist` scope ([create one](https://github.com/settings/tokens/new?scopes=gist&description=EU%20SWE%202027%20tracker)). The site creates a private Gist named `eu-swe-2027-tracker.json` and keeps it in sync: changes push after a few seconds, and the latest version is pulled whenever the page opens or regains focus. The token stays in that browser's storage and is sent only to `api.github.com`. Disconnecting forgets the token but leaves the Gist.
 
