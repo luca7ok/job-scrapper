@@ -7,7 +7,30 @@ import smtplib
 import ssl
 import sys
 from email.message import EmailMessage
+from datetime import datetime, timezone
 from pathlib import Path
+
+from .notify import build_notification
+
+SAMPLE_ROLES = [
+    {"id": "s1", "company": "Example Watchlist Co", "title": "Software Engineering Intern (Summer 2027)", "url": "https://example.com/jobs/1",
+     "locations": "Tallinn, Estonia", "countries": ["EE"], "start_label": "June – August 2027", "start_bucket": "july", "midsize": True},
+    {"id": "s2", "company": "Placeholder Systems", "title": "Backend Engineer Intern", "url": "https://example.com/jobs/2",
+     "locations": "Amsterdam, Netherlands", "countries": ["NL"], "start_label": "July 2027", "start_bucket": "july", "midsize": True},
+    {"id": "s3", "company": "Sample Fintech", "title": "Graduate Software Engineer 2027", "url": "https://example.com/jobs/3",
+     "locations": "Berlin, Germany; Munich, Germany", "countries": ["DE"], "start_label": "September 2027", "start_bucket": "other", "midsize": False},
+    {"id": "s4", "company": "Demo Robotics", "title": "Embedded Software Intern", "url": "https://example.com/jobs/4",
+     "locations": "Zurich, Switzerland", "countries": ["CH"], "start_label": "Summer 2027", "start_bucket": "summer", "midsize": True},
+    {"id": "s5", "company": "Test Labs", "title": "Junior Frontend Developer", "url": "https://example.com/jobs/5",
+     "locations": "Kraków, Poland", "countries": ["PL"], "start_label": "Not stated", "start_bucket": "none", "midsize": False},
+]
+
+
+def sample_body() -> str:
+    today = datetime.now(timezone.utc).date().isoformat()
+    hits = [{"company": "Example Watchlist Co", "role_ids": ["s1"]}]
+    body = build_notification(SAMPLE_ROLES, hits, {r["id"]: r for r in SAMPLE_ROLES}, today)
+    return "**Test email: these roles are placeholders, not real postings.**\n\n" + body
 
 _LINK = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 _BOLD = re.compile(r"\*\*(.+?)\*\*")
@@ -29,7 +52,10 @@ def settings() -> dict | None:
 
 
 def subject_from(body: str) -> str:
-    first = body.strip().splitlines()[0].rstrip(".") if body.strip() else "New roles"
+    lines = [l for l in body.strip().splitlines() if l.strip() and not l.startswith("**Test email")]
+    first = lines[0].rstrip(".") if lines else "New roles"
+    if body.startswith("**Test email"):
+        first = "TEST · " + first
     first = re.sub(r"\s+on \d{4}-\d{2}-\d{2}", "", first)
     return f"EU SWE 2027: {first}"
 
@@ -102,16 +128,30 @@ def send(body: str, cfg: dict) -> None:
 
 
 def main(argv: list[str] | None = None) -> int:
-    args = argv if argv is not None else sys.argv[1:]
-    path = Path(args[0] if args else "data/notify.md")
-    if not path.exists():
-        print(f"{path} not found: nothing new, no email sent")
+    args = list(argv if argv is not None else sys.argv[1:])
+    sample = "--sample" in args
+    preview = None
+    if "--preview" in args:
+        i = args.index("--preview")
+        preview = Path(args[i + 1]) if i + 1 < len(args) else Path("email-preview.html")
+        del args[i:i + 2]
+    args = [a for a in args if a != "--sample"]
+    if sample:
+        body = sample_body()
+    else:
+        path = Path(args[0] if args else "data/notify.md")
+        if not path.exists():
+            print(f"{path} not found: nothing new, no email sent")
+            return 0
+        body = path.read_text(encoding="utf-8")
+    if preview is not None:
+        preview.write_text(f"<!doctype html><meta charset=utf-8><title>{html.escape(subject_from(body))}</title>" + to_html(body), encoding="utf-8")
+        print(f"preview written to {preview} (subject: {subject_from(body)})")
         return 0
     cfg = settings()
     if cfg is None:
         print("SMTP_USER / SMTP_PASSWORD not set: email skipped")
         return 2
-    body = path.read_text(encoding="utf-8")
     try:
         send(body, cfg)
     except Exception as exc:

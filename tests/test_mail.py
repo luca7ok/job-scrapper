@@ -74,3 +74,17 @@ def test_email_to_override(monkeypatch):
     monkeypatch.setenv("SMTP_PASSWORD", "pw")
     monkeypatch.setenv("EMAIL_TO", "me@example.com")
     assert mail.settings()["to"] == "me@example.com"
+
+
+def test_sample_preview(tmp_path, monkeypatch):
+    out = tmp_path / "preview.html"
+    assert mail.main(["--sample", "--preview", str(out)]) == 0
+    html = out.read_text()
+    assert "placeholders" in html and "Example Watchlist Co" in html and "Newly opened" in html
+    assert mail.subject_from(mail.sample_body()).startswith("EU SWE 2027: TEST · 5 new roles")
+
+
+def test_sample_send_requires_settings(monkeypatch):
+    monkeypatch.delenv("SMTP_USER", raising=False)
+    monkeypatch.delenv("SMTP_PASSWORD", raising=False)
+    assert mail.main(["--sample"]) == 2
