@@ -13,7 +13,7 @@ GitHub Actions (daily 05:00 UTC)
   └─ python -m tracker.update
        ├─ sources        GitHub lists (Simplify, SpeedyApply, EarlyCareers EU),
        │                 179 company job boards (Greenhouse, Lever, Ashby, Workable,
-       │                 SmartRecruiters, Workday), Arbeitnow, Adzuna, manual entries
+       │                 SmartRecruiters, Workday), Arbeitnow, manual entries
        ├─ filters        entry-level SWE titles, 2027-relevant, located in Europe
        ├─ enrich         start date (July / summer / other), mid-size flag, countries
        ├─ merge + diff   dedupe across sources, first/last seen, new / closed, watchlist hits
@@ -27,11 +27,7 @@ A role is marked **closed** only after it has been missing for **2 consecutive h
 ## One-time setup
 
 1. **Turn on Pages.** Repo → Settings → Pages → *Build and deployment* → Source: **GitHub Actions**.
-2. **Add the Adzuna keys** (optional but enabled in config). Get a free key at https://developer.adzuna.com/, then Settings → Secrets and variables → Actions → *New repository secret*:
-   - `ADZUNA_ID`
-   - `ADZUNA_KEY`
-
-   Without them the run logs "adzuna skipped" and carries on.
+2. **Adzuna** is built in but switched off (`settings.aggregators.adzuna: false`). To use it, set it to `true`, add the secrets `ADZUNA_ID` and `ADZUNA_KEY` from https://developer.adzuna.com/, and pass them to the *Run tracker* step in `.github/workflows/update.yml`.
 3. **Email alerts.** On days with new postings, the run emails you a list of only the roles first seen that day (watchlist companies that just opened come first, then July starts, then the rest). It sends through Gmail:
    1. Turn on 2-Step Verification for your Google account, then create an app password at https://myaccount.google.com/apppasswords.
    2. Add the secrets `SMTP_USER` (your Gmail address) and `SMTP_PASSWORD` (the 16-character app password).

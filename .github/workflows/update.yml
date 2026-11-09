@@ -29,8 +29,6 @@ jobs:
       - name: Run tracker
         if: github.event_name != 'push'
         env:
-          ADZUNA_ID: ${{ secrets.ADZUNA_ID }}
-          ADZUNA_KEY: ${{ secrets.ADZUNA_KEY }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
           python -m tracker.update
