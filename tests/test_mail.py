@@ -17,7 +17,7 @@ def body():
 def test_email_contains_only_new_roles_as_html_and_text():
     cfg = {"user": "me@gmail.com", "password": "x", "to": "me@gmail.com", "host": "smtp.gmail.com", "port": 465}
     msg = mail.build_message(body(), cfg)
-    assert msg["Subject"] == "EU SWE 2027: 2 new roles, 1 watchlist company just opened"
+    assert msg["Subject"] == "EU SWE 2027: 2 new roles"
     assert msg["To"] == "me@gmail.com"
     text = msg.get_body(("plain",)).get_content()
     html = msg.get_body(("html",)).get_content()
@@ -25,7 +25,10 @@ def test_email_contains_only_new_roles_as_html_and_text():
     assert '<a href="https://example.com/a"' in html
     assert "<strong>Booking.com</strong>" in html
     assert "Backend Intern &lt;C++&gt;" in html
-    assert "<h3" in html and "Newly opened" in html
+    assert "<h3" not in html and "Newly opened" not in html and "July start" not in html
+    assert html.index("Bolt") < html.index("Booking.com")
+    assert html.count("<li") == 2
+    assert all(ord(ch) < 0x2190 or ch in "–—·…" for ch in text)
 
 
 class FakeSMTP:
@@ -80,8 +83,8 @@ def test_sample_preview(tmp_path, monkeypatch):
     out = tmp_path / "preview.html"
     assert mail.main(["--sample", "--preview", str(out)]) == 0
     html = out.read_text()
-    assert "placeholders" in html and "Example Watchlist Co" in html and "Newly opened" in html
-    assert mail.subject_from(mail.sample_body()).startswith("EU SWE 2027: TEST · 5 new roles")
+    assert "placeholders" in html and "Example Watchlist Co" in html
+    assert mail.subject_from(mail.sample_body()) == "EU SWE 2027: TEST · 5 new roles"
 
 
 def test_sample_send_requires_settings(monkeypatch):

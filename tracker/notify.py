@@ -16,57 +16,30 @@ def _line(r: dict) -> str:
     bits = [r.get("locations") or _countries(r.get("countries") or [])]
     if r.get("start_label") and r["start_label"] != "Not stated":
         bits.append(r["start_label"])
-    if r.get("midsize"):
-        bits.append("mid-size")
     meta = " · ".join(b for b in bits if b)
-    return f"- **{r['company']}**: [{r['title']}]({r['url']}) — {meta}"
+    line = f"- **{r['company']}**: [{r['title']}]({r['url']})"
+    return f"{line} — {meta}" if meta else line
 
 
 def build_notification(new_roles: list[dict], hits: list[dict], roles_by_id: dict[str, dict], today: str) -> str | None:
-    if not new_roles and not hits:
+    hit_ids = [rid for h in hits for rid in h["role_ids"]]
+    ordered: list[dict] = [roles_by_id[rid] for rid in hit_ids if rid in roles_by_id]
+    seen = {r["id"] for r in ordered}
+    rest = [r for r in new_roles if r["id"] not in seen]
+    rest.sort(key=lambda r: (r.get("start_bucket") != "july", r.get("countries") == ["GB"], not r.get("midsize"), r["company"].lower()))
+    ordered.extend(rest)
+    if not ordered:
         return None
-    lines: list[str] = []
-    if hits:
-        lines.append("## 🔔 Newly opened")
-        for h in hits:
-            for rid in h["role_ids"]:
-                r = roles_by_id.get(rid)
-                if r:
-                    lines.append(_line(r))
-        lines.append("")
-    hit_ids = {rid for h in hits for rid in h["role_ids"]}
-    rest = [r for r in new_roles if r["id"] not in hit_ids]
-    july = [r for r in rest if r.get("start_bucket") == "july"]
-    other = [r for r in rest if r.get("start_bucket") != "july"]
-    other.sort(key=lambda r: (r.get("countries") == ["GB"], not r.get("midsize"), r["company"].lower()))
-    if july:
-        lines.append("## July start")
-        lines.extend(_line(r) for r in july)
-        lines.append("")
-    if other:
-        lines.append("## New roles")
-        lines.extend(_line(r) for r in other)
-        lines.append("")
 
-    body: list[str] = []
-    count = 0
-    for line in lines:
-        if line.startswith("- "):
-            if count >= MAX_LINES:
-                continue
-            count += 1
-        body.append(line)
-    total = len(new_roles)
-    header = f"{total} new role{'s' if total != 1 else ''} on {today}"
-    if hits:
-        header += f", {len(hits)} watchlist compan{'ies' if len(hits) != 1 else 'y'} just opened"
-    footer = []
-    shown = count
-    all_lines = sum(1 for l in lines if l.startswith("- "))
-    if all_lines > shown:
-        footer.append(f"_…and {all_lines - shown} more. See the site._")
-    footer.append(f"\n[Open the tracker]({SITE_URL})")
-    return f"{header}.\n\n" + "\n".join(body).rstrip() + "\n\n" + "\n".join(footer) + "\n"
+    total = len(ordered)
+    lines = [f"{total} new role{'s' if total != 1 else ''} on {today}.", ""]
+    lines.extend(_line(r) for r in ordered[:MAX_LINES])
+    lines.append("")
+    if total > MAX_LINES:
+        lines.append(f"And {total - MAX_LINES} more on the site.")
+        lines.append("")
+    lines.append(f"[Open the tracker]({SITE_URL})")
+    return "\n".join(lines) + "\n"
 
 
 def summary_line(new_count: int, hits: list[dict], july_count: int) -> str:
