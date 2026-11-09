@@ -63,6 +63,25 @@ The status pill next to each role (Saved, Applied, OA, Interview, Offer, Rejecte
 - **Export JSON / Import JSON** for backups or moving between devices by hand. Import replaces the current tracker.
 - **Sync across devices:** paste a GitHub token that has only the `gist` scope ([create one](https://github.com/settings/tokens/new?scopes=gist&description=EU%20SWE%202027%20tracker)). The site creates a private Gist named `eu-swe-2027-tracker.json` and keeps it in sync: changes push after a few seconds, and the latest version is pulled whenever the page opens or regains focus. The token stays in that browser's storage and is sent only to `api.github.com`. Disconnecting forgets the token but leaves the Gist.
 
+## Google Sheet
+
+When you mark a role as **Applied** (or jump straight to OA, Interview or Offer), the site adds one row to your Google Sheet. It fills **Company**, **Title**, **Location** (`City, Country`, e.g. `Bucharest, Romania`) and **Application Date** (`MM/dd/yyyy`). **Status**, **Job Posting Link**, **Contact** and **Interview Stage** stay empty for you. Each role is added once. Changing its status later doesn't add it again. Rows you typed in yourself count too: if the sheet already has a row with the same company and a matching title (ignoring case and punctuation, and allowing a shortened title such as "Software Engineer Intern"), the role is skipped and the site says "already in your sheet". When both rows have a location, the city must match as well, so the same title in another city is still added. If a send fails (e.g. you're offline), it is retried the next time the page opens.
+
+Columns are found by their header names in row 1, so their order doesn't matter. An empty sheet gets this header: `Company | Title | Location | Status | Job Posting Link | Contact | Application Date | Interview Stage`.
+
+Set-up (about 5 minutes, free):
+
+1. Open your sheet in Google Sheets → **Extensions → Apps Script**.
+2. Delete what's in the editor and paste the contents of [`scripts/google-sheet.gs`](scripts/google-sheet.gs).
+3. On the first line, replace `PUT-A-LONG-RANDOM-WORD-HERE` with a long random word of your own (this is your secret). If the sheet you want isn't the first tab, put its name in `SHEET_NAME`. Save.
+4. **Deploy → New deployment** → gear icon → **Web app**. Set *Execute as*: **Me**, *Who has access*: **Anyone**. Click **Deploy**.
+5. Approve the permissions. Google warns the app "isn't verified" because it's your own script: **Advanced → Go to … (unsafe)** → **Allow**.
+6. Copy the **Web app URL** (ends in `/exec`).
+7. On the site: **My applications → Google Sheet**, paste the URL and your secret, then **Connect**.
+8. Optional: click **Add existing applications** to send roles you marked before connecting.
+
+"Anyone" is required so the site can reach the script without a Google login. The secret is what stops anyone else who finds the URL from writing to your sheet. If you edit the script later, use **Deploy → Manage deployments → Edit → New version** so the URL stays the same.
+
 ## Running locally
 
 ```sh

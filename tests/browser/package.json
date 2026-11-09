@@ -7,7 +7,9 @@
     "shots": "node shots.js ./shots http://127.0.0.1:8766/",
     "tracker": "node tracker_test.js http://127.0.0.1:8766/ .",
     "gist": "node gist_test.js http://127.0.0.1:8766/",
-    "lighthouse": "lighthouse http://127.0.0.1:8766/ --only-categories=performance,accessibility,best-practices --chrome-flags=--headless=new"
+    "lighthouse": "lighthouse http://127.0.0.1:8766/ --only-categories=performance,accessibility,best-practices --chrome-flags=--headless=new",
+    "sheet": "node sheet_test.js",
+    "apps-script": "node gs_test.js ../../scripts/google-sheet.gs"
   },
   "devDependencies": {
     "lighthouse": "12.3.0",

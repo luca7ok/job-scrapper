@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const KEYS = { tracker: "tracker.v1", filters: "filters.v1", gist: "tracker.gist.v1" };
+  const KEYS = { tracker: "tracker.v1", filters: "filters.v1", gist: "tracker.gist.v1", sheet: "tracker.sheet.v1" };
   const PAGE = 40;
   const GIST_FILE = "eu-swe-2027-tracker.json";
 
@@ -24,6 +24,8 @@
   const STATUS_ORDER = { offer: 0, interview: 1, oa: 2, applied: 3, saved: 4, rejected: 5, withdrawn: 6 };
   const BUCKET_RANK = { july: 3, summer: 2, other: 1, none: 0 };
   const DONE = new Set(["applied", "oa", "interview", "offer", "rejected", "withdrawn"]);
+  const SHEET_STATUSES = new Set(["applied", "oa", "interview", "offer"]);
+  const COUNTRY_ALIASES = ["uk", "u.k.", "great britain", "england", "scotland", "wales", "northern ireland", "the netherlands", "holland", "deutschland", "czech republic", "turkey", "espana", "italia", "polska", "osterreich", "schweiz", "suisse", "belgique", "romania", "worldwide", "europe", "emea", "eu"];
   const DEFAULT_FILTERS = { q: "", kind: "all", country: "noUK", size: "all", start: "any", status: "open", mine: "any" };
 
   const $ = (sel) => document.querySelector(sel);
@@ -96,6 +98,32 @@
 
   function allDone(g) {
     return g.roles.length > 0 && g.roles.every((r) => isDone(r.id));
+  }
+
+  function titleCase(s) {
+    return s === s.toLowerCase() ? s.replace(/(^|[\s-])(\p{L})/gu, (m, a, b) => a + b.toUpperCase()) : s;
+  }
+
+  function cityCountry(locations, countries) {
+    const code = (countries || [])[0];
+    const country = code === "EU" ? "Europe" : code ? COUNTRY[code] || code : "";
+    const notCountry = new Set([...Object.values(COUNTRY), ...COUNTRY_ALIASES, ...Object.keys(COUNTRY)].map((x) => fold(x)));
+    let chunk = String(locations || "").split(";")[0].replace(/\s*\+\s*\d+\s*(more)?\s*$/i, "").trim();
+    let remote = false;
+    if (/^remote\b/i.test(chunk)) {
+      remote = true;
+      chunk = chunk.replace(/^remote\s*(-|–|in|,|:)?\s*/i, "");
+    }
+    const parts = chunk.split(",").map((x) => {
+      let part = x.trim();
+      const stripped = part.replace(/\s*[-–(]\s*(remote|hybrid)\)?$/i, "").replace(/^(remote|hybrid)\s*[-–:]\s*/i, "");
+      if (stripped !== part) { remote = remote || /remote/i.test(part); part = stripped.trim(); }
+      return part;
+    });
+    const city = parts.find((x) => x && !notCountry.has(fold(x)) && !/^(remote|hybrid|on-?site)$/i.test(x));
+    const place = city ? titleCase(city) : remote ? "Remote" : "";
+    if (place && country) return `${place}, ${country}`;
+    return place || country || "";
   }
 
   function setTrack(id, patch) {
@@ -376,6 +404,7 @@
       </div>`;
     }).join("");
     renderSync();
+    renderSheet();
   }
 
   function render() {
@@ -481,6 +510,7 @@
       if (!sel) return;
       const id = sel.dataset.track;
       setTrack(id, { status: sel.value });
+      if (SHEET_STATUSES.has(sel.value)) sheet.add(id);
       const wrap = sel.parentElement;
       wrap.className = "track" + (sel.value ? " st-" + sel.value : "");
       wrap.querySelector(".val").textContent = sel.value ? STATUS_LABEL[sel.value] : "Track";
@@ -528,10 +558,15 @@
     $("#gist-connect").addEventListener("click", () => gist.connect($("#gist-token").value.trim()));
     $("#gist-sync").addEventListener("click", () => gist.sync(true));
     $("#gist-disconnect").addEventListener("click", () => gist.disconnect());
+    $("#sheet-connect").addEventListener("click", () => sheet.connect($("#sheet-url").value.trim(), $("#sheet-secret").value.trim()));
+    $("#sheet-backfill").addEventListener("click", () => sheet.backfill());
+    $("#sheet-disconnect").addEventListener("click", () => sheet.disconnect());
 
     window.addEventListener("hashchange", () => setTab(location.hash.slice(1)));
     document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible" && gist.cfg && gist.cfg.id) gist.sync(false);
+      if (document.visibilityState !== "visible") return;
+      if (gist.cfg && gist.cfg.id) gist.sync(false);
+      sheet.flush(false);
     });
     window.addEventListener("storage", (e) => {
       if (e.key === KEYS.tracker) { S.tracker = loadTracker(); render(); }
@@ -682,6 +717,124 @@
     },
   };
 
+  const sheet = {
+    cfg: store.get(KEYS.sheet, null),
+    busy: false,
+    lastError: "",
+
+    save() {
+      store.set(KEYS.sheet, this.cfg);
+    },
+
+    async post(payload) {
+      const res = await fetch(this.cfg.url, { method: "POST", body: JSON.stringify({ ...payload, secret: this.cfg.secret }) });
+      if (!res.ok) throw new Error(`the script returned ${res.status}`);
+      let out;
+      try { out = await res.json(); } catch (e) { throw new Error("the script didn't answer with JSON (check it is deployed for \"Anyone\")"); }
+      if (!out.ok) throw new Error(out.error || "the script refused the request");
+      return out;
+    },
+
+    row(id) {
+      const t = S.tracker.items[id] || {};
+      const r = S.byId.get(id);
+      const snap = t.snap || {};
+      return {
+        id,
+        company: r ? r.company : snap.c || "",
+        title: r ? r.title : snap.t || "",
+        location: cityCountry(r ? r.locations : snap.loc, r ? r.countries : []),
+        applied: t.applied || todayIso(),
+      };
+    },
+
+    add(id) {
+      if (!this.cfg) return;
+      if (this.cfg.sent.includes(id) || this.cfg.pending.some((p) => p.id === id)) return;
+      this.cfg.pending.push(this.row(id));
+      this.save();
+      this.flush(true);
+    },
+
+    async flush(loud) {
+      if (!this.cfg || this.busy || !this.cfg.pending.length) return;
+      this.busy = true;
+      const batch = this.cfg.pending.slice(0, 50);
+      try {
+        const out = await this.post({ action: "add", rows: batch });
+        const ok = new Set(out.ids || []);
+        const skipped = new Set(out.skipped || []);
+        this.cfg.sent = [...new Set([...this.cfg.sent, ...ok])];
+        this.cfg.pending = this.cfg.pending.filter((p) => !ok.has(p.id));
+        this.lastError = "";
+        this.save();
+        if (loud) {
+          const added = ok.size - skipped.size;
+          if (batch.length === 1) toast(skipped.size ? `${batch[0].company} is already in your sheet.` : `Added ${batch[0].company} to your sheet.`);
+          else toast(`Added ${added} application${added === 1 ? "" : "s"} to your sheet` + (skipped.size ? `, ${skipped.size} already there.` : "."));
+        }
+      } catch (err) {
+        this.lastError = err.message;
+        if (loud) toast(`Couldn't add to your sheet: ${err.message}. It will retry later.`);
+      } finally {
+        this.busy = false;
+        renderSheet();
+      }
+      if (this.cfg && this.cfg.pending.length && !this.lastError) this.flush(loud);
+    },
+
+    async connect(url, secret) {
+      if (!/^https:\/\/script\.google\.com\/macros\/s\/[\w-]+\/exec$/.test(url)) {
+        toast("Paste the web app URL from Apps Script (it ends in /exec).");
+        return;
+      }
+      if (!secret) { toast("Enter the secret you set in the script."); return; }
+      this.cfg = { url, secret, name: "", sent: [], pending: [] };
+      try {
+        const out = await this.post({ action: "ping" });
+        this.cfg.name = out.sheet || "";
+        this.save();
+        $("#sheet-secret").value = "";
+        toast("Connected to your Google Sheet.");
+      } catch (err) {
+        this.cfg = null;
+        store.remove(KEYS.sheet);
+        toast(`Couldn't connect: ${err.message}.`);
+      }
+      renderSheet();
+    },
+
+    backfill() {
+      if (!this.cfg) return;
+      const ids = Object.entries(S.tracker.items).filter(([, t]) => t && SHEET_STATUSES.has(t.status)).map(([id]) => id);
+      const todo = ids.filter((id) => !this.cfg.sent.includes(id) && !this.cfg.pending.some((p) => p.id === id));
+      if (!todo.length) { toast("All your applications are already in the sheet."); return; }
+      for (const id of todo) this.cfg.pending.push(this.row(id));
+      this.save();
+      this.flush(true);
+    },
+
+    disconnect() {
+      this.cfg = null;
+      this.lastError = "";
+      store.remove(KEYS.sheet);
+      renderSheet();
+      toast("Disconnected from your sheet. Rows already added stay there.");
+    },
+  };
+
+  function renderSheet() {
+    const on = !!sheet.cfg;
+    $("#sheet-off").hidden = on;
+    $("#sheet-on").hidden = !on;
+    if (!on) return;
+    const name = sheet.cfg.name ? `<strong>${esc(sheet.cfg.name)}</strong>` : "your sheet";
+    const pending = sheet.cfg.pending.length ? ` ${sheet.cfg.pending.length} waiting to be sent.` : "";
+    $("#sheet-status").innerHTML = sheet.lastError
+      ? `Connected to ${name}. Last attempt failed: ${esc(sheet.lastError)}.${pending}`
+      : `Connected to ${name}. Roles you mark as Applied are added automatically (${sheet.cfg.sent.length} so far).${pending}`;
+  }
+
   function renderSync() {
     const on = !!(gist.cfg && gist.cfg.id);
     $("#sync-off").hidden = on;
@@ -718,6 +871,7 @@
     render();
     setTab(location.hash.slice(1) || "jobs");
     if (gist.cfg && gist.cfg.id) gist.sync(false);
+    sheet.flush(false);
   }
 
   load();

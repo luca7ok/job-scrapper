@@ -139,6 +139,29 @@
           </div>
         </div>
       </div>
+
+      <div class="sync" id="sheet">
+        <h3>Google Sheet</h3>
+        <div id="sheet-off">
+          <p class="meta small">Add a row to your own Google Sheet (company, title, city and country, application date) every time you mark a role as Applied. <a href="https://github.com/luca7ok/job-scrapper#google-sheet" target="_blank" rel="noopener">Set-up steps</a>.</p>
+          <div class="field">
+            <label for="sheet-url">Apps Script web app URL</label>
+            <input id="sheet-url" type="text" placeholder="https://script.google.com/macros/s/…/exec" autocomplete="off" spellcheck="false">
+          </div>
+          <div class="searchrow">
+            <label class="sr-only" for="sheet-secret">Secret</label>
+            <input id="sheet-secret" type="password" placeholder="Secret from the script" autocomplete="off" spellcheck="false">
+            <button type="button" class="btn" id="sheet-connect">Connect</button>
+          </div>
+        </div>
+        <div id="sheet-on" hidden>
+          <p class="meta small" id="sheet-status"></p>
+          <div class="tools">
+            <button type="button" class="btn" id="sheet-backfill">Add existing applications</button>
+            <button type="button" class="btn" id="sheet-disconnect">Disconnect</button>
+          </div>
+        </div>
+      </div>
     </section>
   </main>
 

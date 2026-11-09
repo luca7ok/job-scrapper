@@ -257,6 +257,7 @@ input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px
 .field { display: grid; gap: 4px; margin: 12px 0; }
 .field label { font-size: 13px; font-weight: 500; color: var(--muted); }
 .field select { height: 40px; padding: 0 10px; width: 100%; }
+.field input[type="text"] { height: 40px; padding: 0 12px; width: 100%; }
 .sheet-foot { display: flex; justify-content: flex-end; margin-top: 16px; }
 
 @media (min-width: 720px) {
