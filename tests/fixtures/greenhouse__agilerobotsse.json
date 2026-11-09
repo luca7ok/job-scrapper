@@ -1,0 +1,1802 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964865101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517554101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964865101,
+   "updated_at": "2026-10-30T10:51:22-04:00",
+   "requisition_id": "R_100359",
+   "title": "Automation Engineer (m/f/d) PLC & Commissioning",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-07T08:51:39-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982847101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4525123101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4982847101,
+   "updated_at": "2026-10-30T10:52:54-04:00",
+   "requisition_id": "R_100584",
+   "title": "Forward Deployed AI Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-25T06:03:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964789101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517516101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964789101,
+   "updated_at": "2026-10-30T10:49:00-04:00",
+   "requisition_id": "R_100394",
+   "title": "Forward Deployed Engineer for Robotics (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-14T09:25:59-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4986680101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4527957101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4986680101,
+   "updated_at": "2026-11-05T09:30:54-05:00",
+   "requisition_id": null,
+   "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-01T08:28:24-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5011949101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4540034101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5011949101,
+   "updated_at": "2026-10-30T10:55:50-04:00",
+   "requisition_id": "R_100648",
+   "title": "Intern (m/f/d) Event Management",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-22T02:00:30-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5020629101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5020629101,
+   "updated_at": "2026-10-29T09:28:06-04:00",
+   "requisition_id": null,
+   "title": "Intern (m/f/d) Robot Learning",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-29T09:07:20-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5020636101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5020636101,
+   "updated_at": "2026-10-29T09:24:05-04:00",
+   "requisition_id": null,
+   "title": "Intern (m/f/d) Robot Motion, Control & Sensing",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-29T09:15:49-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5001688101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4533635101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5001688101,
+   "updated_at": "2026-11-02T02:21:16-05:00",
+   "requisition_id": "R_100626",
+   "title": "Intern (m/f/d) Vision-Language-Action Models",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-11-02T02:21:16-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006075101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4535651101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5006075101,
+   "updated_at": "2026-10-30T10:55:11-04:00",
+   "requisition_id": "R_100636",
+   "title": "Machine Learning Engineer (m/f/d) VLA Training & Evaluation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-15T08:40:41-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4976245101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4522409101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4976245101,
+   "updated_at": "2026-10-30T10:52:20-04:00",
+   "requisition_id": "R_100549",
+   "title": "Mechatronics Test Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-16T07:19:01-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006103101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4535668101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5006103101,
+   "updated_at": "2026-10-30T10:55:33-04:00",
+   "requisition_id": "R_100637",
+   "title": "Robotics Data Engineer (m/f/d) Data Generation & Curation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-15T08:42:59-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006076101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4535652101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5006076101,
+   "updated_at": "2026-10-30T10:55:30-04:00",
+   "requisition_id": "R_100635",
+   "title": "Robotics Software Engineer (m/f/d) AI Tools & Integration",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-15T08:48:50-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964785101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517514101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964785101,
+   "updated_at": "2026-10-30T10:48:58-04:00",
+   "requisition_id": "R_100392",
+   "title": "Robotics Test Automation Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-11T09:43:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4991117101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4529909101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4991117101,
+   "updated_at": "2026-10-30T10:53:35-04:00",
+   "requisition_id": "R_100596",
+   "title": "Software Engineer (m/f/d) Industrial Robot Control",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-01T10:28:44-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964867101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517555101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964867101,
+   "updated_at": "2026-10-30T10:51:25-04:00",
+   "requisition_id": "R_100360",
+   "title": "Communications Specialist (m/w/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-07T02:30:38-04:00",
+   "language": "de",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4967503101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4518603101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4967503101,
+   "updated_at": "2026-10-30T10:44:01-04:00",
+   "requisition_id": "R_100496",
+   "title": "Documentation Manager (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-08T02:47:03-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964869101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517556101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964869101,
+   "updated_at": "2026-10-30T10:51:27-04:00",
+   "requisition_id": "R_100361",
+   "title": "Electrical Application Engineer (m/f/d) Industrial Automation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-12T04:33:59-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964873101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517558101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964873101,
+   "updated_at": "2026-10-30T10:51:39-04:00",
+   "requisition_id": "R_100363",
+   "title": "Electrical Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-14T04:52:31-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964871101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517557101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964871101,
+   "updated_at": "2026-10-30T10:51:35-04:00",
+   "requisition_id": "R_100362",
+   "title": "Electrical Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T11:33:51-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964877101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517560101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964877101,
+   "updated_at": "2026-10-30T10:51:46-04:00",
+   "requisition_id": "R_100364",
+   "title": "Electronics Engineer, Customer Support (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T02:07:36-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964803101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517523101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964803101,
+   "updated_at": "2026-10-30T10:49:21-04:00",
+   "requisition_id": "R_100366",
+   "title": "Electronics Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T10:31:50-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964719101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517481101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964719101,
+   "updated_at": "2026-10-30T10:47:37-04:00",
+   "requisition_id": "R_100436",
+   "title": "Electronics Team Lead (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T04:11:35-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4974321101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4521602101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4974321101,
+   "updated_at": "2026-10-30T10:51:51-04:00",
+   "requisition_id": "R_100537",
+   "title": "Electronics Technician",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-12T09:25:41-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964849101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517546101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964849101,
+   "updated_at": "2026-11-05T10:32:00-05:00",
+   "requisition_id": "R_100374",
+   "title": "Electronics Test Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-11-05T10:32:00-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016059101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4541761101,
+   "location": {
+    "name": "Fürstenfeldbruck, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5016059101,
+   "updated_at": "2026-10-30T10:57:18-04:00",
+   "requisition_id": "R_100663",
+   "title": "Fachkraft für Lagerlogistik",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-27T05:02:51-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968014101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Agile Robots SE"
+   },
+   "metadata": null,
+   "id": 4968014101,
+   "updated_at": "2026-09-03T09:53:39-04:00",
+   "requisition_id": null,
+   "title": "General Application (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-03T09:53:39-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964805101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517524101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964805101,
+   "updated_at": "2026-10-30T10:49:23-04:00",
+   "requisition_id": "R_100367",
+   "title": "Hardware Test Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-16T07:12:43-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964875101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517559101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964875101,
+   "updated_at": "2026-10-30T10:51:43-04:00",
+   "requisition_id": "R_100353",
+   "title": "Head of Marketing (f/m/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-04T05:31:45-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4965130101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517667101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4965130101,
+   "updated_at": "2026-11-04T08:44:25-05:00",
+   "requisition_id": "R_100491",
+   "title": "Head of Workplace Operations (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-07T02:54:15-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964851101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517547101,
+   "location": {
+    "name": "Kaufbeuren, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964851101,
+   "updated_at": "2026-10-30T10:51:02-04:00",
+   "requisition_id": "R_100378",
+   "title": "HR Business Partner / Personalreferent (m/w/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-07T02:43:48-04:00",
+   "language": "de",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964827101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517535101,
+   "location": {
+    "name": "Fürstenfeldbruck, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964827101,
+   "updated_at": "2026-10-30T10:50:26-04:00",
+   "requisition_id": "R_100372",
+   "title": "Manufacturing Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-10T09:55:02-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964829101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517536101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964829101,
+   "updated_at": "2026-10-30T10:50:29-04:00",
+   "requisition_id": "R_100373",
+   "title": "Mechanical Application Engineer (m/f/d) Industrial Automation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-12T04:42:10-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964831101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517537101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964831101,
+   "updated_at": "2026-10-30T10:50:31-04:00",
+   "requisition_id": "R_100375",
+   "title": "Mechanical Engineer (m/f/d) Robotics",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-12T14:33:42-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4994515101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4530394101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4994515101,
+   "updated_at": "2026-11-02T03:14:06-05:00",
+   "requisition_id": "R_100598",
+   "title": "Mechatronics and Hardware Test Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-01T11:02:15-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4976258101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4522416101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4976258101,
+   "updated_at": "2026-10-30T10:52:00-04:00",
+   "requisition_id": "R_100550",
+   "title": "Mechatronics Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-15T08:46:08-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008829101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4536980101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5008829101,
+   "updated_at": "2026-11-02T07:56:58-05:00",
+   "requisition_id": "R_100644",
+   "title": "(Mid/Senior) Robotics or Mechatronics Technician/Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-11-02T07:56:58-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964715101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517479101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964715101,
+   "updated_at": "2026-10-30T10:47:32-04:00",
+   "requisition_id": "R_100431",
+   "title": "Network Architect / Network Specialist (On‑Prem, Global)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-09T05:56:46-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997311101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4531714101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4997311101,
+   "updated_at": "2026-10-30T10:53:48-04:00",
+   "requisition_id": "R_100610",
+   "title": "New Product Introduction Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-06T06:54:38-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008915101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4537018101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5008915101,
+   "updated_at": "2026-10-30T10:55:44-04:00",
+   "requisition_id": "R_100646",
+   "title": "Occupational Health and Safety Specialist (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-19T03:25:22-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997313101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4531715101,
+   "location": {
+    "name": "Kaufbeuren, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4997313101,
+   "updated_at": "2026-10-30T10:53:50-04:00",
+   "requisition_id": "R_100611",
+   "title": "Production Technician",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-07T04:04:38-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4976396101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4522482101,
+   "location": {
+    "name": "Fürstenfeldbruck, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4976396101,
+   "updated_at": "2026-10-30T10:52:25-04:00",
+   "requisition_id": "R_100554",
+   "title": "Produktionsmitarbeiter – Montage und Test (m/w/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-15T07:45:35-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968629101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4519150101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4968629101,
+   "updated_at": "2026-10-30T10:44:15-04:00",
+   "requisition_id": "R_100509",
+   "title": "Project Coordinator (m/f/d) - English/Mandarin Speaking",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-04T04:47:31-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013108101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4540561101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5013108101,
+   "updated_at": "2026-10-30T10:55:53-04:00",
+   "requisition_id": "R_100654",
+   "title": "Project Coordinator – New Tasks & QC (m/f/d) Fixed-term 18 months",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-23T10:50:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964841101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517542101,
+   "location": {
+    "name": "Fürstenfeldbruck, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964841101,
+   "updated_at": "2026-10-30T10:50:43-04:00",
+   "requisition_id": "R_100384",
+   "title": "Quality Assurance Spezialist (m/w/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-10T10:42:27-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964823101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517533101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964823101,
+   "updated_at": "2026-11-05T05:45:55-05:00",
+   "requisition_id": "R_100369",
+   "title": "Receptionist (m/f(d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:14:16-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4990806101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4529811101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4990806101,
+   "updated_at": "2026-10-30T10:53:32-04:00",
+   "requisition_id": "R_100595",
+   "title": "Robotics Motion Planning & Control Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-02T06:40:05-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964863101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517553101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964863101,
+   "updated_at": "2026-11-04T03:01:51-05:00",
+   "requisition_id": "R_100357",
+   "title": "Robot Learning Engineer (m/f/d) VLA & Foundation Models",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-09T06:30:46-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013112101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4540565101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5013112101,
+   "updated_at": "2026-10-30T10:56:47-04:00",
+   "requisition_id": "R_100650",
+   "title": "Robot Service Engineer - Data Collection (m/f/d) Fixed-term 18 months",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-23T09:30:06-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008799101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4536961101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5008799101,
+   "updated_at": "2026-10-30T10:55:42-04:00",
+   "requisition_id": "R_100642",
+   "title": "Senior AI / Reinforcement Learning Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-16T10:09:54-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4979404101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517490101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4979404101,
+   "updated_at": "2026-10-30T10:48:06-04:00",
+   "requisition_id": "R_100412",
+   "title": "Senior Computer Vision Engineer (m/f/d) Robotic Manipulation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-17T07:48:58-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964709101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517476101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964709101,
+   "updated_at": "2026-10-30T10:47:25-04:00",
+   "requisition_id": "R_100425",
+   "title": "Senior Customer Support & Field Service Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-05T04:42:37-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964695101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517469101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964695101,
+   "updated_at": "2026-10-30T10:47:02-04:00",
+   "requisition_id": "R_100427",
+   "title": "(Senior) Electronics Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-10T11:01:06-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964699101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517471101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964699101,
+   "updated_at": "2026-10-30T10:47:07-04:00",
+   "requisition_id": "R_100430",
+   "title": "Senior Electronics Engineer - Robotics Systems & Hardware  Development (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:25:08-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964643101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517443101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964643101,
+   "updated_at": "2026-10-30T10:45:31-04:00",
+   "requisition_id": "R_100451",
+   "title": "Senior Firmware Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:27:47-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964645101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517444101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964645101,
+   "updated_at": "2026-10-30T10:45:33-04:00",
+   "requisition_id": "R_100452",
+   "title": "Senior Full Stack Developer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:29:55-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016024101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4541754101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5016024101,
+   "updated_at": "2026-10-30T10:57:04-04:00",
+   "requisition_id": "R_100662",
+   "title": "Senior IP Manager/ IP Professional (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-29T04:50:01-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998753101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4532319101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4998753101,
+   "updated_at": "2026-10-30T10:53:54-04:00",
+   "requisition_id": "R_100618",
+   "title": "Senior IT Security Engineer",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-13T11:01:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998200101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4532104101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4998200101,
+   "updated_at": "2026-11-09T06:01:22-05:00",
+   "requisition_id": "R_100614",
+   "title": "Senior Machine Learning Engineer (m/f/d) Computer Vision for Robotics",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-14T05:38:15-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982851101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4525125101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4982851101,
+   "updated_at": "2026-10-30T10:53:05-04:00",
+   "requisition_id": "R_100581",
+   "title": "Senior Mechanical Engineer - Robotic Systems",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-25T06:14:19-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964707101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517475101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964707101,
+   "updated_at": "2026-10-30T10:47:23-04:00",
+   "requisition_id": "R_100437",
+   "title": "Senior Reporting Specialist (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-23T08:09:11-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964771101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517507101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964771101,
+   "updated_at": "2026-10-30T10:48:45-04:00",
+   "requisition_id": "R_100420",
+   "title": "Senior Robotic Learning Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-10T03:11:23-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964703101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517473101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964703101,
+   "updated_at": "2026-10-30T10:47:18-04:00",
+   "requisition_id": "R_100434",
+   "title": "(Senior) Robotics Testing and Applications Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:32:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964653101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517448101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964653101,
+   "updated_at": "2026-10-30T10:45:56-04:00",
+   "requisition_id": "R_100453",
+   "title": "Senior Software Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T03:37:03-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003611101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4534551101,
+   "location": {
+    "name": "BÄR Automation"
+   },
+   "metadata": null,
+   "id": 5003611101,
+   "updated_at": "2026-10-12T10:51:47-04:00",
+   "requisition_id": "6",
+   "title": "Senior Softwareinbetriebnehmer / Consultant FTF (m/w/d) @BÄR Automation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-12T10:51:47-04:00",
+   "language": "de",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964637101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517440101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964637101,
+   "updated_at": "2026-10-30T10:45:14-04:00",
+   "requisition_id": "R_100447",
+   "title": "(Senior) Systems and Safety Engineer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-16T07:37:17-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964673101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4517458101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4964673101,
+   "updated_at": "2026-10-30T10:46:28-04:00",
+   "requisition_id": "R_100461",
+   "title": "(Senior) Team Lead – Software Architecture (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-09-02T04:07:51-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997620101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4531858101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 4997620101,
+   "updated_at": "2026-10-30T10:54:25-04:00",
+   "requisition_id": "R_100612",
+   "title": "Senior Visual Designer (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-14T14:47:51-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5015409101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4541541101,
+   "location": {
+    "name": "Munich, Bavaria, Germany"
+   },
+   "metadata": null,
+   "id": 5015409101,
+   "updated_at": "2026-10-30T10:57:02-04:00",
+   "requisition_id": "R_100661",
+   "title": "Technical Project Manager (m/f/d)",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-26T05:40:56-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003984101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4534734101,
+   "location": {
+    "name": "BÄR Automation"
+   },
+   "metadata": null,
+   "id": 5003984101,
+   "updated_at": "2026-10-13T02:12:56-04:00",
+   "requisition_id": "7",
+   "title": "Werkstudent (m/w/d) im kaufmännischen Bereich @BÄR Automation",
+   "company_name": "Agile Robots SE",
+   "first_published": "2026-10-13T02:12:56-04:00",
+   "language": "de",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 69
+ },
+ "_host": "https://boards-api.greenhouse.io"
+}

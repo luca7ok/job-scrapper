@@ -1,0 +1,576 @@
+{
+ "name": "Alongside",
+ "description": "🚀 Alongside | Build Great Products with Great Teams\n\nAlongside helps VC-backed start-ups, scale-ups and digital-first enterprises accelerate their roadmaps by assembling elite, time-zone-aligned teams of software engineers, product managers and UX/UI designers, often in under 14 days. Our Porto HQ sits in Europe’s fastest-growing tech hub and taps a vetted global talent pool that lets you ship faster, reduce burn and stay laser-focused on product-market fit.\n\nWhy high-growth companies choose Alongside<br>\n• Top 1 % practitioners: rigorously screened full-stack, mobile, blockchain &amp; AI/ML engineers, plus senior designers and product leaders.<br>• Flexible engagement models: scale a single specialist, an entire squad, or an autonomous build-and-ship pod<br>• End-to-end ownership: discovery → design → development → launch, with weekly velocity reports and transparent KPIs.<br>• Cost-efficient remote talent: New York, Porto, Pune &amp; Hanoi offices give you round-the-clock progress without Silicon-Valley price tags.<br>• Proven track record: core Alongside team took Arkive, the world’s first decentralized museum, from idea to funded product. We helped Circuit Security to secure 4.5M in funding and many other startups.",
+ "jobs": [
+  {
+   "title": "AI Engineer / GenAI Integration Engineer",
+   "shortcode": "2EA50356F4",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/2EA50356F4",
+   "shortlink": "https://apply.workable.com/j/2EA50356F4",
+   "application_url": "https://apply.workable.com/j/2EA50356F4/apply",
+   "published_on": "2026-11-06",
+   "created_at": "2026-11-06",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "Entry level",
+   "function": "Information Technology",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p></p><p>We are looking for an experienced <strong>AI Engineer / GenAI Integration Engineer</strong> with a strong background in software development, systems integration, and AI technologies to join our client, a leading international company operating in sectors such as automotive and agricultural machinery.<br><strong><br>Key Responsibilities</strong></p><ul><li>Develop and implement solutions based on Generative AI and Large Language Models (LLMs).</li><li>Design and develop backend applications and services using Python.</li><li>Build and integrate REST APIs to enable communication between different systems and applications.</li><li>Implement Retrieval-Augmented Generation (RAG) solutions, embeddings, and vector databases.</li><li>Develop and integrate AI Agents and intelligent automation solutions.</li><li>Collaborate with technical and business teams to identify requirements and implement solutions.</li><li>Contribute to the integration of AI solutions into enterprise platforms and CRM systems.</li><li>Support the optimization and automation of business processes through Artificial Intelligence technologies.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field.</li><li>Professional experience in software development, preferably backend development.</li><li>Strong experience with <strong>Python and REST API development/integration</strong>.</li><li>Hands-on experience with <strong>LLMs and Generative AI</strong>, using technologies such as OpenAI, Azure OpenAI, Anthropic, or equivalent.</li><li>Practical experience developing <strong>RAG solutions and AI Agents</strong>.</li><li>Knowledge of embeddings, vector databases, and Prompt Engineering.</li><li>Previous experience with <strong>SAP Cloud for Customer (C4C)</strong> (big plus)</li><li>Experience integrating different systems, applications, and services.</li><li>Strong analytical and problem-solving skills, with the ability to work independently.</li><li>Good communication and teamwork skills.</li><li>Ability to quickly learn and adapt to new technologies and business environments.<br><br>Nice to Have</li><ul><li>Experience with systems integration projects in enterprise environments.</li><li>Experience with Cloud platforms, particularly Azure or AWS.</li><li>Knowledge of microservices architectures and distributed systems.</li><li>Experience with GenAI frameworks such as LangChain, LangGraph, or LlamaIndex.</li><li>Knowledge of SAP C4C</li><li>Experience with CRM platforms and related business processes.</li><li>Previous involvement in enterprise process automation projects</li></ul></ul><p><strong>Benefits</strong></p><ul><li>Technical guidance and continuous mentorship</li><li>Participation in real-world projects</li><li>Collaborative environment with a focus on professional growth</li><li>Opportunity for career progression</li><li><strong>Hybrid work model:</strong> Porto office (3 days per week working from home)</li></ul>"
+  },
+  {
+   "title": "Fullstack Developer - .NET & Azure",
+   "shortcode": "B7D554D475",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/B7D554D475",
+   "shortlink": "https://apply.workable.com/j/B7D554D475",
+   "application_url": "https://apply.workable.com/j/B7D554D475/apply",
+   "published_on": "2026-08-25",
+   "created_at": "2026-08-25",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "Information Technology",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong>&nbsp;is a Portuguese company that partners with international organizations to build and scale exceptional tech teams.</p><p>We are looking for a&nbsp;<strong>Fullstack Developer - .NET &amp; Azure</strong>&nbsp;to join a project with one of our clients, a global leader in professional information solutions and software. Operating across more than 180 countries, the company develops technology-driven solutions for industries including&nbsp;<strong>Healthcare, Tax &amp; Accounting, Financial &amp; Corporate Compliance, and Legal &amp; Regulatory</strong>.</p><p>This person will work primarily with <strong>.NET, C#, SQL Server, and Azure</strong>, contributing to backend development, API design, technical decisions, code quality, and automated testing.</p><p></p><p><strong>Responsabilities:</strong></p><ul><li>Design, develop, and maintain backend applications using <strong>.NET Core, ASP.NET MVC, and C#</strong>.</li><li>Develop and maintain <strong>RESTful Web APIs</strong>.</li><li>Work with <strong>SQL Server</strong>, including queries, stored procedures, and performance optimization.</li><li>Build and maintain cloud-based solutions using <strong>Microsoft Azure</strong> services.</li><li>Work with services such as <strong>Azure Functions, Azure Storage, API Gateway/API Management, and Kubernetes</strong>.</li><li>Write and maintain <strong>unit tests</strong>, using mocking frameworks and API automation practices.</li><li>Contribute to technical and design decisions, applying appropriate <strong>design patterns and OOP principles</strong>.</li><li>Participate in <strong>code reviews</strong> and contribute to maintaining high development standards.</li><li>Work with <strong>GitHub</strong>, following branching, merging, and collaborative development practices.</li><li>Collaborate with the development team throughout the software development lifecycle.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>3+ years of experience</strong> in backend software development.</li><li>Strong hands-on experience with <strong>C# and Object-Oriented Programming (OOP)</strong>.</li><li>Experience with <strong>.NET Core and ASP.NET MVC</strong>.</li><li>Hands-on experience developing <strong>Web APIs / REST APIs</strong>.</li><li>Solid knowledge of <strong>SQL Server</strong>, including queries, stored procedures, and performance tuning.</li><li>Understanding of common <strong>software design patterns</strong>.</li><li>Experience with <strong>cloud-based development</strong>, preferably using <strong>Microsoft Azure</strong>.</li><li>Experience with or exposure to <strong>Azure Functions, Storage, API Management/Gateway, and Kubernetes</strong>.</li><li>Experience writing <strong>unit tests</strong>, working with mocking frameworks, and API test automation.</li><li>Experience with <strong>Git/GitHub</strong>, including branching and merging strategies.</li><li>Good understanding of <strong>code review and software development best practices</strong>.</li><li>Good level of <strong>English</strong>, both written and spoken.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid working model:</strong>&nbsp;2 days per week at the office;</li></ul><ul><li>Collaborative and international work environment;</li><li>Opportunity to work on impactful software products and transformation projects;</li><li>Exposure to modern technologies, tools, and development practices;</li><li>Opportunity to collaborate with experienced professionals across different countries and areas of expertise.</li></ul>"
+  },
+  {
+   "title": "Fullstack Developer - Tomar",
+   "shortcode": "E0EC8359F8",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/E0EC8359F8",
+   "shortlink": "https://apply.workable.com/j/E0EC8359F8",
+   "application_url": "https://apply.workable.com/j/E0EC8359F8/apply",
+   "published_on": "2026-09-29",
+   "created_at": "2026-08-27",
+   "country": "Portugal",
+   "city": "Tomar",
+   "state": "Santarém District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Tomar",
+     "region": "Santarém District",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Alongside partners with organizations to drive digital transformation and build high-performing tech teams.</p><p>We are looking for a Fullstack Developer, who wants to grow in a modern, AI-driven development environment.</p><p>This is not a traditional developer role. We are looking for someone passionate about Fullstack Development, but also genuinely curious about AI tools, automation and agentic workflows. Someone who already uses AI naturally to learn faster, automate tasks and improve the way they build software.<br><br><strong>Responsibilities</strong><br></p><ul><li>Develop and maintain scalable web applications using React and Next.js;<a href=\"http://next.js\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\"><u></u></a></li><li>Design, develop and maintain APIs and backend services using Node.js;<a href=\"http://node.js\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\"><u></u></a></li><li>Take ownership of the implementation of new features and technical improvements;</li><li>Collaborate closely with product and design teams to translate requirements into effective technical solutions;</li><li>Contribute to technical decisions, code quality and development best practices;</li><li>Integrate AI tools and capabilities into products and development workflows;</li><li>Design and implement automations and AI-assisted solutions;</li><li>Identify opportunities where AI can improve existing products, processes and workflows.</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of professional experience in Fullstack Software Development;</li><li>Degree in Computer Engineering, Computer Science, or similar;</li><li>Strong professional experience with <strong>React, Next.js and Node.js;</strong></li><li>Solid experience designing and integrating <strong>REST APIs;</strong></li><li>Strong experience working with <strong>databases;</strong></li><li>Experience developing and maintaining production-ready web applications;</li><li>Hands-on experience with <strong>AI-powered solutions, LLMs, AI agents, agentic workflows or AI-driven automations;</strong></li><li>Strong problem-solving skills, responsibility, teamwork and proactivity;</li><li>Good communication skills in <strong>English.</strong></li></ul><p><br><br><strong>Nice to Have</strong><br></p><ul><li>Experience integrating <strong>LLM APIs</strong> or AI services into production applications;</li><li>Experience with AI tools and frameworks for building <strong>agents and automated workflows;</strong></li><li>Experience using AI coding tools such as <strong>ChatGPT, Copilot, Cursor or Claude;</strong></li><li>Knowledge of <strong>prompt engineering and workflow optimization;</strong></li><li>Experience with <strong>cloud platforms and DevOps practices.</strong></li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid Working Model: Tomar </strong>(2 days per week working from home);</li><li>Opportunity to work on AI, technology and innovation initiatives;</li></ul><ul><li>Collaborative environment with strong focus on professional growth;</li><li>Exposure to innovative projects and emerging technologies.</li></ul>"
+  },
+  {
+   "title": "Junior Fullstack Developer - AI Focus (IEFP)",
+   "shortcode": "D0474AE211",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/D0474AE211",
+   "shortlink": "https://apply.workable.com/j/D0474AE211",
+   "application_url": "https://apply.workable.com/j/D0474AE211/apply",
+   "published_on": "2026-10-28",
+   "created_at": "2026-09-09",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "Entry level",
+   "function": "Information Technology",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to drive digital transformation and build high-performing tech teams.</p><p>We are looking for a <strong>Junior Fullstack Developer</strong>, who wants to grow in a modern, <strong>AI-driven development environment</strong>.</p><p>This is not a traditional junior developer role. We are looking for someone passionate about <strong>Fullstack Development</strong>, but also genuinely curious about <strong>AI tools, automation and agentic workflows</strong> - someone who already <strong>uses AI naturally to learn faster, automate tasks and improve the way they build software.</strong><br><br><strong>Responsibilities</strong><br></p><ul><li>Develop and maintain web applications using <strong>React and Next.js;</strong></li><li>Support the development of <strong>APIs and backend services with Node.js;</strong></li><li>Participate in the <strong>implementation of new features and improvements;</strong></li><li>Collaborate with <strong>product and design teams;</strong></li><li>Explore and <strong>integrate AI tools</strong> into development workflows;</li><li>Support the creation of <strong>automations and AI</strong> - assisted solutions.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>Eligibility for IEFP Professional Internship (mandatory);</strong></li><li>Degree in <strong>Computer Engineering, Computer Science, or similar;</strong></li><li>Knowledge of <strong>React, Next.js, Node.js, REST APIs and databases;</strong></li><li>Strong motivation to learn and grow as a <strong>Fullstack Developer;</strong></li><li>Proven hands-on <strong>experience with AI projects </strong>(academic, personal or freelance);</li><li>Experience building or experimenting with <strong>AI agents, agentic workflows or AI-powered automations;</strong></li><li>Responsibility, teamwork, and proactivity;</li><li>Good English.</li></ul><p><br><br><strong>Nice to Have</strong></p><p></p><ul><li>Experience using AI coding tools such as ChatGPT, Copilot, Cursor or Claude;</li><li>Familiarity with AI APIs and agent frameworks;</li><li>Interest in prompt engineering and workflow optimization;</li><li>Basic knowledge of cloud platforms or DevOps concepts.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid working model</strong> (Porto Office);</li><li><strong>Technical guidance and continuous mentorship;</strong></li><li>Participation in <strong>real-world projects;</strong></li><li>Exposure to <strong>modern AI tools and workflows;</strong></li><li><strong>Collaborative environment with strong focus on professional growth;</strong></li><li>Opportunity for <strong>career progression.</strong></li></ul>"
+  },
+  {
+   "title": "Machine Learning Engineer",
+   "shortcode": "25BB23A5AB",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/25BB23A5AB",
+   "shortlink": "https://apply.workable.com/j/25BB23A5AB",
+   "application_url": "https://apply.workable.com/j/25BB23A5AB/apply",
+   "published_on": "2026-09-17",
+   "created_at": "2026-09-17",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "Mid-Senior level",
+   "function": "Engineering",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong>&nbsp;is a Portuguese company that partners with international organizations to build and scale exceptional tech teams.</p><p>We are looking for a <strong>Machine Learning Engineer</strong> to join a project with one of our clients, a global leader in professional information solutions and software. Operating across more than 180 countries, the company develops technology-driven solutions for industries including <strong>Healthcare, Tax &amp; Accounting, Financial &amp; Corporate Compliance, and Legal &amp; Regulatory</strong>.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li>Design, develop, and maintain scalable <strong>data and end-to-end ML pipelines</strong>, from data ingestion to production deployment.</li><li>Build and deploy <strong>ML services and APIs</strong>, ensuring reliability, scalability, and performance.</li><li>Partner with Data Scientists to transform models into robust, production-ready solutions.</li><li>Implement <strong>MLOps best practices</strong>, including CI/CD, testing, data/code quality, monitoring, and model lifecycle management.</li><li>Troubleshoot production ML systems and drive technical and architectural decisions.</li><li>Work with <strong>AWS ML services</strong>, particularly SageMaker, and containerized environments using Docker/Kubernetes.</li><li>Contribute to <strong>GenAI implementations</strong> within our platform framework.</li><li>Mentor team members and contribute to delivery in an <strong>Agile/Scrum environment</strong>.</li></ul><p><strong>Requirements</strong></p><ul><li>Degree in Computer Engineering, IT, or a related field.</li><li><strong>5+ years of experience</strong> in Backend Engineering and/or Machine Learning Engineering.</li><li>Strong production-level <strong>Python</strong> development skills.</li><li>Hands-on experience building <strong>E2E ML pipelines</strong> and deploying ML models through APIs.</li><li>Experience with <strong>SQL/NoSQL databases</strong>, testing frameworks, and data/code quality practices.</li><li>Experience with <strong>MLOps tools</strong> such as MLflow, Kubeflow, or similar.</li><li>Strong knowledge of <strong>AWS</strong>, particularly SageMaker and related ML services.</li><li>Experience with <strong>Docker and Kubernetes</strong>.</li><li>Strong understanding of ML model deployment and lifecycle management.</li><li>Fluent English and strong communication and technical decision-making skills.<br><br>Nice to Have</li><li>Experience with <strong>Computer Vision, NLP, TensorFlow/PyTorch, Scikit-Learn, Pandas, Terraform/CloudFormation, asynchronous messaging</strong>, and ML monitoring/observability tools.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid working model:</strong> 2 days per week at the office (Porto);</li><li>Collaborative and international work environment;</li><li>Opportunity to work on impactful software products and transformation projects;</li><li>Exposure to modern technologies, tools, and development practices;</li><li>Opportunity to collaborate with experienced professionals across different countries and areas of expertise.</li></ul>"
+  },
+  {
+   "title": "Mid Fullstack Developer (React & Node.js | AI / B2B)",
+   "shortcode": "0A63586FD9",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": true,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/0A63586FD9",
+   "shortlink": "https://apply.workable.com/j/0A63586FD9",
+   "application_url": "https://apply.workable.com/j/0A63586FD9/apply",
+   "published_on": "2026-10-15",
+   "created_at": "2026-10-15",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "Associate",
+   "function": "",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to drive digital transformation and build high-performing tech teams.<br>We are looking for a talented and motivated <strong>Mid Fullstack Developer (React &amp; Node.js | AI)</strong> to join an exciting project with an <strong>international technology company specializing in AI-powered software solutions for automotive dealerships</strong>.<br><br>Key Responsibilities</p><ul><li>Design, develop, and maintain scalable web applications using <strong>React and Node.js</strong>.</li><li>Build and integrate RESTful APIs and backend services.</li><li>Collaborate with cross-functional teams to deliver high-quality software solutions.</li><li>Contribute to the development and integration of AI-powered features and solutions.</li><li>Write clean, efficient, and maintainable code, following software development best practices.</li><li>Participate in code reviews, testing, debugging, and continuous improvement initiatives.</li><li>Explore and adopt new technologies, particularly in the field of Artificial Intelligence.</li></ul><p><strong>Requirements</strong></p><p>Requirements</p><ul><li><strong>3+ years of professional experience</strong> in Fullstack Development.</li><li>Strong hands-on experience with <strong>React.js and Node.js</strong>.</li><li>Solid knowledge of JavaScript and/or TypeScript.</li><li>Experience developing and integrating RESTful APIs.</li><li>Familiarity with relational and/or NoSQL databases.</li><li>Experience with Git and Agile development methodologies.</li><li><strong>Practical experience with AI technologies or AI-powered development tools</strong>, combined with a strong interest in Artificial Intelligence.</li><li>Strong problem-solving skills, autonomy, and a collaborative mindset.</li><li><strong>Fluent English (written and spoken) is mandatory.</strong></li><li><strong>Availability to work on a B2B contract basis.<br><br></strong>Nice to Have</li><ul><li>Experience with Next.js, NestJS, or Express.js.</li><li>Knowledge of cloud platforms such as AWS, Azure, or Google Cloud.</li><li>Experience with Docker and CI/CD pipelines.</li><li>Familiarity with Generative AI, Large Language Models (LLMs), and AI APIs.</li><li>Experience integrating AI services into web applications.</li><li>Knowledge of AI-assisted development tools such as GitHub Copilot, Cursor, or similar.</li></ul></ul><p><strong>Benefits</strong></p><ul><li>Opportunity to work on innovative and challenging projects.</li><li>Exposure to AI-driven technologies and modern development practices.</li><li>Collaborative and growth-oriented work environment.</li><li>Continuous learning and professional development opportunities.</li><li>Remote Work</li><li><strong>B2B collaboration model.</strong></li></ul>"
+  },
+  {
+   "title": "QA Engineer - Mobile & AI",
+   "shortcode": "B62F8A9E7E",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": true,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/B62F8A9E7E",
+   "shortlink": "https://apply.workable.com/j/B62F8A9E7E",
+   "application_url": "https://apply.workable.com/j/B62F8A9E7E/apply",
+   "published_on": "2026-10-06",
+   "created_at": "2026-09-03",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong>&nbsp;partners with organizations to&nbsp;<strong>drive digital transformation</strong>&nbsp;and&nbsp;<strong>build high-performing tech teams</strong>.</p><p>Our client is a leading digital healthcare and telemedicine companyy, enabling patients to receive medical advice and, at the doctor’s discretion, prescriptions and sick notes directly through the app.</p><p>We are looking for a <strong>QA Engineer</strong> to join the Patient Experience team and help ensure the quality of their <strong>iOS, Android and web applications</strong>. The initial focus of the role will be on <strong>hands-on manual testing</strong>, particularly across mobile applications. Over time, you will have the opportunity to expand your responsibilities into test management and automation, using tools such as <strong>Xray and Claude</strong> to improve and streamline QA processes.</p><p>We are looking for someone with a solid QA foundation, strong mobile testing experience, curiosity about AI and, most importantly, a willingness to learn and continuously improve the way quality is delivered.</p><p></p><p><strong>Responsabilities: </strong></p><ul><li>Perform hands-on manual testing across native iOS and Android applications, as well as web applications;</li><li>Plan and execute functional, regression, exploratory and other relevant testing activities;</li><li>Identify, investigate, document and track defects throughout the development lifecycle;</li><li>Collaborate closely with developers, product and other stakeholders in an Agile environment;</li><li>Contribute to test planning and continuously improve QA processes and test coverage;</li><li>Gradually develop and maintain structured test cases and test plans using Xray;</li><li>Explore the use of <strong>Claude and other AI tools</strong> to support testing, automate repetitive activities and improve QA workflows;</li><li>Contribute over time to the evolution of test automation within the team;</li><li>Proactively identify opportunities to improve product quality and testing efficiency.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>3–5 years of professional QA/testing experience;</strong></li><li>Solid hands-on experience testing <strong>mobile applications, particularly iOS and Android;</strong></li><li>Strong experience with <strong>manual testing</strong>, including functional, regression and exploratory testing;</li><li>Experience working closely with software development teams in an Agile environment;</li><li>Familiarity with bug tracking and test management processes;</li><li>Familiarity with <strong>AI tools</strong>, ideally <strong>Claude</strong>, or a strong interest in incorporating AI into QA workflows;</li><li>Willingness to learn test management and automation tools and progressively take on more automation responsibilities;</li><li>Strong analytical and problem-solving skills;</li><li>Good communication and collaboration skills;</li><li>Fluent English.</li></ul><p><strong>Benefits</strong></p><ul><li>Employment Contract.</li></ul><ul><li>Health Insurance.</li></ul><ul><li>Meal Card.</li></ul><ul><li>Remote - Must be <strong>based in Portugal</strong>.</li></ul>"
+  },
+  {
+   "title": "Web Application Developer",
+   "shortcode": "FC95B800D9",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/FC95B800D9",
+   "shortlink": "https://apply.workable.com/j/FC95B800D9",
+   "application_url": "https://apply.workable.com/j/FC95B800D9/apply",
+   "published_on": "2026-09-28",
+   "created_at": "2026-09-28",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p>We are looking for a <strong>Web Application Developer</strong> to join our client’s team, a leading company operating across various sectors, including the automotive and agricultural machinery industries, with a presence in multiple countries.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li>Develop new features and implement <strong>business requirements</strong> within the digital ecosystem, aligned with the technology roadmap for the Webshop and digital sales channels;</li><li>Contribute to the <strong>analysis, design, development and implementation of new features and improvements</strong>;</li><li>Support the <strong>application lifecycle management</strong> of the platforms under your responsibility;</li><li>Monitor <strong>platform performance and availability</strong>;</li><li>Collaborate with technical and business teams to ensure effective implementation of requirements and continuous improvement of the digital platforms.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor’s or Master’s degree in <strong>Computer Science, Software Engineering</strong> or a related field;</li><li><strong>2+ years of experience</strong> in web application development;</li><li>Strong knowledge of <strong>Django/Python (this is a must-have) </strong>and knowledge of <strong>React</strong>;</li><li>Good knowledge of <strong>SQL</strong>, preferably with development experience in SQL Server, MySQL or similar;</li><li>Experience developing <strong>E-commerce solutions</strong> is mandatory;</li><li>Knowledge of <strong>DevOps and CI/CD</strong> is a plus;</li><li>A hands-on, proactive and solution-oriented mindset;</li><li>Strong communication and collaboration skills;</li><li>Proficiency in <strong>English</strong>.</li></ul><p><strong>Benefits</strong></p><ul><li>Opportunity to work on challenging projects with <strong>international impact</strong>;</li></ul><ul><li>Continuous development and career growth opportunities;</li><li>Ongoing access to <strong>technical and behavioral training</strong>;</li><li>Benefits including <strong>health insurance, life insurance and special conditions with partners</strong>;</li><li><strong>Hybrid work model:</strong> Porto office (3 days per week working from home).</li></ul>"
+  },
+  {
+   "title": "Motoristas Internacionais de Autocarros de Turismo",
+   "shortcode": "5ECD6B38FE",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": true,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/5ECD6B38FE",
+   "shortlink": "https://apply.workable.com/j/5ECD6B38FE",
+   "application_url": "https://apply.workable.com/j/5ECD6B38FE/apply",
+   "published_on": "2026-10-15",
+   "created_at": "2026-10-15",
+   "country": "Portugal",
+   "city": "Lisbon",
+   "state": "Lisbon",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Transportation/Trucking/Railroad",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Lisbon",
+     "region": "Lisbon",
+     "hidden": true
+    }
+   ],
+   "description": "<p><strong>Gostavas de trabalhar num projeto internacional, viajar pela Europa e fazer parte do setor do turismo? Esta pode ser a oportunidade ideal para ti!</strong></p><p>A <strong>Alongside</strong> colabora com empresas nacionais e internacionais, ajudando-as a encontrar os profissionais certos para os seus projetos.</p><p>Estamos à procura de <strong>Motoristas Internacionais de Autocarros de Turismo</strong> para integrar um projeto de um dos nossos clientes no setor do turismo e transporte de passageiros, associado à operação de cruzeiros fluviais pela Europa.</p><p>Esta oportunidade envolve <strong>viagens internacionais, com operações a partir dos Países Baixos e percursos por vários países europeus.</strong></p><p></p><h3>Responsibilities</h3><ul><li>Conduzir autocarros de turismo em operações internacionais de transporte de passageiros;</li><li>Realizar transfers, excursões e circuitos turísticos;</li><li>Garantir a segurança, o conforto e a qualidade do serviço prestado aos passageiros;</li><li>Cumprir os itinerários, horários e procedimentos operacionais estabelecidos;</li><li>Assegurar o cumprimento das normas europeias relativas aos tempos de condução e descanso;</li><li>Prestar um serviço profissional e cordial aos passageiros internacionais;</li><li>Adaptar-te a diferentes condições de circulação e necessidades operacionais.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>Carta de condução válida da categoria D;</strong></li><li><strong>Certificado de Aptidão para Motorista (CAM / Código 95) válido;</strong></li><li><strong>Cartão de condutor para tacógrafo digital válido;</strong></li><li>Bons conhecimentos das normas europeias relativas aos tempos de condução e descanso;</li><li><strong>Bons conhecimentos de inglês</strong>, que permitam comunicar eficazmente num contexto internacional;</li><li>Disponibilidade para trabalhar no estrangeiro durante um <strong>mínimo de 120 dias por ano;</strong></li><li>Disponibilidade para permanecer no estrangeiro por períodos de até <strong>2 meses consecutivos;</strong></li><li>Flexibilidade e disponibilidade durante a época alta, especialmente entre <strong>junho e agosto;</strong></li><li>Sentido de responsabilidade, pontualidade e orientação para o cliente;</li><li>Experiência anterior em transporte de passageiros ou turismo será valorizada.</li></ul><p><strong>Benefits</strong></p><ul><li>Remuneração de <strong>173€ líquidos por dia trabalhado + </strong>valor adicional de <strong>10€/dia trabalhado</strong></li><li><strong>Oportunidade de integrar um projeto internacional</strong> no setor do turismo;</li><li>Possibilidade de viajar e trabalhar em diferentes países europeus;</li><li><strong>Despesas de deslocação para os Países Baixos</strong>, onde têm início as operações, asseguradas pelo cliente;</li><li><strong>Alojamento disponibilizado</strong> durante as operações internacionais;</li><li><strong>Formação inicial remunerada</strong>, incluindo deslocações, alojamento e refeições;</li><li>Formação especializada em operações de cruzeiros fluviais e transporte internacional de passageiros;</li><li>Ambiente de trabalho dinâmico e multicultural.</li></ul>"
+  },
+  {
+   "title": "People Generalist",
+   "shortcode": "CA8F40A0EB",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/CA8F40A0EB",
+   "shortlink": "https://apply.workable.com/j/CA8F40A0EB",
+   "application_url": "https://apply.workable.com/j/CA8F40A0EB/apply",
+   "published_on": "2026-10-09",
+   "created_at": "2026-03-17",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "Bachelor's Degree",
+   "experience": "Associate",
+   "function": "Human Resources",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.<br></p><p>We are looking for a highly autonomous and proactive <strong>People Generalist</strong> to join the team of a partner company. In this role, you will provide <strong>day-to-day support to employees</strong>, manage <strong>end-to-end HR processes</strong>, and contribute to <strong>HR strategy and initiatives</strong> aligned with the company’s business goals. This person will report directly to Portugal and the Netherlands, and this is an excellent opportunity to work in a <strong>dynamic and innovative environment</strong>, especially within start-ups or product-focused companies. <br><br><strong>What You’ll Do</strong></p><ul><li>Serve as the primary point of contact for employees on HR-related questions</li><li>Manage end-to-end HR processes, including recruitment, onboarding, and the full employee lifecycle</li><li>Support HR strategy and initiatives aligned with business objectives</li><li>Collaborate closely with leadership and teams to foster a positive and inclusive culture</li><li>Ensure compliance with HR policies, Portuguese labor law, and employee relations</li><li>Operational maintenance of our Office and other more operational topics as suppliers, invoices and day to day business operations to support general manager in Portugal</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor’s degree in <strong>Human Resources</strong> or a related field</li><li><strong>More than 3 years of experience</strong> in HR</li><li>Knowledge of <strong>Portuguese labor law</strong> and HR regulations</li><li>Previous experience in <strong>start-ups</strong> or <strong>product companies</strong></li><li><strong>Excellent communication</strong> skills</li><li>Highly<strong> autonomous</strong>, <strong>proactive</strong>, and <strong>hands-on</strong></li><li><strong>Fluent in English</strong> (mandatory)</li></ul><p><strong>Benefits</strong></p><p></p><ul><li>Opportunity to develop and structure HR processes in a fast-growing company</li><li>Exposure to cross-functional teams and leadership</li><li>Active participation in the company’s culture and strategic initiatives</li><li>Exposure to an international environment, collaborating with global teams and projects</li><li>Career opportunity to grow into the company with a plain white board in the HR area</li></ul>"
+  },
+  {
+   "title": "Product Owner",
+   "shortcode": "FAF09AF307",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/FAF09AF307",
+   "shortlink": "https://apply.workable.com/j/FAF09AF307",
+   "application_url": "https://apply.workable.com/j/FAF09AF307/apply",
+   "published_on": "2026-10-20",
+   "created_at": "2026-08-24",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong>&nbsp;is a Portuguese company that partners with international organizations to build and scale exceptional tech teams.</p><p>We are looking for a <strong>Product Owner </strong>to join a project with one of our clients, a global leader in professional information solutions and software. Operating across more than 180 countries, the company develops technology-driven solutions for industries including&nbsp;<strong>Healthcare, Tax &amp; Accounting, Financial &amp; Corporate Compliance, and Legal &amp; Regulatory</strong>.</p><p>You will play a key role in defining product priorities, managing the backlog and translating business and customer needs into clear, actionable requirements.</p><h3></h3><h3><strong>Responsibilities</strong></h3><ul><li>Own and manage the <strong>product backlog</strong>, ensuring priorities reflect business objectives and customer value;</li><li>Define clear and actionable <strong>user stories and acceptance criteria;</strong></li><li>Gather and analyze requirements, translating business needs into well-defined product features;</li><li>Collaborate closely with <strong>Engineering, UX, QA, Business Analysts, Product Managers and Scrum Masters;</strong></li><li>Support the team in defining and achieving sprint goals;</li><li>Participate in <strong>PI Planning, sprint reviews, retrospectives and other Agile ceremonies;</strong></li><li>Coordinate with multiple stakeholders throughout the product development lifecycle;</li><li>Contribute to product and platform transition and enablement initiatives;</li><li>Help ensure alignment between customer needs, product priorities and technical delivery.</li></ul><p><strong>Requirements</strong></p><ul><li>Minimum <strong>3 years of experience in Product Ownership or Business Analysis</strong> within SaaS or enterprise software;</li><li> Strong ability to <strong>influence and lead without authority;</strong></li><li> Strong understanding of <strong>Agile/Scrum methodologies;</strong></li><li> Excellent <strong>communication and stakeholder management skills;</strong></li><li> Bachelor's degree in <strong>Computer Science, Business, or a related field</strong>.</li></ul><p></p><p><strong>Nice to have</strong></p><ul><li>Experience with <strong>SAFe Agile;</strong> </li><li> <strong>CSPO, SAFe POPM, or equivalent certification</strong>.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid working model:</strong>&nbsp;2 days per week at the office;</li><li>Collaborative and international work environment;</li><li>Opportunity to work on impactful software products and transformation projects;</li><li>Exposure to modern technologies, tools, and development practices;</li><li>Opportunity to collaborate with experienced professionals across different countries and areas of expertise.</li></ul>"
+  },
+  {
+   "title": "Project Manager - Technology & Innovation",
+   "shortcode": "F5836E436A",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/F5836E436A",
+   "shortlink": "https://apply.workable.com/j/F5836E436A",
+   "application_url": "https://apply.workable.com/j/F5836E436A/apply",
+   "published_on": "2026-08-13",
+   "created_at": "2025-10-22",
+   "country": "Portugal",
+   "city": "Tomar",
+   "state": "Santarém District",
+   "education": "",
+   "experience": "Associate",
+   "function": "Project Management",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Tomar",
+     "region": "Santarém District",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Alongside is looking for a <strong>Project Manager with a genuine interest in AI, technology and innovation</strong> to join our team in Tomar.</p><p>This is a hands-on and highly collaborative role for someone who enjoys working with people, communicating ideas and turning conversations into action. You'll coordinate technology and innovation initiatives, working across technical teams, clients, partners and other stakeholders to keep projects moving from idea to execution.</p><p>You don't need to be an AI expert, but you should be genuinely curious about <strong>how AI is evolving and how it can be applied to solve real business problems</strong>. Strong communication is key: we're looking for someone who feels comfortable leading meetings, engaging with companies, facilitating workshops or presenting ideas to different audiences.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li>Coordinate technology and innovation projects from idea to execution;</li><li>Translate business needs into clear requirements, user stories and actionable project deliverables;</li><li>Support project planning and budget management, tracking costs, resources and priorities;</li><li>Work closely with technical teams, clients, partners and suppliers;</li><li>Track progress, anticipate risks and ensure effective follow-up;</li><li>Explore opportunities where AI and technology can address business challenges;</li><li>Translate between business and technical perspectives;</li><li>Lead meetings, workshops and project discussions with different stakeholders;</li><li>Communicate projects, ideas and technology use cases clearly to different audiences;</li><li>Contribute to presentations, events or other technology and innovation initiatives.</li></ul><p><strong>Requirements</strong></p><ul><li>Experience in Project Management, Technology Consulting, Project Coordination or a similar role;</li><li>Excellent communication and interpersonal skills;</li><li>Genuine curiosity and enthusiasm for AI and technology;</li><li>Confidence interacting with clients, partners and technical teams;</li><li>Comfortable presenting, facilitating discussions and bringing people together;</li><li>Strong organization, ownership and follow-through;</li><li>Ability to understand business problems and translate them into concrete actions;</li><li>Fluency in Portuguese and English.</li></ul><p></p><p><strong>Nice to have</strong></p><ul><li>Exposure to AI, digital transformation or technology innovation projects;</li><li>Experience working directly with companies or external partners;</li><li>Experience with workshops, presentations, events or technology communities;</li><li>Familiarity with generative AI tools and current AI use cases;</li><li>Basic understanding of APIs, cloud environments, integrations or technology infrastructure;</li><li>Experience with Jira, Linear or similar tools.</li></ul><p><strong>Benefits</strong></p><ul><li>Hybrid Work: 3 days per week on-site in Tomar;</li><li>Opportunity to work on AI, technology and innovation initiatives;</li><li>Exposure to different businesses, projects and stakeholders;</li><li>Opportunity to participate in workshops, events and technology initiatives;</li><li>International projects and clients;</li><li>Supportive and collaborative environment;</li><li>Long-term contract.</li></ul>"
+  },
+  {
+   "title": "Senior Data Engineer | Real-Time & Streaming",
+   "shortcode": "AB7117317A",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/AB7117317A",
+   "shortlink": "https://apply.workable.com/j/AB7117317A",
+   "application_url": "https://apply.workable.com/j/AB7117317A/apply",
+   "published_on": "2026-11-09",
+   "created_at": "2026-11-09",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p>We are looking for a <strong>Senior Data Engineer</strong> to join a project with one of our clients operating in the <strong>financial markets industry</strong>.</p><p>You will design, build, and operate real-time data products on an enterprise data platform, taking ownership from event ingestion and stream processing to the APIs and services used by consumers. This is a hands-on role combining advanced streaming engineering, production ownership, and technical guidance.</p><p></p><p><strong>Responsabilities: </strong></p><ul><li>Design and deliver end-to-end streaming data products using Apache Flink, Apache Kafka, and event-driven architectures.</li><li>Develop stateful stream-processing applications, including windowing, event-time handling, watermarks, checkpointing, and exactly-once processing guarantees.</li><li>Build and maintain resilient ingestion, transformation, and delivery pipelines for real-time and batch workloads.</li><li>Manage Kafka topics, partitioning, consumer groups, schemas, and schema evolution.</li><li>Design and develop REST APIs, streaming interfaces, and microservices with clear contracts, versioning, authentication, and rate limiting.</li><li>Deploy and operate services on AWS, using Infrastructure as Code with Terraform.</li><li>Embed data quality controls, automated testing, observability, and actionable alerting throughout the delivery lifecycle.</li><li>Build and improve CI/CD pipelines, including automated deployment, rollback, and safe release practices.</li><li>Monitor production services against agreed SLAs, investigate incidents, and optimise latency, throughput, reliability, and cost.</li><li>Apply security best practices across authentication, authorisation, encryption, secrets management, and least-privilege access.</li><li>Translate business requirements into technical designs, challenge assumptions, and propose practical solutions.</li><li>Review code and designs, mentor engineers, and contribute to engineering standards and technical documentation.</li></ul><p><strong>Requirements</strong></p><ul><li>7+ years of professional experience in data engineering, including at least 3 years building and operating real-time or streaming systems in production.</li><li>Strong hands-on experience with Apache Flink in production, including DataStream APIs and Flink SQL.</li><li>Strong Java skills, with experience in Python/PyFlink or Scala also valued.</li><li>Solid experience with Apache Kafka, event-driven architectures, and schema management using Avro and Schema Registry.</li><li>Proven experience building APIs and microservices using REST and OpenAPI.</li><li>Strong AWS experience, including relevant services such as MSK, Kinesis, Managed Service for Apache Flink, Lambda, API Gateway, ECS/EKS, S3, and IAM.</li><li>Strong SQL and data modelling skills across streaming and batch workloads.</li><li>Experience with CI/CD tooling such as GitLab CI or GitHub Actions, alongside automated unit, integration, contract, and load testing.</li><li>Experience with observability tools such as CloudWatch, OpenTelemetry, Prometheus, and Grafana.</li><li>Fluency in English, both written and spoken.</li></ul><p><strong>Benefits</strong></p><ul><li>The opportunity to build production-grade real-time data products within the financial markets industry.</li><li>End-to-end ownership across streaming pipelines, APIs, and production operations.</li><li>Collaboration with platform engineers, product owners, and business stakeholders.</li><li>Scope to influence technical decisions, improve engineering practices, and mentor other engineers.</li><li>Hybrid working model in Porto.</li></ul>"
+  },
+  {
+   "title": "Senior PHP Developer",
+   "shortcode": "7D26E80F32",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/7D26E80F32",
+   "shortlink": "https://apply.workable.com/j/7D26E80F32",
+   "application_url": "https://apply.workable.com/j/7D26E80F32/apply",
+   "published_on": "2026-10-14",
+   "created_at": "2026-10-14",
+   "country": "Portugal",
+   "city": "Lisbon",
+   "state": "Lisbon",
+   "education": "",
+   "experience": "",
+   "function": "Information Technology",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Lisbon",
+     "region": "Lisbon",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p>We are looking for a <strong>PHP Developer</strong> to join our client’s team, an organization operating in the <strong>higher education sector</strong>, based in Lisbon.</p><p>This professional will play a key role in maintaining, optimizing, and modernizing a complex, business-critical platform that supports multiple operational areas and integrates with several internal and external systems.</p><p>The project involves working with <strong>native PHP and MySQL</strong>, contributing to the modernization of legacy applications, improving system performance, and supporting the migration to more recent technology versions.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li>Maintain, develop, and optimize business-critical applications using <strong>native PHP and MySQL</strong>.</li><li>Contribute to the modernization of legacy systems, including migration from PHP 5 to PHP 8 and MySQL 5 to MySQL 8.</li><li>Analyze existing codebases, understand complex business logic, and identify opportunities for architectural improvements.</li><li>Develop, maintain, and troubleshoot integrations with multiple internal and external systems, including ERP platforms.</li><li>Ensure application stability, security, scalability, and performance.</li><li>Optimize database queries, connections, and processes to support high volumes of data and concurrent users.</li><li>Investigate and resolve performance bottlenecks and technical issues in legacy applications.</li><li>Support the maintenance and improvement of backend services, web applications, and internal management platforms.</li><li>Document existing functionalities, integrations, and technical processes.</li><li>Collaborate with internal stakeholders to define technical solutions and modernization strategies.</li><li>Ensure business continuity throughout migration and modernization activities.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>At least 5 years of professional experience in PHP development</strong>, ideally in complex enterprise environments.</li><li><strong>Strong hands-on experience with native PHP</strong>, without relying exclusively on frameworks such as Laravel or Symfony.</li><li>Solid experience with <strong>MySQL</strong>, including database optimization, query performance, and connection management.</li><li>Proven experience maintaining, troubleshooting, and modernizing legacy applications.</li><li>Experience working with complex integrations between different systems, APIs, and databases.</li><li>Strong understanding of software architecture, object-oriented programming, and backend development principles.</li><li>Ability to understand and maintain large, complex, and poorly documented codebases.</li><li>Experience identifying and resolving performance and scalability issues.</li><li>Strong analytical and problem-solving skills.</li><li>High level of autonomy, ownership, and technical decision-making capabilities.</li></ul><p></p><p><strong>Nice to have</strong></p><ul><li>Previous experience migrating applications from PHP 5 to PHP 8.</li><li>Experience upgrading MySQL databases from older versions to MySQL 8.</li><li>Experience integrating applications with SAP or other ERP systems.</li><li>Knowledge of Linux environments and server administration.</li><li>Experience with high-volume data processing, synchronization, and scheduled background jobs.</li><li>Knowledge of database connection pooling and performance optimization.</li><li>Experience working with systems involving multiple interconnected business modules.</li><li>Familiarity with technical documentation and legacy code refactoring.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>On-site: Lisbon</strong></li><li>Opportunity to work on a long-term project within the <strong>higher education sector.</strong></li><li>Direct involvement in the modernization of a complex and business-critical platform.</li><li>Opportunity to contribute to technical and architectural decisions.</li><li>Challenging technical environment with significant impact on daily operations.</li><li><strong>Stable project with long-term collaboration opportunities.</strong></li></ul>"
+  },
+  {
+   "title": "Senior QA Engineer (Integration Testing)",
+   "shortcode": "05BDCA7A27",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/05BDCA7A27",
+   "shortlink": "https://apply.workable.com/j/05BDCA7A27",
+   "application_url": "https://apply.workable.com/j/05BDCA7A27/apply",
+   "published_on": "2026-11-04",
+   "created_at": "2026-11-04",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "Information Technology",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p>We are looking for a <strong>Senior Integration Quality Analyst</strong> to join a project with one of our clients operating in the <strong>financial markets industry</strong>.</p><p>The ideal candidate will have strong experience in <strong>back-end and integration testing</strong>, combined with a solid understanding of quality assurance processes and release management.</p><p>This role requires a hands-on, autonomous professional who can take ownership of QA activities, assess quality risks, and ensure that software releases meet the required quality standards.</p><p></p><h3><strong>Responsibilities</strong></h3><ul><li>Take ownership of the <strong>end-to-end QA lifecycle</strong>, from requirements analysis and test planning to execution and post-production validation;</li><li>Define and manage <strong>QA scope, test coverage, quality gates, and entry/exit criteria</strong>;</li><li>Design, execute, and maintain test cases for <strong>back-end applications, APIs, middleware, and system integrations</strong>;</li><li>Perform <strong>integration, regression, and automated testing</strong>, ensuring system reliability and stability;</li><li>Identify, investigate, and track defects, performing root cause analysis when necessary;</li><li>Assess <strong>release readiness</strong>, identify potential risks, and provide clear <strong>Go/No-Go recommendations</strong>;</li><li>Collaborate with development, business, and technical teams to ensure quality standards are met;</li><li>Contribute to the continuous improvement of testing processes, automation, and quality assurance practices.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>5+ years of professional experience</strong> in Software Quality Assurance, ideally in complex back-end or integration environments;</li><li>Strong experience in <strong>back-end, middleware, and integration testing</strong>;</li><li>Solid understanding of the <strong>end-to-end QA lifecycle</strong>, including test strategy, planning, execution, defect management, regression testing, and release validation;</li><li>Hands-on experience testing <strong>APIs, system interfaces, data flows, and dependencies between applications</strong>;</li><li>Experience defining and monitoring <strong>test coverage, quality metrics, and release readiness criteria</strong>;</li><li>Experience with <strong>test automation</strong> and good knowledge of <strong>Python</strong> for scripting and automation;</li><li>Good knowledge of <strong>Linux environments</strong>;</li><li>Experience with <strong>test management and bug tracking tools</strong>, such as Jira or equivalent;</li><li>Strong analytical and problem-solving skills, including <strong>root cause analysis</strong>;</li><li>Ability to work independently, take ownership of QA activities, and coordinate with multiple stakeholders;</li><li><strong>Fluent English</strong>, both written and spoken.</li></ul><p></p><h3>Nice to have</h3><ul><li>Experience testing applications within <strong>Banking, Capital Markets, Brokerage, or Trading environments</strong>, particularly cash and/or derivatives markets;</li><li>Knowledge of <strong>trading platforms, order management systems, market data, clearing, or settlement processes</strong>;</li><li>Experience using <strong>AI tools to support or improve testing processes</strong>, including test case generation, automation, and test analysis;</li><li>Familiarity with <strong>CI/CD processes</strong> and automated regression testing.</li></ul><p><strong>Benefits</strong></p><ul><li>Hybrid working model (4x Porto Office);</li><li>Opportunity to work on <strong>challenging projects within the financial markets industry</strong>;</li><li>Collaboration with experienced technical teams in an international environment;</li><li>Exposure to complex systems and integration environments;</li><li>Professional growth and continuous learning opportunities.</li></ul>"
+  },
+  {
+   "title": "Senior Software Developer - Solutions & Delivery",
+   "shortcode": "338062AA73",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/338062AA73",
+   "shortlink": "https://apply.workable.com/j/338062AA73",
+   "application_url": "https://apply.workable.com/j/338062AA73/apply",
+   "published_on": "2026-10-19",
+   "created_at": "2026-10-19",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "Information Technology",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.</p><p>We’re looking for a S<strong>enior Software Developer </strong>who enjoys building software, understanding business needs, and working directly with clients to turn ideas into practical solutions.</p><p>This is a hands-on role with opportunities to contribute to solution design, technical proposals, and project delivery. <strong>You don’t need to have been a Tech Lead - this could be your next step.</strong></p><p></p><p><strong>Responsabilities: </strong></p><ul><li>Design, develop, and maintain software solutions, contributing hands-on throughout the delivery lifecycle.</li><li>Work with clients to understand their goals, clarify requirements, and translate business needs into technical solutions.</li><li>Contribute to project estimates and proposals, helping define scope, delivery approaches, and realistic timelines.</li><li>Present technical options clearly and help negotiate trade-offs around scope, cost, time, and quality.</li><li>Support pre-sales discussions through technical input, solution proposals, and demos.</li><li>Identify opportunities to improve or extend client solutions, working with the team to assess their value and feasibility.</li><li>Collaborate with developers and other stakeholders to manage dependencies, address risks, and deliver agreed outcomes.</li><li>Contribute to architectural decisions, code reviews, and good development practices.</li><li>Support less experienced developers through feedback and knowledge sharing.</li><li>Explore new technologies, including AI tools and automation, and assess where they can add value.</li></ul><p><strong>Requirements</strong></p><ul><li><strong>5+ years of professional experience in software development</strong>, with the ability to work independently and take responsibility for delivery.</li><li>Solid experience building and maintaining web applications, including APIs, databases, and integrations.</li><li>A good understanding of software engineering principles, application architecture, and development best practices.</li><li>A pragmatic approach to problem-solving, balancing technical quality with business priorities.</li><li>Strong communication skills and confidence discussing technical topics with both technical and non-technical stakeholders.</li><li><strong>Commercial awareness and an interest in consultative selling:</strong> understanding client challenges, recognising opportunities, and contributing to credible proposals.</li><li>Sound judgement and confidence managing expectations, discussing constraints, and challenging assumptions constructively.</li><li>A collaborative mindset, willingness to mentor others, and motivation to grow towards technical leadership.</li><li>Fluency in English, both written and spoken.</li></ul><p></p><p><strong>Nice to have:</strong></p><ul><li>Experience with <strong>JavaScript/TypeScript</strong> and technologies such as <strong>React, Next.js, or Node.js</strong>.</li><li>Previous involvement in client meetings, project estimation, technical proposals, demos, or pre-sales.</li><li>Experience supporting delivery planning or coordinating technical work within a team.</li><li>Practical experience with AI-powered tools, automation, or AI-driven solutions.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Annual gross salary between 50.000€ - 55.000€</strong>, depending on experience and skills.</li><li>The opportunity to join a growing company where your contributions have a direct impact.</li><li>A versatile role combining software development, technical decision-making, and client interaction.</li><li>The chance to grow into a technical leadership position while remaining hands-on.</li><li>Exposure to different projects, technologies, and business challenges.</li><li>Hybrid working model in Porto.</li></ul>"
+  },
+  {
+   "title": "Senior Software Engineer - Azure & .NET",
+   "shortcode": "654701E632",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/654701E632",
+   "shortlink": "https://apply.workable.com/j/654701E632",
+   "application_url": "https://apply.workable.com/j/654701E632/apply",
+   "published_on": "2026-08-19",
+   "created_at": "2026-08-19",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong>&nbsp;is a Portuguese company that partners with international organizations to build and scale exceptional tech teams.</p><p>We are looking for a<strong> Senior Software Engineer</strong> to join a project with one of our clients, a global leader in professional information solutions and software. Operating across more than 180 countries, the company develops technology-driven solutions for industries including <strong>Healthcare, Tax &amp; Accounting, Financial &amp; Corporate Compliance, and Legal &amp; Regulatory</strong>.</p><p>This person will be working on the evolution and cloud transformation of established software products, contributing to both ongoing projects and new initiatives. </p><h3></h3><h3><strong>Responsabilities:</strong></h3><ul><li>Design, develop and maintain scalable cloud-based software solutions.</li><li>Develop business logic, APIs and database integrations using the Microsoft technology stack.</li><li>Contribute to the migration and evolution of applications towards cloud-native solutions.</li><li>Work with complex software architectures and codebases.</li><li>Analyse functional requirements and translate them into appropriate technical solutions.</li><li>Assess the technical impact of new requirements and contribute to solution design.</li><li>Challenge requirements and technical designs when appropriate, providing constructive recommendations.</li><li>Contribute to testing practices and test automation.</li><li>Collaborate closely with Technical Architects, Product Owners and other engineering stakeholders.</li><li>Support and mentor less experienced engineers within the team.</li><li>Contribute to DevOps and continuous delivery practices.</li></ul><p><strong>Requirements</strong></p><ul><li>Strong professional experience with <strong>C# and .NET</strong>.</li><li>Hands-on experience with <strong>Microsoft Azure</strong>.</li><li>Experience designing and developing <strong>APIs and backend services</strong>.</li><li>Experience with <strong>Entity Framework</strong>.</li><li>Knowledge of software design patterns and good engineering practices.</li><li>Experience with messaging technologies, particularly <strong>Azure Service Bus</strong>.</li><li>Ability to produce technical analyses based on functional requirements.</li><li>Understanding of cloud architecture and modern software development practices.</li><li>Experience working within Agile development teams.</li><li>Strong communication skills and the ability to collaborate with both technical and non-technical stakeholders.</li></ul><h3></h3><p><strong>Nice to have</strong></p><ul><li>Experience with <strong>Angular and TypeScript</strong>.</li><li>Familiarity with <strong>DevOps and CI/CD practices</strong>.</li><li>Experience with <strong>Infrastructure as Code</strong>, such as Terraform or Bicep.</li><li>Knowledge of <strong>Azure Functions and other Azure cloud services</strong>.</li></ul><p><strong>Benefits</strong></p><ul><li><strong>Hybrid working model:</strong> 2 days per week at the office;</li><li>Collaborative and international work environment;</li><li>Opportunity to work on impactful software products and transformation projects;</li><li>Exposure to modern technologies, tools, and development practices;</li><li>Opportunity to collaborate with experienced professionals across different countries and areas of expertise.</li></ul>"
+  },
+  {
+   "title": "SOC Analyst L1/L2",
+   "shortcode": "3E86A66480",
+   "code": null,
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/3E86A66480",
+   "shortlink": "https://apply.workable.com/j/3E86A66480",
+   "application_url": "https://apply.workable.com/j/3E86A66480/apply",
+   "published_on": "2026-10-07",
+   "created_at": "2025-07-18",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": null,
+   "experience": "Associate",
+   "function": "",
+   "industry": "Financial Services",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>. </p><p>We are looking for a&nbsp;<strong>SOC Analyst L1/L2&nbsp;</strong>to join a project at a company specializing in the management of financial markets. The ideal candidate will have solid experience in <strong>cybersecurity</strong>, with a strong focus on <strong>threat hunting</strong> and defining rules for <strong>SIEM and EDR</strong> solutions. You will play a key role in detecting, investigating, and responding to security threats, helping to maintain and improve our organization’s security posture.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Monitor security alerts and events from SIEM, EDR, IDS/IPS, firewalls, and other security tools. </li><li>Conduct threat hunting activities to identify potential risks proactively. </li><li>Develop, tune, and maintain detection rules in SIEM and EDR platforms. </li><li>Investigate and triage security incidents, escalating complex cases when needed. </li><li>Perform root cause analysis and provide actionable recommendations. </li><li>Collaborate with IT and cybersecurity teams to implement mitigation strategies. </li><li>Document incidents, findings, and improvements to SOC processes and playbooks. </li></ul><p><strong>Requirements</strong></p><ul><li>Solid experience in cybersecurity, with a focus on threat hunting. </li></ul><ul><li>Proven experience defining rules for SIEM and EDR solutions. </li><li>Familiarity with incident response, threat intelligence, and security best practices. </li><li>Strong analytical and problem-solving skills. </li><li>Good communication skills in English. </li></ul><ul><li>Ability to work in a fast-paced, <strong>24/7</strong> operational environment (including shift work, if required).</li></ul><p><strong>Benefits</strong></p><ul><li>Employment Contract;</li><li>Health Insurance;</li><li>Meal Card;</li><li>Gym Ticket;</li><li><strong>Hybrid work (Porto) - 4x per week at the office.</strong></li></ul>"
+  },
+  {
+   "title": "Team Lead - Web Development (E-commerce)",
+   "shortcode": "3B2EA18FF3",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": "Alongside",
+   "url": "https://apply.workable.com/j/3B2EA18FF3",
+   "shortlink": "https://apply.workable.com/j/3B2EA18FF3",
+   "application_url": "https://apply.workable.com/j/3B2EA18FF3/apply",
+   "published_on": "2026-09-25",
+   "created_at": "2026-09-25",
+   "country": "Portugal",
+   "city": "Porto",
+   "state": "Porto District",
+   "education": "",
+   "experience": "Director",
+   "function": "",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Portugal",
+     "countryCode": "PT",
+     "city": "Porto",
+     "region": "Porto District",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Alongside</strong> partners with organizations to <strong>drive digital transformation</strong> and <strong>build high-performing tech teams</strong>.<br><br>We are looking for a <strong>Team Lead - Web Development</strong> to join our client’s team, a leading company operating across various sectors, including the automotive and agricultural machinery industries, with a presence in multiple countries.</p><p></p><p><strong>Your main challenges will be to:</strong></p><ul><li>Take technical ownership of the <strong>e-commerce platforms and their integrations</strong>;</li><li>Define, prioritize and manage the <strong>technology roadmap</strong> for the Webshop and other digital sales channels;</li><li>Contribute hands-on to the <strong>development and implementation of new features and improvements</strong>;</li><li>Define and continuously evolve the <strong>solution architecture</strong>, ensuring quality, security, scalability and maintainability;</li><li>Monitor <strong>platform performance, availability and reliability</strong>, while managing the application lifecycle;</li><li>Promote best practices across <strong>software development, documentation, testing and code quality</strong>;</li><li>Coordinate internal technical teams and external partners, ensuring alignment and smooth delivery;</li><li>Work closely with different stakeholders to translate business needs into effective and sustainable technical solutions.</li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor’s or Master’s degree in <strong>Computer Science, Software Engineering</strong> or a related field;</li><li><strong>5+ years of experience</strong> in application development or application management, ideally within e-commerce or digital sales environments;</li><li>Experience coordinating <strong>technical teams and/or external partners</strong>;</li><li>Solid experience developing <strong>E-commerce solutions</strong>;</li><li>Strong knowledge of <strong>Django (this is a must-have)</strong>;</li><li>Knowledge of <strong>React</strong>;</li><li>Good knowledge of <strong>SQL</strong>;</li><li>Knowledge of <strong>SAP (MD/SD), DevOps and CI/CD</strong> is a plus;</li><li>A hands-on, proactive and solution-oriented mindset;</li><li>Strong communication and collaboration skills, with the ability to work across technical and non-technical teams;</li><li>Proficiency in <strong>English</strong>.</li></ul><p><strong>Benefits</strong></p><ul><li>Technical guidance and continuous mentorship</li><li>Participation in real-world projects</li><li>Collaborative environment with a focus on professional growth</li><li>Opportunity for career progression</li><li><strong>Hybrid work model:</strong> Porto office (3 days per week working from home)</li></ul>"
+  }
+ ]
+}

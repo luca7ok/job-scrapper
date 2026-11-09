@@ -1,0 +1,290 @@
+# Seed config for the job tracker. Generated from research done on 9 Nov 2026.
+# ats_companies: slugs taken from real apply links; verify each once (a few may be stale or wrong).
+# workday slug format: tenant|wdN|site  ->  POST https://{tenant}.{wdN}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs
+
+settings:
+  include_turkey: false
+  arbeitnow_pages: 10
+  aggregators:
+    arbeitnow: true
+    adzuna: true
+
+# Title regexes (case-insensitive). Edit these to tune what counts as an entry-level SWE role.
+filters:
+  swe_strong: 'software (engineer|dev)|developer|\bSWE\b|\bSDE\b|full[- ]?stack|back[- ]?end|front[- ]?end|site reliability|forward deployed'
+  swe_broad: 'programm(er|ier|ing)|programist|programator|platform eng|infrastructure eng|cloud eng|mobile|\bios\b|android|web eng|application (dev|eng)|systems eng|developpeur|développeur|entwickl|informatik|machine learning eng|\bML eng|\bAI eng|security eng|test eng|\bQA\b|automation eng|devops|mlops|data eng|\bgame|gameplay|tools eng|compiler|embedded software|firmware|engineering intern|graduate engineer'
+  swe_strong_exclude: 'process developer|business develop|finance and accounting|developer relations manager'
+  swe_broad_exclude: 'mechanical|electrical|electronic|elektronik|elektrotechnik|mechanik|maschinenbau|civil|structural|chemical|process eng|manufactur|hardware|silicon|asic|\brtl\b|analog|\bRF\b|\bsales\b|\baccount|marketing|finance|\baudit|\btax\b|\blegal\b|\bHR\b|trader|quantitative research|research scientist|aerospace|biomed|clinical|supply chain|procurement|logistics|consult(ant|ing)|business analyst|product manag|design verification|physical design|validation eng|optical|photonic|materials|environmental'
+  always_exclude: 'apprentic|duales studium|unsolicited|spontaneous application|candidature spontan|initiativbewerbung|uopfordret|talent pool|talent community|dual(es)? studium|werkstudent|working student|\b(senior|sr\.?|staff|principal|lead|manager|director|head of|III|IV|experienced|architect)\b|fpga|layout'
+  intern: '\bintern\b|\binterns\b|internship|\bstage\b|stagiaire|praktik|stagiu|\bsummer\b|placement|\bco-?op\b|tirocinio|\bbeca\b|becario|staż|\bstaz\b'
+  new_grad: 'graduate|new grad|\bjunior\b|\bjr\.?\b|\bentry\b|entry[- ]level|early career|associate software|academy|trainee|\bprogram(me)?\b|absolvent|berufseinsteiger|\bjeune diplom'
+  phd: '\bph\.?d\b|doctoral|\bdoktorand'
+  drop_years: '\b(2024|2025)\b|(summer|spring|winter|fall|autumn)\s*2026|2026\s*(start|intern)'
+
+ats_companies:
+  - {company: "2N", ats: smartrecruiters, slug: "2NTELEKOMUNIKACEAs", midsize: true}
+  - {company: "ABB", ats: workday, slug: "abb|wd3|external_career_page", midsize: false}
+  - {company: "AJAX", ats: lever, slug: "ajax", midsize: false}
+  - {company: "ALTEN", ats: smartrecruiters, slug: "ALTEN", midsize: false}
+  - {company: "ANYbotics", ats: lever, slug: "anybotics", midsize: true}
+  - {company: "About You", ats: smartrecruiters, slug: "ABOUTYOUGmbH", midsize: true}
+  - {company: "Accenture", ats: workday, slug: "accenture|wd103|accenturecareers", midsize: false}
+  - {company: "Adobe", ats: workday, slug: "adobe|wd5|external_experienced", midsize: false}
+  - {company: "Agile Robots", ats: greenhouse, slug: "agilerobotsse", midsize: true}
+  - {company: "Airbus", ats: workday, slug: "ag|wd3|airbus", midsize: false}
+  - {company: "Alarm.com", ats: greenhouse, slug: "alarmcom", midsize: false}
+  - {company: "Alice & Bob", ats: lever, slug: "alice-bob", midsize: true}
+  - {company: "Almedia", ats: ashby, slug: "almedia", midsize: true}
+  - {company: "Alongside", ats: workable, slug: "alongside-team", midsize: false}
+  - {company: "Amadeus", ats: workday, slug: "amadeus|wd502|jobs", midsize: false}
+  - {company: "AmerisourceBergen", ats: workday, slug: "myhrabc|wd5|global", midsize: false}
+  - {company: "Analog Devices", ats: workday, slug: "analogdevices|wd1|external", midsize: false}
+  - {company: "Anduril", ats: greenhouse, slug: "andurilindustries", midsize: false}
+  - {company: "Appcast", ats: smartrecruiters, slug: "StepStoneGroup", midsize: false}
+  - {company: "Arcesium", ats: greenhouse, slug: "arcesiumllc", midsize: false}
+  - {company: "Arista Networks", ats: smartrecruiters, slug: "AristaNetworks", midsize: false}
+  - {company: "Aumovio", ats: smartrecruiters, slug: "Aumovio", midsize: false}
+  - {company: "Avanade", ats: workday, slug: "accenture|wd103|avanadecareers", midsize: false}
+  - {company: "BEUMER Group", ats: smartrecruiters, slug: "BEUMERGroup1", midsize: false}
+  - {company: "Back Market", ats: ashby, slug: "backmarket", midsize: true}
+  - {company: "BarmeniaGothaer", ats: smartrecruiters, slug: "BarmeniaGothaerAG", midsize: false}
+  - {company: "Bertelsmann", ats: smartrecruiters, slug: "Bertelsmann-Jobs", midsize: false}
+  - {company: "BlaBlaCar", ats: lever, slug: "blablacar", midsize: false}
+  - {company: "BlackLine", ats: workday, slug: "blackline|wd108|blacklinecareers", midsize: false}
+  - {company: "Bloom & Wild Group", ats: lever, slug: "bloomon", midsize: false}
+  - {company: "Bosch", ats: smartrecruiters, slug: "BoschGroup", midsize: false}
+  - {company: "Brown Brothers Harriman", ats: workday, slug: "bbh|wd5|bbh", midsize: false}
+  - {company: "CERN", ats: smartrecruiters, slug: "CERN", midsize: false}
+  - {company: "CEiiA", ats: smartrecruiters, slug: "CEiiA", midsize: false}
+  - {company: "Cabify", ats: greenhouse, slug: "cabify", midsize: true}
+  - {company: "Candescent", ats: workday, slug: "candescent|wd501|hiring", midsize: false}
+  - {company: "Canonical", ats: greenhouse, slug: "canonical", midsize: false}
+  - {company: "Celonis", ats: greenhouse, slug: "celonis", midsize: true}
+  - {company: "Cerved", ats: workday, slug: "cerved|wd3|cerved", midsize: false}
+  - {company: "Cisco", ats: workday, slug: "cisco|wd5|cisco_careers", midsize: false}
+  - {company: "Citech", ats: smartrecruiters, slug: "CITECH", midsize: false}
+  - {company: "Clear Street", ats: greenhouse, slug: "clearstreet", midsize: false}
+  - {company: "Cloudera", ats: workday, slug: "cloudera|wd5|external_career", midsize: false}
+  - {company: "Cloudflare", ats: greenhouse, slug: "cloudflare", midsize: false}
+  - {company: "Coface", ats: smartrecruiters, slug: "Coface", midsize: false}
+  - {company: "Continental AG", ats: smartrecruiters, slug: "Continental", midsize: false}
+  - {company: "Copeland", ats: workday, slug: "copeland|wd5|copeland_external_careers_page", midsize: false}
+  - {company: "Cushman & Wakefield", ats: workday, slug: "cw|wd1|external", midsize: false}
+  - {company: "D ONE", ats: workable, slug: "d-one", midsize: true}
+  - {company: "DRW", ats: greenhouse, slug: "drweng", midsize: false}
+  - {company: "DXC Technology", ats: workday, slug: "dxctechnology|wd1|dxcjobs", midsize: false}
+  - {company: "Damen Shiprepair Harlingen", ats: workday, slug: "damen|wd3|damen_careers", midsize: false}
+  - {company: "Danaher", ats: workday, slug: "danaher|wd1|danaherjobs", midsize: false}
+  - {company: "Dataiku", ats: greenhouse, slug: "dataiku", midsize: true}
+  - {company: "DeepL", ats: ashby, slug: "DeepL", midsize: true}
+  - {company: "Deloitte", ats: smartrecruiters, slug: "DeloitteAT", midsize: false}
+  - {company: "Delta Electronics", ats: smartrecruiters, slug: "DeltaElectronics", midsize: false}
+  - {company: "Dev.Pro", ats: workable, slug: "devpro", midsize: false}
+  - {company: "Digica", ats: smartrecruiters, slug: "Digica", midsize: true}
+  - {company: "Docebo", ats: ashby, slug: "docebo", midsize: false}
+  - {company: "Docplanner", ats: ashby, slug: "docplanner", midsize: true}
+  - {company: "Doctrine", ats: lever, slug: "doctrine", midsize: true}
+  - {company: "DraftKings", ats: workday, slug: "draftkings|wd1|draftkings", midsize: false}
+  - {company: "EUROPEAN DYNAMICS", ats: workable, slug: "european-dynamics", midsize: true}
+  - {company: "Edenred", ats: workday, slug: "edenpeople|wd3|edenred_careers", midsize: false}
+  - {company: "Eleks", ats: lever, slug: "eleks", midsize: true}
+  - {company: "Engineering Ingegneria Informatica", ats: workday, slug: "eng|wd3|externalcareers", midsize: false}
+  - {company: "Entrust", ats: workday, slug: "entrust|wd1|entrustcareers", midsize: false}
+  - {company: "Equativ", ats: lever, slug: "equativ", midsize: true}
+  - {company: "Escape Technologies", ats: ashby, slug: "Escape", midsize: true}
+  - {company: "Evolution", ats: smartrecruiters, slug: "Evolution", midsize: false}
+  - {company: "Fever", ats: greenhouse, slug: "feverup", midsize: true}
+  - {company: "Filevine", ats: lever, slug: "filevine", midsize: false}
+  - {company: "Finastra", ats: workday, slug: "finastra|wd3|finc", midsize: false}
+  - {company: "Flex", ats: workday, slug: "flextronics|wd1|careers", midsize: false}
+  - {company: "Försäkringsbolaget If", ats: workday, slug: "if|wd502|careers", midsize: false}
+  - {company: "GE HealthCare", ats: workday, slug: "gehc|wd5|gehc_externalsite", midsize: false}
+  - {company: "GPC", ats: workday, slug: "genpt|wd1|careers", midsize: false}
+  - {company: "General Motors", ats: workday, slug: "generalmotors|wd5|careers_gm", midsize: false}
+  - {company: "Global Payments", ats: workday, slug: "tsys|wd1|tsys", midsize: false}
+  - {company: "H&M Group", ats: smartrecruiters, slug: "HMGroup", midsize: false}
+  - {company: "HP", ats: workday, slug: "hp|wd5|externalcareersite", midsize: false}
+  - {company: "Hewlett Packard Enterprise", ats: workday, slug: "hpe|wd5|jobsathpe", midsize: false}
+  - {company: "IFF", ats: workday, slug: "iff|wd5|iff_careers", midsize: false}
+  - {company: "IMC Trading", ats: greenhouse, slug: "imc", midsize: false}
+  - {company: "INFICON", ats: smartrecruiters, slug: "INFICON2", midsize: false}
+  # smoke 2026-11-09: Workday API returns 403 "permission denied" for this site
+  - {company: "ING", ats: workday, slug: "ing|wd3|jvsgblcor", midsize: false, disabled: true}
+  - {company: "Intapp", ats: workday, slug: "intapp|wd1|intapp", midsize: false}
+  - {company: "Intel", ats: workday, slug: "intel|wd1|external", midsize: false}
+  - {company: "Johnson & Johnson", ats: workday, slug: "jj|wd5|noncompetetivehiring", midsize: false}
+  - {company: "Julius Baer", ats: workday, slug: "juliusbaer|wd3|external", midsize: false}
+  - {company: "Kardex", ats: workday, slug: "kardex|wd103|kardex", midsize: true}
+  - {company: "Keyrock", ats: ashby, slug: "Keyrock", midsize: true}
+  - {company: "Kyndryl", ats: workday, slug: "kyndryl|wd5|kyndrylprofessionalcareers", midsize: false}
+  - {company: "LEGO", ats: workday, slug: "lego|wd103|lego_external", midsize: false}
+  - {company: "Leonardo", ats: workday, slug: "leonardocompany|wd3|leonardocareersite", midsize: false}
+  - {company: "Light & Wonder", ats: workday, slug: "lnw|wd5|lightwonderexternalcareers", midsize: false}
+  - {company: "Logitech", ats: workday, slug: "logitech|wd5|logitech", midsize: false}
+  - {company: "Lombard Odier", ats: workday, slug: "lombardodier|wd3|lombard_odier_careers", midsize: false}
+  - {company: "MET Group", ats: smartrecruiters, slug: "METGroup", midsize: false}
+  - {company: "Magellan", ats: smartrecruiters, slug: "Magellan", midsize: false}
+  - {company: "Man Group", ats: greenhouse, slug: "mangroup", midsize: false}
+  - {company: "Margo", ats: lever, slug: "margo-group", midsize: false}
+  - {company: "Marsh McLennan", ats: workday, slug: "mmc|wd1|careers", midsize: false}
+  - {company: "MasterBorn", ats: lever, slug: "masterborn-2", midsize: true}
+  - {company: "Max Mara Fashion Group", ats: smartrecruiters, slug: "MaxMaraFashionGroup", midsize: false}
+  - {company: "MediaRadar", ats: workable, slug: "mediaradar", midsize: false}
+  - {company: "Mendix", ats: lever, slug: "mendix", midsize: true}
+  - {company: "Motorola Solutions", ats: workday, slug: "motorolasolutions|wd5|careers", midsize: false}
+  - {company: "Murex", ats: workday, slug: "murex|wd3|murexcareerpage1", midsize: false}
+  - {company: "NCR", ats: workday, slug: "ncr|wd1|ext_non_us", midsize: false}
+  - {company: "NVIDIA", ats: workday, slug: "nvidia|wd5|NVIDIAExternalCareerSite", midsize: false}
+  # smoke 2026-11-09: Workday API returns 422 for this site (site name likely changed)
+  - {company: "NXP Semiconductors", ats: workday, slug: "nxp|wd3|careers", midsize: false, disabled: true}
+  - {company: "Nasdaq", ats: workday, slug: "nasdaq|wd1|global_external_site", midsize: false}
+  - {company: "Netcetera (G+D)", ats: workable, slug: "netcetera", midsize: true}
+  - {company: "PPG Industries", ats: workday, slug: "ppg|wd5|ppg_careers", midsize: false}
+  - {company: "PSI CRO", ats: smartrecruiters, slug: "PSICRO", midsize: false}
+  - {company: "PTC", ats: workday, slug: "ptc|wd1|ptc", midsize: false}
+  - {company: "PVH", ats: workday, slug: "pvh|wd1|pvh_careers", midsize: false}
+  - {company: "Pernod Ricard", ats: workday, slug: "pernodricard|wd3|pernod-ricard", midsize: false}
+  - {company: "Playtech", ats: smartrecruiters, slug: "Playtech", midsize: false}
+  - {company: "Prysmian Group", ats: workday, slug: "prysmiangroup|wd3|careers", midsize: false}
+  - {company: "Qube Research & Technologies", ats: greenhouse, slug: "quberesearchandtechnologies", midsize: false}
+  - {company: "Quickbase", ats: workday, slug: "quickbase|wd504|external", midsize: false}
+  - {company: "Rabobank", ats: workday, slug: "rabobank|wd3|jobs", midsize: false}
+  - {company: "Rakuten Kobo", ats: workday, slug: "rakuten|wd1|kobo", midsize: false}
+  - {company: "Real-Time Innovations", ats: greenhouse, slug: "rti", midsize: false}
+  - {company: "Relativity", ats: workday, slug: "kcura|wd1|external_career_site", midsize: false}
+  - {company: "Renault", ats: workday, slug: "alliancewd|wd3|renault-group-careers", midsize: false}
+  - {company: "Reonic", ats: ashby, slug: "reonic", midsize: true}
+  - {company: "ReversingLabs", ats: workable, slug: "reversinglabs", midsize: false}
+  - {company: "Robotics and AI Institute", ats: lever, slug: "rai", midsize: false}
+  - {company: "Roche", ats: workday, slug: "roche|wd3|roche-ext", midsize: false}
+  - {company: "Rockwell Automation", ats: workday, slug: "rockwellautomation|wd1|external_rockwell_automation", midsize: false}
+  - {company: "Rue Gilt Groupe", ats: greenhouse, slug: "ruelala", midsize: false}
+  - {company: "SEB", ats: lever, slug: "seb", midsize: false}
+  - {company: "SEON", ats: ashby, slug: "seon", midsize: true}
+  - {company: "Sartorius", ats: workday, slug: "sartorius|wd3|sartoriuscareers", midsize: false}
+  - {company: "Scalable Capital", ats: smartrecruiters, slug: "ScalableGmbH", midsize: true}
+  - {company: "Scalian", ats: smartrecruiters, slug: "Scalian", midsize: false}
+  - {company: "Sentry", ats: ashby, slug: "sentry", midsize: false}
+  - {company: "Sia", ats: smartrecruiters, slug: "Sia", midsize: false}
+  - {company: "Sika", ats: smartrecruiters, slug: "SikaAG", midsize: false}
+  - {company: "Silicon Labs", ats: workday, slug: "silabs|wd1|internships", midsize: false}
+  - {company: "Skroutz", ats: workable, slug: "skroutz", midsize: false}
+  - {company: "Snowflake", ats: ashby, slug: "snowflake", midsize: false}
+  - {company: "Sonar", ats: lever, slug: "sonarsource", midsize: true}
+  - {company: "Sonio", ats: ashby, slug: "Sonio", midsize: true}
+  - {company: "Sopra Steria I2S", ats: smartrecruiters, slug: "SopraSteria1", midsize: false}
+  - {company: "Sportradar", ats: smartrecruiters, slug: "Sportradar", midsize: true}
+  - {company: "State Street", ats: workday, slug: "statestreet|wd1|global", midsize: false}
+  - {company: "Stryker", ats: workday, slug: "stryker|wd1|strykercareers", midsize: false}
+  - {company: "SupportYourApp", ats: workable, slug: "supportyourapp", midsize: false}
+  - {company: "Sword Health", ats: lever, slug: "swordhealth", midsize: false}
+  - {company: "TRUMPF", ats: workday, slug: "trumpf|wd3|trumpf_students", midsize: false}
+  - {company: "Taktile", ats: ashby, slug: "taktile", midsize: true}
+  - {company: "Talan", ats: smartrecruiters, slug: "Talan", midsize: false}
+  - {company: "Thales", ats: workday, slug: "thales|wd3|careers", midsize: false}
+  - {company: "Thermo Fisher Scientific", ats: workday, slug: "thermofisher|wd5|thermofishercareers", midsize: false}
+  - {company: "Tietoevry", ats: smartrecruiters, slug: "Tieto2", midsize: false}
+  - {company: "TomTom", ats: lever, slug: "tomtom", midsize: true}
+  - {company: "Trading212", ats: ashby, slug: "trading212", midsize: false}
+  - {company: "Trainline", ats: ashby, slug: "trainline", midsize: false}
+  - {company: "Unisys", ats: workday, slug: "unisys|wd5|external", midsize: false}
+  - {company: "VIAVI", ats: workday, slug: "viavisolutions|wd1|careers", midsize: false}
+  - {company: "Vanderlande", ats: workday, slug: "vanderlande|wd3|careers", midsize: false}
+  - {company: "Vattenfall", ats: smartrecruiters, slug: "Vattenfall", midsize: false}
+  - {company: "Veeam", ats: greenhouse, slug: "veeamsoftware", midsize: false}
+  - {company: "Viridien", ats: workday, slug: "cgg|wd103|viridiencareers", midsize: false}
+  - {company: "Virtu Financial", ats: greenhouse, slug: "virtu", midsize: false}
+  - {company: "Visa", ats: workday, slug: "visa|wd5|visa_talent_portal", midsize: false}
+  - {company: "Volaris Group", ats: workday, slug: "volarisgroup|wd3|volaris", midsize: false}
+  - {company: "Vontobel", ats: workday, slug: "vontobel|wd3|linkedin", midsize: false}
+  - {company: "WONGDOODY", ats: greenhouse, slug: "wongdoody", midsize: false}
+  - {company: "Wayflyer", ats: ashby, slug: "wayflyer", midsize: false}
+  - {company: "Wingtra AG", ats: lever, slug: "wingtra-2", midsize: true}
+  - {company: "Yokogawa", ats: workday, slug: "yokogawa|wd3|yokogawa-career-site", midsize: false}
+  - {company: "Zalando", ats: workday, slug: "zalando|wd3|zalandositewd", midsize: false}
+  - {company: "Zynga", ats: greenhouse, slug: "zyngacareers", midsize: false}
+  - {company: "dentsu", ats: workday, slug: "dentsuaegis|wd3|dan_global", midsize: false}
+  - {company: "flaschenpost", ats: workday, slug: "flaschenpost|wd103|flaschenpost", midsize: true}
+
+# Companies without a usable public feed (own career site). Checked by the Claude scheduled task, not the script.
+career_site_watchlist:
+  - {company: "CD PROJEKT RED", url: "https://www.cdprojektred.com/en/jobs", note: "RED Summer Internship, Jul-Sep, posted ~spring", midsize: true, last_checked: "2026-11-09"}
+  - {company: "JetBrains", url: "https://internship.jetbrains.com/", note: "project rounds each autumn and spring", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Bolt", url: "https://bolt.eu/en/careers/", note: "9-week summer internship Tallinn, posted ~early year", midsize: true, last_checked: "2026-11-09"}
+  - {company: "UiPath", url: "https://careers.uipath.com/", note: "Bucharest summer internship, posted ~spring", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Dynatrace", url: "https://careers.dynatrace.com/", note: "Software Engineering Summer Internships 2027, Austria (open)", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Bitdefender", url: "https://www.bitdefender.com/en-us/company/careers", note: "summer internships Romania; also listed on stagiipebune.ro", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Vinted", url: "https://careers.vinted.com/", note: "Engineering Academy, posted ~May for Sep start", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Mollie", url: "https://jobs.mollie.com/", note: "engineering intern + graduate program", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Adyen", url: "https://careers.adyen.com/", note: "graduate SWE Amsterdam/Madrid", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Bending Spoons", url: "https://jobs.bendingspoons.com/", note: "per-country summer interns + rolling SWE intern", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Miro", url: "https://miro.com/careers/", note: "Graduate SWE, postings ~Jan for Aug start", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Trade Republic", url: "https://traderepublic.com/careers", note: "Graduate Backend Programme Berlin/Paris", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Scalable Capital", url: "https://de.scalable.capital/en/careers", note: "Graduate Program Engineering Munich", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Glovo", url: "https://jobs.glovoapp.com/", note: "Tech Internship Program Backend, posted ~Dec", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Feedzai", url: "https://careers.feedzai.com/", note: "Summer Internships Product Engineering, posted ~Apr", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Supercell", url: "https://supercell.com/en/careers/", note: "no SWE intern found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Personio", url: "https://www.personio.com/about-personio/careers/", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "N26", url: "https://n26.com/en/careers", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Qonto", url: "https://qonto.com/en/careers", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Kiwi.com", url: "https://jobs.kiwi.com/", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Productboard", url: "https://www.productboard.com/careers/", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Pleo", url: "https://www.pleo.io/en/careers", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "OutSystems", url: "https://www.outsystems.com/company/careers/", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Talkdesk", url: "https://www.talkdesk.com/careers/", note: "nothing found yet", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Workable", url: "https://apply.workable.com/workable/", note: "3-month engineering internship (last seen 2023)", midsize: true, last_checked: "2026-11-09"}
+  - {company: "Booking.com", url: "https://careers.booking.com/early-careers", note: "SWE summer internship Amsterdam, 1 Jul start", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Wise", url: "https://wise.jobs/", note: "SWE intern Tallinn 21 Jun - 27 Aug 2027", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Google", url: "https://www.google.com/about/careers/applications/jobs/results/?q=intern%202027", note: "BS/MS + PhD interns, May/Jun/Jul start", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Microsoft", url: "https://jobs.careers.microsoft.com/global/en/search?q=intern", note: "Prague/Belgrade/London interns, July 2027 start", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Optiver", url: "https://optiver.com/working-at-optiver/career-opportunities/", note: "Software Engineer Internship (2027 Start)", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Spotify", url: "https://www.lifeatspotify.com/jobs", note: "summer internship Stockholm, mid-June start; 2027 not posted", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Allegro", url: "https://jobs.allegro.eu/e-xperience/", note: "e-Xperience 1 Jul - 31 Dec; applications ~until April", midsize: false, last_checked: "2026-11-09"}
+  - {company: "Ubisoft", url: "https://www.ubisoft.com/en-us/company/careers", note: "studio internships posted Dec-Mar", midsize: false, last_checked: "2026-11-09"}
+
+# Hand-curated roles with confirmed timing (from web research). The script merges these in as-is.
+manual_entries:
+  - {company: "Booking.com", title: "Junior Software Engineer I – Summer Internship 2027", kind: "Internship", countries: "Netherlands", locations: "Amsterdam", start: "July 2027", status: open, midsize: false, note: "9 weeks, 1 Jul – 30 Aug 2027. Must be enrolled at a Dutch university and have EEA right to work.", url: "https://www.welcometothejungle.com/en/companies/booking-com/jobs/junior-software-engineer-intern-9-week-summer-internship-2027_amsterdam_7c7br6zc"}
+  - {company: "Microsoft", title: "Software Engineering Intern – Core AI (DevDiv)", kind: "Internship", countries: "Czechia", locations: "Prague", start: "July 2027", status: open, midsize: false, note: "12 weeks, full time.", url: "https://www.eurotoptech.com/jobs/preview/software-engineering-internship-opportunities-coreai-microsoft-2481790"}
+  - {company: "Microsoft", title: "Software Engineering Intern – Microsoft Development Center Serbia", kind: "Internship", countries: "Serbia", locations: "Belgrade", start: "July 2027", status: open, midsize: false, note: "12 weeks, full time.", url: "https://www.builtincolorado.com/job/software-engineering-intern/11524589"}
+  - {company: "Microsoft", title: "Software Engineering Intern – MSAI (Search, Assistant & Intelligence)", kind: "Internship", countries: "UK", locations: "London", start: "July 2027", status: open, midsize: false, note: "12 weeks.", url: "https://www.iagora.com/work/en/offer/internship-united-kingdom-it/5440136"}
+  - {company: "Google", title: "Software Engineering / SRE BS/MS Intern, 2027 (UK)", kind: "Internship", countries: "UK", locations: "London", start: "May, June or July 2027", status: open, midsize: false, note: "13–17 weeks; no visa sponsorship.", url: "https://targetjobs.co.uk/jobs/software-engineering-site-reliability-engineering-bsms-intern-2027-247337"}
+  - {company: "Google", title: "Software Engineering / SRE BS/MS Intern, 2027 (EMEA)", kind: "Internship", countries: "Switzerland, Germany, France, Ireland, Sweden", locations: "Zurich; Munich; Paris; Dublin; Stockholm", start: "May, June or July 2027", status: open, midsize: false, note: "At least 13 weeks; you pick a preferred office.", url: "https://www.iagora.com/work/en/offer/internship-germany-it/6382766"}
+  - {company: "Google", title: "Software Engineering / SRE BS/MS Intern, 2027 (Poland)", kind: "Internship", countries: "Poland", locations: "Krakow; Warsaw", start: "May, June or July 2027", status: open, midsize: false, note: "13–17 weeks.", url: "https://www.eurotoptech.com/jobs/preview/software-engineering-site-reliability-engineering-bs-ms-intern-2027-google-krakow-2466849"}
+  - {company: "Google", title: "Software Engineering BS/MS Intern, 2027 (Romania)", kind: "Internship", countries: "Romania", locations: "Bucharest", start: "May, June or July 2027", status: open, midsize: false, note: "13–17 weeks.", url: "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273278/"}
+  - {company: "Google", title: "Software Engineering PhD Intern, 2027", kind: "Internship", countries: "Switzerland, Germany", locations: "Zurich; Munich", start: "May, June or July 2027", status: open, midsize: false, note: "13–17 weeks; PhD students.", url: "https://www.iagora.com/work/de/angebot/praktikum-schweiz-it/6346409"}
+  - {company: "Softwire", title: "Software Development Internship 2027", kind: "Internship", countries: "Romania", locations: "Bucharest", start: "Late June 2027", status: open, midsize: false, note: "Late June – mid September 2027; 9,000 RON/month. Applications close 31 Mar 2027.", url: "https://4dayweek.io/job/software-development-internship-2027-at-softwire-151722bc"}
+  - {company: "Revolut", title: "Graduate Programme 2027: Software Engineer (Python / Java / Frontend / Android)", kind: "New grad", countries: "UK, Poland, Portugal, Spain", locations: "London; Krakow; Lisbon; Porto; Madrid; Barcelona", start: "Early or late 2027", status: open, midsize: false, note: "12-month programme; choose a Jan–Jun or Jul–Dec 2027 start. Visa help offered.", url: "https://www.revolut.com/careers/position/f3f6861d-2013-4a52-b95f-15e44a73625f/"}
+  - {company: "Wise", title: "Software Engineering Intern (Summer 2027)", kind: "Internship", countries: "Estonia", locations: "Tallinn", start: "June 21, 2027", status: open, midsize: false, note: "10 weeks, 21 June – 27 Aug 2027; about €2,450/month; visa sponsorship offered.", url: "https://seoulstart.com/jobs/6908152f-a661-41db-9e2b-494908cd9d75"}
+  - {company: "IMC Trading", title: "Software Engineer Intern", kind: "Internship", countries: "Netherlands", locations: "Amsterdam", start: "Summer 2027", status: open, midsize: false, note: "10-week summer programme.", url: "https://map.rezi.ai/jobs/job/34562391/software-engineer-intern-at-imc"}
+  - {company: "Optiver", title: "Software Engineer Internship (2027 Start)", kind: "Internship", countries: "Netherlands, UK", locations: "Amsterdam; London", start: "Summer 2027", status: open, midsize: false, note: "London is a 10-week summer internship; no UK visa sponsorship.", url: "https://www.optiver.com/join-us/jobs/technology/amsterdam/software-engineer-internship-2027-start/"}
+  - {company: "Databricks", title: "Software Engineering Intern (2027 Start)", kind: "Internship", countries: "UK, Germany", locations: "London; Berlin", start: "Summer 2027", status: open, midsize: false, note: "12-week summer internship.", url: "https://builtinlondon.uk/job/software-engineering-intern-2027-start-london/11484070"}
+  - {company: "Arondite", title: "Software Engineer – Summer 2027 Intern", kind: "Internship", countries: "UK", locations: "London", start: "Summer 2027", status: open, midsize: false, note: "For students entering their final year in Sept 2027.", url: "https://apply.workable.com/arondite/jobs/view/D3211449EF"}
+  - {company: "D.E. Shaw", title: "Systems Engineering Intern (London) – Summer 2027", kind: "Internship", countries: "UK", locations: "London", start: "Summer 2027", status: open, midsize: false, note: "Software + infrastructure work. No visa sponsorship.", url: "https://www.canarywharfian.co.uk/jobs/de-shaw/systems-engineering-intern-london-summer-2027/2126385b-06f6-468a-8163-ea5213e62f36"}
+  - {company: "Bloomberg", title: "2027 Software Engineer Internship – Dublin", kind: "Internship", countries: "Ireland", locations: "Dublin", start: "Summer 2027", status: open, midsize: false, note: "Bloomberg's 2026 EMEA internships ran mid-June to late August.", url: "https://gradireland.com/jobs/2027-software-engineer-internship-dublin-249085"}
+  - {company: "Amazon", title: "2027 Software Dev Engineer Intern", kind: "Internship", countries: "Ireland, Germany, Luxembourg", locations: "Dublin; Berlin & other German sites; Luxembourg", start: "2027 (month not stated)", status: open, midsize: false, note: "Separate postings per country.", url: "https://www.workingstudentjobs.de/jobs/amazon-2027-software-dev-engineer-intern-germany-c2366511"}
+  - {company: "Dynatrace", title: "Software Engineering – Summer Internships 2027", kind: "Internship", countries: "Austria", locations: "Graz; Linz (Upper Austria); Klagenfurt", start: "Summer 2027", status: open, midsize: true, note: "Austrian-founded. Full-time (38.5 h/week), on-site 4 days a week; CV + transcript required, in English.", url: "https://www.welcometothejungle.com/en/companies/dynatrace/jobs/software-engineering-summer-internships-2027-m-f-x-graz_graz"}
+  - {company: "Bending Spoons", title: "Software engineer, summer intern Spain", kind: "Internship", countries: "Spain", locations: "Madrid", start: "June 2027", status: open, midsize: true, note: "Runs June–September 2027, so it covers July. Bending Spoons (Milan) also has a rolling SWE intern role for Milan, Madrid, Warsaw or remote.", url: "https://jobs.bendingspoons.com/positions/6890dcc0099d1fb8baf95b57"}
+  - {company: "Mistral AI", title: "Software Engineer – Paris (Internship)", kind: "Internship", countries: "France", locations: "Paris", start: "Not stated", status: open, midsize: true, note: "Full-stack (Python/TypeScript) or infra (Kubernetes/CI) work on LLM apps. On-site.", url: "https://www.welcometothejungle.com/fr/companies/mistral-ai/jobs/software-engineer-paris-internship_paris"}
+  - {company: "Doctolib", title: "Software Engineering Intern – Nantes", kind: "Internship", countries: "France", locations: "Nantes", start: "Not stated", status: open, midsize: true, note: "6-month final-year internship (stage de fin d'études), €1,500/month gross.", url: "https://www.jobleads.com/fr/job/software-engineer-intern-nantes-xfm--nantes--e6d84ede794de3cb1bf92e065dabb49ce"}
+  - {company: "Picnic", title: "Tech Summer Internship", kind: "Internship", countries: "Netherlands", locations: "Amsterdam", start: "Summer", status: open, midsize: true, note: "2-month full-time summer project (routing, AI, warehouse systems). EU citizenship required.", url: "https://builtin.com/job/tech-summer-internship/8792944"}
+  - {company: "Mollie", title: "Graduate Engineer – Application (Engineering Graduate Program)", kind: "New grad", countries: "Netherlands", locations: "Amsterdam", start: "Not stated", status: open, midsize: true, note: "Payments scale-up. Its separate Engineering Intern role is closed right now and needs NL work eligibility.", url: "https://jobs.mollie.com/vacancies/a1ec1755-a39f-42f3-8609-198e46308d11"}
+  - {company: "Adyen", title: "Graduate Software Engineer / Junior Software Engineer (Java)", kind: "New grad", countries: "Netherlands, Spain", locations: "Amsterdam; Madrid", start: "Not stated", status: open, midsize: true, note: "Office-first. Madrid also has an Integration Engineer Intern role.", url: "https://relocate.me/the-netherlands/amsterdam/adyen/graduate-software-engineer-6897"}
+  - {company: "Bitdefender", title: "Software Engineer Intern (several teams)", kind: "Internship", countries: "Romania", locations: "Bucharest; Cluj-Napoca; Iași; Timișoara", start: "Summer (after exams)", status: open, midsize: true, note: "Paid summer internships that start after the academic term; can lead to a full-time offer. Several are listed on Stagii pe Bune.", url: "https://stagiipebune.ro/jobs/bitdefender2/software-engineer-intern-70600"}
+  - {company: "GetYourGuide", title: "Associate Software Engineer", kind: "New grad", countries: "Switzerland, Germany", locations: "Zurich; Berlin", start: "Not stated", status: open, midsize: true, note: "Entry-level role, hired on a rolling basis.", url: "https://www.myjob.ch/job/associate-software-engineer/2928197"}
+  - {company: "Helsing", title: "Software Engineer Intern – Applied Machine Learning", kind: "Internship", countries: "Germany", locations: "Munich", start: "Not stated", status: open, midsize: true, note: "Defence AI. Also has working-student roles for Master's students.", url: "https://echojobs.io/job/helsing-software-engineer-intern-applied-machine-learning-1zwo0"}
+  - {company: "Proton", title: "iOS Developer Intern", kind: "Internship", countries: "Switzerland", locations: "Zurich / Geneva", start: "Not stated", status: open, midsize: true, note: "Building a new iOS app from scratch.", url: "https://jobs-radar.com/jobs/zurich/ui-designer"}
+  - {company: "CD PROJEKT RED", title: "RED Summer Internship – engineering (Online Services Java/C++, Engine C++)", kind: "Internship", countries: "Poland", locations: "Warsaw", start: "July–Sept (2026 pattern)", status: expected, midsize: true, note: "Paid, full-time, July to end of September. You must live in Poland during it; no permit or relocation help. 2026 roles were posted in spring.", url: "https://cdprojektred.com/en/blog/59/walking-through-the-red-summer-internship"}
+  - {company: "JetBrains", title: "Industry internships (IntelliJ, Kotlin, AI tools…)", kind: "Internship", countries: "Czechia, Germany, Netherlands, Poland, Serbia, Spain, Cyprus", locations: "Prague; Munich; Amsterdam; Warsaw; Belgrade; …", start: "Flexible (3–6 months)", status: expected, midsize: true, note: "Projects are published each autumn and spring; the 2026 summer/fall round closed 16 March 2026. EU, Serbian or Armenian work permit required.", url: "https://lp.jetbrains.com/internships-europe"}
+  - {company: "UiPath", title: "Summer Internship – Software Engineer (Back-end / Full-stack / Front-end)", kind: "Internship", countries: "Romania", locations: "Bucharest", start: "Summer (2026 pattern)", status: expected, midsize: true, note: "Romanian-founded. 3-month paid summer programme; the 2026 roles were posted in spring.", url: "https://jobs.therundown.ai/jobs/115162853-software-engineer-intern"}
+  - {company: "Bolt", title: "Summer Internship – Software Engineering", kind: "Internship", countries: "Estonia", locations: "Tallinn", start: "Summer (2026 pattern)", status: expected, midsize: true, note: "9-week summer programme at HQ; the 2026 cohort was 47 interns.", url: "https://www.iagora.com/work/de/angebot/praktikum-estonien-it/5918143"}
+  - {company: "Celonis", title: "Engineering Intern", kind: "Internship", countries: "Germany", locations: "Munich", start: "Summer (2026 pattern)", status: expected, midsize: true, note: "Applications for the summer programme open at the start of each year (expected Jan–Feb 2027).", url: "https://www.extern.com/post/celonis-internship-guide"}
+  - {company: "Vinted", title: "Engineering Academy – Junior Backend / Web / iOS Engineer", kind: "New grad", countries: "Lithuania", locations: "Vilnius; Kaunas", start: "Autumn (2026 pattern)", status: expected, midsize: true, note: "6-month paid academy (2-month induction plus 4 months in a team). The 2026 cohort started 7 Sept; roles were posted in May.", url: "https://www.iagora.com/work/en/offer/graduate-programme-lithuania-it/6143165"}
+  - {company: "Glovo", title: "Tech Internship Program – Backend", kind: "Internship", countries: "Spain", locations: "Barcelona", start: "Not stated", status: expected, midsize: true, note: "6-month programme (Java/Kotlin) that can convert to a Junior Backend role. The last edition was posted in Dec 2025.", url: "https://builtin.com/job/tech-internship-program-backend-they-she-he/8057894"}
+  - {company: "Cabify", title: "Software Engineer – Internship Program / SE I Development Program", kind: "Internship", countries: "Spain", locations: "Madrid", start: "Not stated", status: expected, midsize: true, note: "Backend (Go, Elixir, Ruby). Needs English and Spanish.", url: "https://job-boards.greenhouse.io/cabify/jobs/7865496002"}
+  - {company: "Feedzai", title: "Summer Internships – Product Engineering", kind: "Internship", countries: "Portugal", locations: "Lisbon; Coimbra; Porto", start: "Summer (2026 pattern)", status: expected, midsize: true, note: "Platform, software, mobile, frontend, security and data teams. For students in Portugal; 2026 roles were posted in April.", url: "https://www.jobera.com/job/feedzai-summer-internships-product-engineering-7857617/"}
+  - {company: "Trade Republic", title: "Graduate Backend Engineering Programme", kind: "New grad", countries: "Germany, France", locations: "Berlin; Paris", start: "Not stated", status: expected, midsize: true, note: "Last posted June 2026; the Berlin listing has since closed.", url: "https://startup.jobs/graduate-backend-engineering-programme-berlin-trade-republic-2-7986043"}
+  - {company: "Scalable Capital", title: "Graduate Program – Engineering / Data & AI Engineering", kind: "New grad", countries: "Germany", locations: "Munich", start: "Not stated", status: expected, midsize: true, note: "Fintech, about 700 staff. The 2026 programme is posted; watch for 2027.", url: "https://builtin.com/job/graduate-program-2026-engineering-m-f-x-munich/9235261"}
+  - {company: "Miro", title: "Graduate Software Engineer (12-month programme)", kind: "New grad", countries: "Netherlands, Germany", locations: "Amsterdam; Berlin", start: "August 2027 (expected)", status: expected, midsize: true, note: "Postings are expected around January 2027 for an August 2027 cohort.", url: "https://www.extern.com/post/miro-internship-guide"}
+  - {company: "DeepL", title: "Software engineering working student / intern", kind: "Internship", countries: "Germany", locations: "Cologne", start: "Not stated", status: expected, midsize: true, note: "No set cohort; roles usually appear Jan–Mar for a summer start.", url: "https://www.extern.com/post/deepl-internship-guide"}
+  - {company: "Netcetera (G+D)", title: "Summer Internship – Software Engineer", kind: "Internship", countries: "North Macedonia", locations: "Skopje; Bitola; Ohrid", start: "July (2026 pattern)", status: expected, midsize: true, note: "3 months full-time; the 2026 round started 15 July.", url: "https://apply.workable.com/netcetera/jobs/view/AE07DC80FA"}

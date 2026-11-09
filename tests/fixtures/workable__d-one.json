@@ -1,0 +1,426 @@
+{
+ "name": "D ONE",
+ "description": null,
+ "jobs": [
+  {
+   "title": "Data & AI Engineer (Athens, Greece)",
+   "shortcode": "30B77E6E63",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/30B77E6E63",
+   "shortlink": "https://apply.workable.com/j/30B77E6E63",
+   "application_url": "https://apply.workable.com/j/30B77E6E63/apply",
+   "published_on": "2026-04-15",
+   "created_at": "2026-04-15",
+   "country": "Greece",
+   "city": "Athens",
+   "state": "Attica",
+   "education": "Master's Degree",
+   "experience": "Mid-Senior level",
+   "function": "Consulting",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Greece",
+     "countryCode": "GR",
+     "city": "Athens",
+     "region": "Attica",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation. We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and people focus.</p><p>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise along the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.<br></p><p>In this role you will advise our clients during the conception, planning and implementation of data &amp; AI solutions. Based in our consulting hub in Athens, you will work with your project team to provide our clients the high quality and reliability we are known for.</p><p><strong>Your tasks will include:</strong></p><ul><li>Analyzing requirements and designing tailored data solutions</li><li>Contributing to various project areas, which may include cloud engineering, infrastructure, data engineering (ETL), data science, and generative AI applications</li><li>Presenting results and insights to stakeholders and management</li><li>Occasionally traveling to Switzerland and internationally to meet clients and collaborate with our team at headquarters in Zurich</li></ul><p><strong>What you bring:</strong></p><ul><li>University degree in Computer Science or related fields.</li><li>Knowledge in relevant technologies and programming languages (e.g. SQL, Python, Spark).</li><li>Experience in working with large data sets, streaming data and databases.</li><li>Experience in Cloud development and architecture - in at least one of the following platforms: Azure, AWS, GCP.</li><li>Hands-on experience developing on Databricks, Microsoft Fabric, or Palantir Foundry.</li><li>Down-to-earth- and pragmatic result oriented attitude.</li><li>Excellent communication skills in English.</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socializing events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation AE<br>Stamatis Stefanakos<br>Mourouzi 10 <br>Athens 106 74</p>"
+  },
+  {
+   "title": "Full-stack AI Engineer (Athens, Greece)",
+   "shortcode": "D5CFBFB37D",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/D5CFBFB37D",
+   "shortlink": "https://apply.workable.com/j/D5CFBFB37D",
+   "application_url": "https://apply.workable.com/j/D5CFBFB37D/apply",
+   "published_on": "2026-06-26",
+   "created_at": "2026-05-05",
+   "country": "Greece",
+   "city": "Athens",
+   "state": "Attica",
+   "education": "Master's Degree",
+   "experience": "Mid-Senior level",
+   "function": "Consulting",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Greece",
+     "countryCode": "GR",
+     "city": "Athens",
+     "region": "Attica",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation. We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and people focus.</p><p>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise along the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>In this role you will design and build end-to-end AI-powered applications for our clients: from backend logic and data pipelines to polished user-facing interfaces. Based in our consulting hub in Athens, you will work with your project team to deliver the high quality and reliability we are known for.</p><p><strong>Your tasks will include:</strong></p><ul><li>Analyzing requirements and designing tailored full-stack AI solutions</li><li>Building and integrating end-to-end applications spanning frontend interfaces, backend services, APIs, and AI/ML components</li><li>Developing and deploying generative AI features, including LLM integrations, RAG pipelines, and AI agents</li><li>Presenting results and prototypes to stakeholders and management</li><li>Occasionally traveling to Switzerland and internationally to meet clients and collaborate with our team at headquarters in Zurich</li></ul><p><strong>What you bring:</strong></p><ul><li>University degree in Computer Science or related fields</li><li>Strong proficiency in full-stack development, including frontend frameworks (e.g. React, Vue) and backend technologies (e.g. Python, Node.js, REST/GraphQL APIs)</li><li>Hands-on experience building and integrating AI/ML models and LLM-based applications (e.g. using OpenAI, Anthropic, LangChain, or similar)</li><li>Familiarity with cloud development and deployment in at least one of the following platforms: Azure, AWS, GCP</li><li>Experience with databases (relational and/or vector databases) and data handling fundamentals</li><li>Down-to-earth and pragmatic, result-oriented attitude</li><li>Excellent communication skills in English</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socializing events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation AE<br>Stamatis Stefanakos<br>Mourouzi 10 <br>Athens 106 74</p>"
+  },
+  {
+   "title": "Internship - Agentic Software Engineering (Zurich, Switzerland)",
+   "shortcode": "BD5B4B9966",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/BD5B4B9966",
+   "shortlink": "https://apply.workable.com/j/BD5B4B9966",
+   "application_url": "https://apply.workable.com/j/BD5B4B9966/apply",
+   "published_on": "2026-10-12",
+   "created_at": "2026-10-08",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Fixed-term contract (typically 3 months) · 80–100% · Zürich · Students (Bachelor, Master or PhD level)</p><p>«Making sense of data is the winning competence in all industries.»</p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>Agentic coding tools have changed how software gets written, faster than the profession has worked out how to use them well. In this internship you will work independently on a topic in this area: building real software with these tools, studying what actually works, and working alongside senior D ONE consultants.</p><p></p><p>Your tasks will include:</p><ul><li>Building software with agentic coding tools, and paying attention to where they help and where they get in the way.</li><li>Researching the topic across academic literature, vendor documentation and practitioner sources.</li><li>Comparing tools and working styles on realistic engineering tasks.</li><li>Working with senior consultants to capture their practical experience.</li><li>Documenting your work and presenting it to a technical and a non-technical audience.</li></ul><p></p><p>What you bring:</p><ul><li>Current enrolment in a Bachelor's, Master's or PhD programme in Computer Science, Data Science, Computational Linguistics, Engineering, Mathematics or a comparable field.</li><li>Interest in at least one industry domain and curiosity about how data creates value in it.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Experience in working with large data sets and databases.</li><li>Knowledge in relevant technologies and programming languages (e.g. Python, SQL, Git, Spark, cloud platforms).</li><li>Excellent communication skills in English; German is a strong plus.</li></ul><p></p><p>Preferred qualifications:</p><ul><li>Practical experience using agentic coding tools such as Claude Code, Cursor, GitHub Copilot, Zed or OpenCode on your own projects.</li><li>Care for how code is structured: readable modules, sensible abstractions, and an instinct for when something is getting too complicated.</li><li>Awareness that performance matters, and the ability to reason about why one implementation is slower than another.</li><li>Comfort finding your way around a codebase you did not write.</li><li>Solid habits around testing and version control.</li><li>A critical eye for code generated by a model, and a working understanding of large language models and tool calling.</li><li>Enjoyment of research and writing: reading widely, separating evidence from marketing, and explaining what you found.</li></ul><p></p><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Direct mentoring by senior D ONE consultants, plus access to our D ONE Academy including knowledge sharing sessions, expert and working groups.</li><li>A clearly scoped topic that is yours to own, with the freedom to shape how you approach it.</li><li>Frequent offsite socialising events.</li><li>A realistic path to joining D ONE as a consultant after a successful internship.</li></ul><p></p><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li><li>Work independently and structure your own progress, while knowing when to pull in a senior colleague.</li></ul><p></p><p>Are you interested in joining a great team with a proven track record and to work on a topic that will constantly challenge you?</p><p></p><p>We are happy to receive your application with reference:</p><p>D ONE Value Creation AG</p><p>Sihlfeldstrasse 58</p><p>8003 Zürich</p><p></p>"
+  },
+  {
+   "title": "Internship - Evaluation of Retrieval-Augmented Generation Systems (Zurich)",
+   "shortcode": "80AE94C868",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/80AE94C868",
+   "shortlink": "https://apply.workable.com/j/80AE94C868",
+   "application_url": "https://apply.workable.com/j/80AE94C868/apply",
+   "published_on": "2026-10-12",
+   "created_at": "2026-10-08",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Fixed-term contract (typically 3 months) · 80–100% · Zürich · Students (Bachelor, Master or PhD level)</p><p>«Making sense of data is the winning competence in all industries.»</p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>In this internship you will work independently on a topic in the area of evaluating generative AI systems. You will turn fuzzy questions about quality into measurements that people trust, and make those measurements repeatable.</p><p></p><p>Your tasks will include:</p><ul><li>Reviewing evaluation methodology for retrieval-augmented and generative systems.</li><li>Designing and implementing automated evaluation logic in Python.</li><li>Building and curating test data sets, including gold standards and synthetic cases.</li><li>Analysing results statistically and turning them into clear, defensible conclusions.</li><li>Documenting your work and presenting it to a technical and a non-technical audience.</li></ul><p></p><p>What you bring:</p><ul><li>Current enrolment in a Bachelor's, Master's or PhD programme in Computer Science, Data Science, Computational Linguistics, Engineering, Mathematics or a comparable field.</li><li>Interest in at least one industry domain and curiosity about how data creates value in it.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Experience in working with large data sets and databases.</li><li>Knowledge in relevant technologies and programming languages (e.g. Python, SQL, Git, Spark, cloud platforms).</li><li>Excellent communication skills in English; German is a strong plus.</li></ul><p></p><p>Preferred qualifications:</p><ul><li>Working understanding of large language models and retrieval-augmented generation, and of where such systems typically fail.</li><li>Familiarity with evaluation concepts such as faithfulness, groundedness, answer relevance, context precision and recall, and hallucination detection.</li><li>Exposure to evaluation tooling such as RAGAS, DeepEval, promptfoo, TruLens or LangSmith, or a willingness to build equivalent logic yourself.</li><li>Experience with LLM-as-a-judge techniques, and a healthy scepticism about their reliability.</li><li>Solid statistical foundations: sampling, significance testing, confidence intervals, inter-annotator agreement.</li><li>Practical skills in test-set construction, annotation guidelines and synthetic data generation.</li><li>Software engineering discipline: reusable Python packages, automated test suites, CI, reproducible experiment pipelines.</li><li>Ability to communicate quantitative results visually and concisely (e.g. pandas, plotly, matplotlib, dashboards).</li></ul><p></p><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Direct mentoring by senior D ONE consultants, plus access to our D ONE Academy including knowledge sharing sessions, expert and working groups.</li><li>A clearly scoped topic that is yours to own, with the freedom to shape how you approach it.</li><li>Frequent offsite socialising events.</li><li>A realistic path to joining D ONE as a consultant after a successful internship.</li></ul><p></p><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li><li>Work independently and structure your own progress, while knowing when to pull in a senior colleague.</li></ul><p></p><p>Are you interested in joining a great team with a proven track record and to work on a topic that will constantly challenge you?</p><p></p><p>We are happy to receive your application with reference:</p><p>D ONE Value Creation AG</p><p>Sihlfeldstrasse 58</p><p>8003 Zürich</p><p></p>"
+  },
+  {
+   "title": "Internship - LLM-Based Information Extraction (Zurich, Switzerland)",
+   "shortcode": "CA217B6985",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/CA217B6985",
+   "shortlink": "https://apply.workable.com/j/CA217B6985",
+   "application_url": "https://apply.workable.com/j/CA217B6985/apply",
+   "published_on": "2026-10-12",
+   "created_at": "2026-10-08",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Fixed-term contract (typically 3 months) · 80–100% · Zürich · Students (Bachelor, Master or PhD level)</p><p>«Making sense of data is the winning competence in all industries.»</p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>In this internship you will work independently on a topic in the area of automated understanding of business documents. You will move from raw, messy documents to structured, verifiable information, and make the approach hold up across domains.</p><p></p><p>Your tasks will include:</p><ul><li>Reviewing current approaches to information extraction from unstructured and semi-structured documents.</li><li>Designing and implementing extraction pipelines in clean, modular, well-tested Python.</li><li>Building annotated data sets and measuring extraction quality rigorously.</li><li>Handling real-world document variety: layouts, languages, scan quality and edge cases.</li><li>Documenting your work and presenting it to a technical and a non-technical audience.</li></ul><p></p><p>What you bring:</p><ul><li>Current enrolment in a Bachelor's, Master's or PhD programme in Computer Science, Data Science, Computational Linguistics, Engineering, Mathematics or a comparable field.</li><li>Interest in at least one industry domain and curiosity about how data creates value in it.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Experience in working with large data sets and databases.</li><li>Knowledge in relevant technologies and programming languages (e.g. Python, SQL, Git, Spark, cloud platforms).</li><li>Excellent communication skills in English; German is a strong plus.</li></ul><p></p><p>Preferred qualifications:</p><ul><li>Solid NLP foundations, in particular named entity recognition, relation extraction and text classification.</li><li>Working understanding of large language models and of prompting, structured output and function calling.</li><li>Experience enforcing schemas on model output (e.g. Pydantic, Instructor, Outlines, JSON Schema, constrained decoding).</li><li>Familiarity with document parsing and OCR tooling (e.g. docling, unstructured, PyMuPDF, Tesseract, Azure Document Intelligence) and with layout-aware models.</li><li>Practical skills in annotation: guideline design, gold-standard creation and inter-annotator agreement.</li><li>Command of extraction metrics: entity-level precision, recall and F1, span matching, and error analysis.</li><li>Comfort working with German and English documents; further languages are welcome.</li><li>Awareness of data protection and PII handling, including anonymisation and pseudonymisation techniques.</li><li>Software engineering discipline: reusable Python packaging, configuration, automated tests and CI.</li></ul><p></p><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Direct mentoring by senior D ONE consultants, plus access to our D ONE Academy including knowledge sharing sessions, expert and working groups.</li><li>A clearly scoped topic that is yours to own, with the freedom to shape how you approach it.</li><li>Frequent offsite socialising events.</li><li>A realistic path to joining D ONE as a consultant after a successful internship.</li></ul><p></p><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li><li>Work independently and structure your own progress, while knowing when to pull in a senior colleague.</li></ul><p></p><p>Are you interested in joining a great team with a proven track record and to work on a topic that will constantly challenge you?</p><p></p><p>We are happy to receive your application with reference:</p><p>D ONE Value Creation AG</p><p>Sihlfeldstrasse 58</p><p>8003 Zürich</p><p></p>"
+  },
+  {
+   "title": "Internship - Red Teaming of LLM and Agent-Based Applications (Zurich)",
+   "shortcode": "7A3FF9AB88",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/7A3FF9AB88",
+   "shortlink": "https://apply.workable.com/j/7A3FF9AB88",
+   "application_url": "https://apply.workable.com/j/7A3FF9AB88/apply",
+   "published_on": "2026-10-12",
+   "created_at": "2026-10-08",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>Fixed-term contract (typically 3 months) · 80–100% · Zürich · Students (Bachelor, Master or PhD level)</p><p>«Making sense of data is the winning competence in all industries.»</p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>In this internship you will work independently on a topic in the area of AI security and safety testing. You will probe generative AI systems for weaknesses, and turn what you learn into tooling and guidance that others can reuse.</p><p></p><p>Your tasks will include:</p><ul><li>Reviewing the current landscape of attacks and defences for LLM and agent-based applications.</li><li>Designing and implementing adversarial test cases and automating their execution in Python.</li><li>Assessing systems against recognised security and governance frameworks.</li><li>Analysing findings, judging their severity and proposing mitigations.</li><li>Documenting your work and presenting it to a technical and a non-technical audience.</li></ul><p></p><p>What you bring:</p><ul><li>Current enrolment in a Bachelor's, Master's or PhD programme in Computer Science, Data Science, Computational Linguistics, Engineering, Mathematics or a comparable field.</li><li>Interest in at least one industry domain and curiosity about how data creates value in it.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Experience in working with large data sets and databases.</li><li>Knowledge in relevant technologies and programming languages (e.g. Python, SQL, Git, Spark, cloud platforms).</li><li>Excellent communication skills in English; German is a strong plus.</li></ul><p></p><p>Preferred qualifications:</p><ul><li>Working understanding of large language models, retrieval-augmented generation and tool-using agents.</li><li>Familiarity with LLM-specific attack classes: prompt injection (direct and indirect), jailbreaks, data and system-prompt exfiltration, insecure output handling, excessive agency and tool misuse.</li><li>Awareness of the OWASP Top 10 for LLM Applications, the NIST AI Risk Management Framework and the EU AI Act.</li><li>Exposure to red teaming or security testing tooling such as Garak, PyRIT, promptfoo or equivalent, or general penetration-testing experience.</li><li>Ability to automate attack generation and scoring, including adaptive and multi-turn strategies.</li><li>Knowledge of defensive measures: input and output guardrails, sandboxing, least-privilege tool design, content filtering.</li><li>Software engineering discipline: extensible Python frameworks, plugin architectures, automated test suites, CI.</li><li>Rigorous, reproducible reporting and a responsible-disclosure mindset; strong professional ethics in handling sensitive findings.</li></ul><p></p><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Direct mentoring by senior D ONE consultants, plus access to our D ONE Academy including knowledge sharing sessions, expert and working groups.</li><li>A clearly scoped topic that is yours to own, with the freedom to shape how you approach it.</li><li>Frequent offsite socialising events.</li><li>A realistic path to joining D ONE as a consultant after a successful internship.</li></ul><p></p><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li><li>Work independently and structure your own progress, while knowing when to pull in a senior colleague.</li></ul><p></p><p>Are you interested in joining a great team with a proven track record and to work on a topic that will constantly challenge you?</p><p></p><p>We are happy to receive your application with reference:</p><p>D ONE Value Creation AG</p><p>Sihlfeldstrasse 58</p><p>8003 Zürich</p><p></p>"
+  },
+  {
+   "title": "Internship - Retrieval-Augmented Generation Architectures (Zurich, Switzerland)",
+   "shortcode": "3727B13283",
+   "code": "",
+   "employment_type": "",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/3727B13283",
+   "shortlink": "https://apply.workable.com/j/3727B13283",
+   "application_url": "https://apply.workable.com/j/3727B13283/apply",
+   "published_on": "2026-10-12",
+   "created_at": "2026-10-08",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>Fixed-term contract (typically 3 months) · 80–100% · Zürich · Students (Bachelor, Master or PhD level)</strong></p><p></p><p>«Making sense of data is the winning competence in all industries.»</p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>In this internship you will work independently on a topic in the area of retrieval-augmented generation (RAG) system design. You will study the current state of the art, build and refine working software, measure what you build, and share your findings with our consultants and clients.</p><p></p><p>Your tasks will include:</p><ul><li>Reviewing the state of the art in retrieval-augmented generation and selecting approaches worth building on.</li><li>Designing and implementing RAG components in clean, modular, well-tested Python.</li><li>Running the same solution across local and cloud environments and reasoning about the trade-offs.</li><li>Systematically benchmarking configurations and interpreting the results.</li><li>Documenting your work and presenting it to a technical and a non-technical audience.</li></ul><p></p><p>What you bring:</p><ul><li>Current enrollment in a Bachelor's, Master's or PhD programme in Computer Science, Data Science, Computational Linguistics, Engineering, Mathematics or a comparable field.</li><li>Interest in at least one industry domain and curiosity about how data creates value in it.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Experience in working with large data sets and databases.</li><li>Knowledge in relevant technologies and programming languages (e.g. Python, SQL, Git, Spark, cloud platforms).</li><li>Excellent communication skills in English; German is a strong plus.</li></ul><p></p><p>Preferred qualifications:</p><ul><li>Working understanding of large language models, embeddings and vector search, and of how retrieval and generation interact.</li><li>Hands-on experience with orchestration libraries such as LangChain, LlamaIndex or Haystack, and with vector stores such as pgvector, Qdrant, Weaviate, Chroma or FAISS.</li><li>Familiarity with document ingestion, chunking and indexing strategies, and with hybrid retrieval (lexical and dense) and re-ranking.</li><li>Software engineering discipline: modular package design, configuration management (e.g. Hydra, Pydantic settings), dependency management, unit testing and CI.</li><li>Ability to run models both locally (e.g. Ollama, vLLM, llama.cpp) and via hosted APIs, and to containerise workloads with Docker.</li><li>Exposure to at least one cloud platform (Azure, AWS or GCP) and its managed AI and vector services.</li><li>Comfort with structured experimentation: parameter sweeps, experiment tracking (e.g. MLflow, Weights &amp; Biases) and reproducible runs.</li><li>An eye for performance and cost: latency, throughput, token economics and caching.</li></ul><p></p><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Direct mentoring by senior D ONE consultants, plus access to our D ONE Academy including knowledge sharing sessions, expert and working groups.</li><li>A clearly scoped topic that is yours to own, with the freedom to shape how you approach it.</li><li>Frequent offsite socialising events.</li><li>A realistic path to joining D ONE as a consultant after a successful internship.</li></ul><p></p><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li><li>Work independently and structure your own progress, while knowing when to pull in a senior colleague.</li></ul><p></p><p>Are you interested in joining a great team with a proven track record and to work on a topic that will constantly challenge you?</p><p></p><p>We are happy to receive your application with reference:</p><p>D ONE Value Creation AG</p><p>Sihlfeldstrasse 58</p><p>8003 Zürich</p><p></p>"
+  },
+  {
+   "title": "AI Engineering Consultant (Zurich, Switzerland)",
+   "shortcode": "0293C6A716",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/0293C6A716",
+   "shortlink": "https://apply.workable.com/j/0293C6A716",
+   "application_url": "https://apply.workable.com/j/0293C6A716/apply",
+   "published_on": "2026-09-30",
+   "created_at": "2026-09-29",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "Consulting",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation. We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and a focus on people.</p><p>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise across the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>In this role, you will advise our clients on the design and implementation of production-grade AI solutions, from generative AI applications and agentic systems to machine learning use cases embedded in business processes. You will translate business problems into robust AI architectures, build and evaluate solutions hands-on, and take them beyond the prototype into reliable, governed production systems on platforms such as Databricks or Azure. Based in our Zurich office, you will work with your team to provide our clients with the high quality and reliability we are known for.</p><p>Your tasks will include:</p><ul><li>Analysis of business and technical requirements, and identification of AI use cases with clear business value</li><li>Design and implementation of AI solutions such as RAG systems, AI agents, and LLM-powered applications, in close collaboration with client and project teams</li><li>Setting up evaluation, monitoring, and guardrails so that AI solutions are measurable, reliable, and safe to operate</li><li>Integration of AI solutions into existing data platforms, applications, and business processes</li><li>Contribution to data &amp; AI initiatives across cloud architecture, data engineering, data science, and AI governance</li><li>Communication of recommendations, insights, and results to senior stakeholders and management</li></ul><p>What you bring:</p><ul><li>At least a Bachelor's degree in Computer Science or a related field; an MSc or PhD is strongly preferred</li><li>Domain knowledge in at least one industry</li><li>A highly analytical and structured mindset, with strong problem-solving skills and the ability to communicate complex topics clearly and convincingly to both technical and non-technical stakeholders</li><li>Excellent verbal and written communication skills in English (mandatory); German is strongly preferred</li><li>3+ years of proven experience in software engineering, ML engineering, or data science, including at least one AI or ML solution taken into production</li><li>Hands-on experience building LLM-based applications (e.g. RAG, agents, tool use, prompt and context engineering) and evaluating them systematically</li><li>Strong Python and software engineering fundamentals (APIs, testing, CI/CD, version control), plus solid SQL</li><li>Experience with Databricks (Mosaic AI, MLflow, AI Vector Search) and/or Azure AI services (Azure AI Foundry, Azure OpenAI), or comparable platforms such as AWS Bedrock or Google Vertex AI</li><li>Hands-on experience with orchestration libraries such as LangChain or LlamaIndex, and with vector stores such as pgvector, Qdrant, Chroma or FAISS.</li><li>Familiarity with MLOps/LLMOps practices and responsible AI principles.</li><li>An eye for performance and cost: latency, throughput, token economics and caching.</li></ul><p>What we offer:</p><ul><li>An uncomplicated and low noise environment that enables you to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socialising events.</li></ul><p>To be successful in this role you will need to:</p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</p><p>We are happy to receive your application with reference:<br> D ONE Value Creation AG<br> Sihlfeldstrasse 58<br> 8003 Zürich</p>"
+  },
+  {
+   "title": "Data & AI Consulting Manager (Athens, Greece)",
+   "shortcode": "F703DFC50E",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/F703DFC50E",
+   "shortlink": "https://apply.workable.com/j/F703DFC50E",
+   "application_url": "https://apply.workable.com/j/F703DFC50E/apply",
+   "published_on": "2026-09-30",
+   "created_at": "2026-09-30",
+   "country": "Greece",
+   "city": "Athens",
+   "state": "Attica",
+   "education": "Bachelor's Degree",
+   "experience": "Mid-Senior level",
+   "function": "Consulting",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Greece",
+     "countryCode": "GR",
+     "city": "Athens",
+     "region": "Attica",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation.</p><p>We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and people focus. From Zurich, Munich, and Athens, we support clients across Europe with deep expertise along the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>As Data &amp; AI Consulting Manager in our Athens hub, you own client engagements end to end: you lead the delivery team, manage senior stakeholders and make sure our technical work turns into business results. Our engagements range from focused proofs of concept to multi-year platform builds and managed services, for clients in Switzerland, the DACH region and Greece across industries such as retail, aviation, insurance, pharma and technology.</p><p><strong>Your tasks will include:</strong></p><ul><li>Lead engagements end to end, from scoping and planning through delivery, keeping scope, budget and quality under control on both fixed-price and time-and-material projects.</li><li>Advise senior and C-level stakeholders on their data and AI roadmap, helping them identify and prioritise the use cases that deliver measurable value.</li><li>Lead and develop your team, mentoring our Data &amp; AI experts and fostering a culture of excellence, growth and pragmatic problem-solving.</li><li>Grow existing accounts and win new ones by shaping proposals, estimates and presales conversations.</li><li>Work closely with colleagues in Zurich and Munich, with occasional travel to Switzerland and to client sites.</li></ul><p><strong>What you bring:</strong></p><ul><li>At least 8 years of professional experience, a significant part of it leading data and AI initiatives in consulting or in a comparable client-facing role.</li><li>A proven track record in managing projects and budgets, with a solid understanding of the Data &amp; AI lifecycle, from data strategy to production-grade solutions.</li><li>Enough hands-on familiarity with modern data platforms (eg Databricks, Microsoft Fabric, Snowflake) and cloud (Azure, AWS or GCP) to be credible with engineers and to challenge estimates.</li><li>Experience taking GenAI or agentic AI use cases beyond the proof-of-concept stage.</li><li>Confidence with senior stakeholders and complex organisations, and the ability to turn ambiguity into a clear plan.</li><li>A down-to-earth, entrepreneurial and pragmatic attitude; you are a doer who can also think big.</li><li>Excellent professional English; German is a plus.</li><li>A university degree in business, engineering, computer science or a related field.</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low-noise environment that enables you to focus on what matters most: delivering value.</li><li> An international team of talented people from diverse backgrounds who share an ambition for excellence and a sense of fun.</li><li>Dedicated development through our D ONE Academy, including specialized leadership training, mentoring, and access to our global expert groups.</li><li>Frequent offsite socializing events and a collaborative \"one-team\" spirit between Athens, Zurich, and Munich.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver high-impact results with clear, actionable insights.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p></p><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation AE<br>Stamatis Stefanakos<br>Mourouzi 10 <br>Athens 106 74</p>"
+  },
+  {
+   "title": "Data Engineering Consultant (Zurich, Switzerland)",
+   "shortcode": "BBA9D43232",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/BBA9D43232",
+   "shortlink": "https://apply.workable.com/j/BBA9D43232",
+   "application_url": "https://apply.workable.com/j/BBA9D43232/apply",
+   "published_on": "2026-09-02",
+   "created_at": "2026-09-02",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "",
+   "function": "Consulting",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation. We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and a focus on people.</p><p>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise across the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>In this role, you will advise our clients on the design and implementation of scalable cloud data platforms and AI solutions. You will translate business requirements into robust data architectures, shape data models, and contribute hands-on to the development of modern data pipelines using platforms such as Databricks or Microsoft Fabric. Based in our Zurich office, you will work with your team to provide our clients with the high quality and reliability we are known for.</p><p><strong>Your tasks will include:</strong></p><ul><li>Analysis of business and technical requirements</li><li>Design and implementation of robust data architectures, pipelines, and platform components in close collaboration with client and project teams</li><li>Contribution to data &amp; AI initiatives across cloud architecture, data engineering, data science, and generative AI</li><li>Communication of recommendations, insights, and results to senior stakeholders and management</li></ul><p><strong>What you bring:</strong></p><ul><li>At least a Bachelor's degree in Computer Science or a related field</li><li>Domain knowledge in at least one industry</li><li>A highly analytical and structured mindset, with strong problem-solving skills and the ability to communicate complex topics clearly and convincingly to both technical and non-technical stakeholders</li><li>Excellent verbal and written communication skills in German and English (both mandatory)</li><li>3+ years of proven experience in data engineering including data modelling (Data Vault and dimensional modelling) and hands-on ETL/ELT and pipeline development</li><li>Hands-on experience with Databricks or Microsoft Fabric, dbt, and Azure, including solid data warehousing fundamentals, SQL, and Python</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socialising events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation AG<br>Sihlfeldstrasse 58<br>8003 Zürich</p>"
+  },
+  {
+   "title": "HR Manager / People Operations Lead",
+   "shortcode": "D94F3979C9",
+   "code": "HRPO",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/D94F3979C9",
+   "shortlink": "https://apply.workable.com/j/D94F3979C9",
+   "application_url": "https://apply.workable.com/j/D94F3979C9/apply",
+   "published_on": "2026-11-03",
+   "created_at": "2026-11-03",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "",
+   "experience": "Mid-Senior level",
+   "function": "Human Resources",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<h3>About D ONE</h3><p>D ONE is a premium consultancy for data, AI, and transformation. We help clients turn ambition into impact: from strategy and data foundations to scalable AI/data solutions, governance, and adoption.</p><p>With teams in Zurich, Munich, and Athens, we support clients across Europe along the full data value chain. Our approach is pragmatic, people-centric, and focused on lasting value.</p><h3>The Role</h3><p>As HR Manager / People Operations Lead, you take ownership of HR operations at D ONE. You are hands-on in Switzerland and coordinate HR matters in Germany and Greece together with local teams and external partners.</p><p></p><p>You keep personnel administration running reliably, support colleagues through the employee lifecycle, and are a trusted contact for employees and management. Beyond the daily work, you help improve how we attract, develop, and support our people.</p><h3>What you own</h3><ul><li>Payroll and year-end: monthly payroll and QST filings, year-end work (Lohnausweise, AHV and insurance reconciliation), illness and accident notifications, time recording control</li><li>Contracts and master data: contracts, addenda, and certificates; personnel master data; competence profiles; work permits</li><li>Recruiting and integration: Own and coordinate the end-to-end recruiting process, partnering with hiring managers who lead candidate assessment and selection; ensure a welcoming onboarding and structured offboarding.</li><li>Development and support: absence and case management, performance management logistics, training and certification tracking, first contact for retention and conflicts</li><li>Processes and advice: advising management on employment law, retention, and personnel metrics; keeping personnel processes lean</li></ul><p></p><p></p><p><strong>Requirements</strong></p><h3>What we are looking for</h3><ul><li>Eidg. Fachausweis in Personalwesen or equivalent, with several years as a generalist</li><li>Solid command of Swiss payroll, social insurance, and employment law</li><li>Experience running recruiting end to end, ideally in consulting</li><li>Empathy: you listen without judging, and colleagues come to you with what matters</li><li>Clear, appreciative communication, including in difficult conversations</li><li>Hands-on, structured, and reliable: you see what needs doing and get it done</li><li>Discretion, pragmatism, and a drive to improve how things work</li><li>Fluent German and English</li></ul><p><strong>Benefits</strong></p><h3>What D ONE Offers</h3><ul><li>Real ownership of personnel management, with direct access to the management team</li></ul><ul><li>A collegial, high-trust culture with smart colleagues who value what you do</li><li>Room to shape and simplify how personnel work is done</li><li>An international setting across three countries, with external partners for payroll and legal</li><li>Modern tools, built on data and AI, taking the routine out of the routine</li><li>A central Zurich location, flexible working, and attractive conditions</li></ul>"
+  },
+  {
+   "title": "Lead Data Analytics Consultant (Zurich, Switzerland)",
+   "shortcode": "01C3775001",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/01C3775001",
+   "shortlink": "https://apply.workable.com/j/01C3775001",
+   "application_url": "https://apply.workable.com/j/01C3775001/apply",
+   "published_on": "2025-12-31",
+   "created_at": "2025-12-31",
+   "country": "Switzerland",
+   "city": "Zürich",
+   "state": "Zurich",
+   "education": "Master's Degree",
+   "experience": "Mid-Senior level",
+   "function": "",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Switzerland",
+     "countryCode": "CH",
+     "city": "Zürich",
+     "region": "Zurich",
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>«Making sense of data is the winning competence in all industries.»</strong><br></p><p>We build D ONE with the belief that every company will be a data company. Since our beginnings, we help our clients to make sense of their data and generate value.</p><p>In this role you will advise our clients during the conception, planning, and implementation of data analytics projects. You will lead a project team to provide our clients the high quality and reliability we are known for. </p><p><strong>Your tasks will include:</strong></p><ul><li>Assuming end to end responsibility for client engagements. </li><li>Presenting your results to middle and top management.</li><li>Leading and developing a team of consultants.</li><li>Contributing hands-on work on architecting, implementing and deploying data products.</li></ul><p><strong>What you bring (minimum requirements):</strong></p><ul><li>M.Sc. or Ph.D. degree in computer science or other quantitative field with strong computational exposure.</li><li>7 - 12 years of professional experience, ideally with an international consulting firm.</li><li>Domain knowledge in at least one industry.</li><li>Proven expertise in relevant technologies, programming languages, and data platforms (such as GCP, Azure, AWS, Palantir).</li><li>At least one certification and related experience in an agile delivery methodology (e.g. Certified Scrum Master and/or SAFe (Scaled Agile Framework) Architect or Agile Product Manager).</li><li>Demonstrated problem solving skills.</li><li>Down-to-earth and pragmatic results-oriented attitude.</li><li>Excellent written and oral communication skills in English; working knowledge of German is a plus.</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socializing events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Excel in managing complex stakeholder landscapes.</li><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br><br>D ONE Value Creation AG<br>Sihlfeldstrasse 58<br>8003 Zurich</p><p></p>"
+  },
+  {
+   "title": "Senior Data & AI Engineer (Athens, Greece)",
+   "shortcode": "4FC101E903",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/4FC101E903",
+   "shortlink": "https://apply.workable.com/j/4FC101E903",
+   "application_url": "https://apply.workable.com/j/4FC101E903/apply",
+   "published_on": "2026-08-20",
+   "created_at": "2026-08-20",
+   "country": "Greece",
+   "city": "Athens",
+   "state": "Attica",
+   "education": "Master's Degree",
+   "experience": "Mid-Senior level",
+   "function": "Consulting",
+   "industry": "Information Technology and Services",
+   "locations": [
+    {
+     "country": "Greece",
+     "countryCode": "GR",
+     "city": "Athens",
+     "region": "Attica",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation. We help organizations turn ambition into impact by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and people focus.</p><p>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise along the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>In this role you will advise our clients during the conception, planning and implementation of data &amp; AI solutions. Based in our consulting hub in Athens, you will work with your project team to provide our clients the high quality and reliability we are known for.</p><p><strong>Your tasks will include:</strong></p><ul><li>Analyzing requirements and designing tailored data solutions</li><li>Contributing to various project areas, which may include cloud engineering, infrastructure, data engineering, data science, and generative AI applications</li><li>Presenting results and insights to stakeholders and management</li><li>Occasionally traveling to Switzerland and internationally to meet clients and collaborate with our team at headquarters in Zurich</li></ul><p><strong>What you bring:</strong></p><ul><li>University degree in Computer Science or related fields.</li><li>At least 5 years of working experience in related roles.</li><li>Solid hands-on experience with modern data engineering tools and platforms (e.g. Azure Data Factory, Databricks, Synapse, dbt, Palantir Foundry)</li><li>Proficiency in SQL, Python and Spark.</li><li>Strong understanding of data modeling and data warehousing principles.</li><li>Down-to-earth and pragmatic result oriented attitude.</li><li>Excellent communication skills in English.</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socializing events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation AE<br>Stamatis Stefanakos<br>Mourouzi 10 <br>Athens 106 74</p>"
+  },
+  {
+   "title": "Senior Data & AI Engineer (Munich, Germany)",
+   "shortcode": "D06E813AC1",
+   "code": "",
+   "employment_type": "Full-time",
+   "telecommuting": false,
+   "department": null,
+   "url": "https://apply.workable.com/j/D06E813AC1",
+   "shortlink": "https://apply.workable.com/j/D06E813AC1",
+   "application_url": "https://apply.workable.com/j/D06E813AC1/apply",
+   "published_on": "2025-12-10",
+   "created_at": "2025-12-10",
+   "country": "Germany",
+   "city": "Munich",
+   "state": "Bavaria",
+   "education": "Master's Degree",
+   "experience": "",
+   "function": "Consulting",
+   "industry": "Internet",
+   "locations": [
+    {
+     "country": "Germany",
+     "countryCode": "DE",
+     "city": "Munich",
+     "region": "Bavaria",
+     "hidden": false
+    }
+   ],
+   "description": "<p>D ONE is a premium consultancy specialized in data, AI, and transformation.</p><p>We help organizations turn ambition into impact—by aligning strategy, building strong data foundations, delivering high-impact solutions at scale, and ensuring adoption and trust through governance and people focus.<br>From Zurich, Munich, and Athens, we support clients across Europe with deep expertise along the entire data value chain. Our approach is pragmatic, people-centric, and built for lasting value.</p><p>In this role you will advise our clients during the conception, planning and implementation of data &amp; AI solutions. Based in our Munich office, you will work with your project team to provide our clients the high quality and reliability we are known for.</p><p><strong>Your tasks will include:</strong></p><ul><li>Analyzing requirements and designing tailored data solutions</li><li>Contributing to various project areas, which may include cloud engineering, infrastructure, data engineering, data science, and generative AI applications</li><li>Presenting results and insights to stakeholders and management</li><li>Occasionally traveling to Switzerland and internationally to meet clients and collaborate with our team at headquarters in Zurich</li></ul><p><strong>What you bring:</strong></p><ul><li>University degree in Computer Science or related fields.</li><li>At least 5 years of working experience in related roles.</li><li>Solid hands-on experience with modern data engineering tools and platforms (e.g. Azure Data Factory, Databricks, Synapse, dbt, Palantir Foundry) as well as proficiency in SQL, Python and Spark</li><li>Experience in designing and delivering generative AI solutions such as RAG systems, copilots, intelligent search, and workflow automation.</li><li>Strong understanding of data modeling and data warehousing principles.</li><li>Down-to-earth- and pragmatic result oriented attitude.</li><li>Excellent communication skills in English.</li></ul><p><strong>What we offer:</strong></p><ul><li>An uncomplicated and low noise environment that enables to focus on what matters most.</li><li>An international team of talented people from diverse backgrounds that have ambitions, always enjoy an additional challenge, and know how to have fun at work.</li><li>Further development opportunities through our D ONE Academy including mentoring program, knowledge sharing sessions, expert and working groups, as well as tailor-made soft-skill and leadership training.</li><li>Frequent offsite socializing events.</li></ul><p><strong>To be successful in this role you will need to:</strong></p><ul><li>Strive to understand your clients' needs.</li><li>Deliver outstanding results with high business value in a comprehensible form.</li><li>Have the intellectual agility required to get the job done in an easy-to-do-business-with way.</li><li>Value clever and creative team play.</li></ul><p><strong>Are you interested in joining a great team with a proven track record and to work on projects that will constantly challenge you?</strong></p><p>We are happy to receive your application with reference:<br></p><p>D ONE Value Creation GmbH<br>Nymphenburger Straße 1</p><p>80335 München</p>"
+  }
+ ]
+}

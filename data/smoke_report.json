@@ -1,0 +1,1302 @@
+{
+ "lists": {
+  "simplify_intern": {
+   "status": 200,
+   "size": 17416
+  },
+  "simplify_newgrad": {
+   "status": 200,
+   "size": 18718
+  },
+  "speedyapply_intern": {
+   "status": 200,
+   "size": 196882
+  },
+  "speedyapply_newgrad": {
+   "status": 200,
+   "size": 274287
+  },
+  "earlycareers": {
+   "status": 200,
+   "size": 26642
+  }
+ },
+ "ats": [
+  {
+   "company": "Almedia",
+   "ats": "ashby",
+   "slug": "almedia",
+   "status": 200,
+   "msg": "30 jobs"
+  },
+  {
+   "company": "Back Market",
+   "ats": "ashby",
+   "slug": "backmarket",
+   "status": 200,
+   "msg": "34 jobs"
+  },
+  {
+   "company": "DeepL",
+   "ats": "ashby",
+   "slug": "DeepL",
+   "status": 200,
+   "msg": "8 jobs"
+  },
+  {
+   "company": "Docebo",
+   "ats": "ashby",
+   "slug": "docebo",
+   "status": 200,
+   "msg": "35 jobs"
+  },
+  {
+   "company": "Docplanner",
+   "ats": "ashby",
+   "slug": "docplanner",
+   "status": 200,
+   "msg": "45 jobs"
+  },
+  {
+   "company": "Escape Technologies",
+   "ats": "ashby",
+   "slug": "Escape",
+   "status": 200,
+   "msg": "7 jobs"
+  },
+  {
+   "company": "Keyrock",
+   "ats": "ashby",
+   "slug": "Keyrock",
+   "status": 200,
+   "msg": "9 jobs"
+  },
+  {
+   "company": "Reonic",
+   "ats": "ashby",
+   "slug": "reonic",
+   "status": 200,
+   "msg": "33 jobs"
+  },
+  {
+   "company": "SEON",
+   "ats": "ashby",
+   "slug": "seon",
+   "status": 200,
+   "msg": "14 jobs"
+  },
+  {
+   "company": "Sentry",
+   "ats": "ashby",
+   "slug": "sentry",
+   "status": 200,
+   "msg": "39 jobs"
+  },
+  {
+   "company": "Snowflake",
+   "ats": "ashby",
+   "slug": "snowflake",
+   "status": 200,
+   "msg": "369 jobs"
+  },
+  {
+   "company": "Sonio",
+   "ats": "ashby",
+   "slug": "Sonio",
+   "status": 200,
+   "msg": "7 jobs"
+  },
+  {
+   "company": "Taktile",
+   "ats": "ashby",
+   "slug": "taktile",
+   "status": 200,
+   "msg": "36 jobs"
+  },
+  {
+   "company": "Trading212",
+   "ats": "ashby",
+   "slug": "trading212",
+   "status": 200,
+   "msg": "58 jobs"
+  },
+  {
+   "company": "Trainline",
+   "ats": "ashby",
+   "slug": "trainline",
+   "status": 200,
+   "msg": "29 jobs"
+  },
+  {
+   "company": "Wayflyer",
+   "ats": "ashby",
+   "slug": "wayflyer",
+   "status": 200,
+   "msg": "13 jobs"
+  },
+  {
+   "company": "Agile Robots",
+   "ats": "greenhouse",
+   "slug": "agilerobotsse",
+   "status": 200,
+   "msg": "69 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Alarm.com",
+   "ats": "greenhouse",
+   "slug": "alarmcom",
+   "status": 200,
+   "msg": "92 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Anduril",
+   "ats": "greenhouse",
+   "slug": "andurilindustries",
+   "status": 200,
+   "msg": "2601 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Arcesium",
+   "ats": "greenhouse",
+   "slug": "arcesiumllc",
+   "status": 200,
+   "msg": "38 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Cabify",
+   "ats": "greenhouse",
+   "slug": "cabify",
+   "status": 200,
+   "msg": "51 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Canonical",
+   "ats": "greenhouse",
+   "slug": "canonical",
+   "status": 200,
+   "msg": "316 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Celonis",
+   "ats": "greenhouse",
+   "slug": "celonis",
+   "status": 200,
+   "msg": "234 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Clear Street",
+   "ats": "greenhouse",
+   "slug": "clearstreet",
+   "status": 200,
+   "msg": "46 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Cloudflare",
+   "ats": "greenhouse",
+   "slug": "cloudflare",
+   "status": 200,
+   "msg": "465 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "DRW",
+   "ats": "greenhouse",
+   "slug": "drweng",
+   "status": 200,
+   "msg": "164 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Dataiku",
+   "ats": "greenhouse",
+   "slug": "dataiku",
+   "status": 200,
+   "msg": "14 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Fever",
+   "ats": "greenhouse",
+   "slug": "feverup",
+   "status": 200,
+   "msg": "562 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "IMC Trading",
+   "ats": "greenhouse",
+   "slug": "imc",
+   "status": 200,
+   "msg": "163 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Man Group",
+   "ats": "greenhouse",
+   "slug": "mangroup",
+   "status": 200,
+   "msg": "71 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Qube Research & Technologies",
+   "ats": "greenhouse",
+   "slug": "quberesearchandtechnologies",
+   "status": 200,
+   "msg": "205 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Real-Time Innovations",
+   "ats": "greenhouse",
+   "slug": "rti",
+   "status": 200,
+   "msg": "10 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Rue Gilt Groupe",
+   "ats": "greenhouse",
+   "slug": "ruelala",
+   "status": 200,
+   "msg": "20 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Veeam",
+   "ats": "greenhouse",
+   "slug": "veeamsoftware",
+   "status": 200,
+   "msg": "194 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Virtu Financial",
+   "ats": "greenhouse",
+   "slug": "virtu",
+   "status": 200,
+   "msg": "47 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "WONGDOODY",
+   "ats": "greenhouse",
+   "slug": "wongdoody",
+   "status": 200,
+   "msg": "29 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "Zynga",
+   "ats": "greenhouse",
+   "slug": "zyngacareers",
+   "status": 200,
+   "msg": "48 jobs (boards-api.greenhouse.io)"
+  },
+  {
+   "company": "AJAX",
+   "ats": "lever",
+   "slug": "ajax",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "ANYbotics",
+   "ats": "lever",
+   "slug": "anybotics",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Alice & Bob",
+   "ats": "lever",
+   "slug": "alice-bob",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "BlaBlaCar",
+   "ats": "lever",
+   "slug": "blablacar",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Bloom & Wild Group",
+   "ats": "lever",
+   "slug": "bloomon",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Doctrine",
+   "ats": "lever",
+   "slug": "doctrine",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Eleks",
+   "ats": "lever",
+   "slug": "eleks",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Equativ",
+   "ats": "lever",
+   "slug": "equativ",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Filevine",
+   "ats": "lever",
+   "slug": "filevine",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Margo",
+   "ats": "lever",
+   "slug": "margo-group",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "MasterBorn",
+   "ats": "lever",
+   "slug": "masterborn-2",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Mendix",
+   "ats": "lever",
+   "slug": "mendix",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Robotics and AI Institute",
+   "ats": "lever",
+   "slug": "rai",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "SEB",
+   "ats": "lever",
+   "slug": "seb",
+   "status": 200,
+   "msg": "ok (api.eu.lever.co)"
+  },
+  {
+   "company": "Sonar",
+   "ats": "lever",
+   "slug": "sonarsource",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "Sword Health",
+   "ats": "lever",
+   "slug": "swordhealth",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "TomTom",
+   "ats": "lever",
+   "slug": "tomtom",
+   "status": 200,
+   "msg": "ok (api.eu.lever.co)"
+  },
+  {
+   "company": "Wingtra AG",
+   "ats": "lever",
+   "slug": "wingtra-2",
+   "status": 200,
+   "msg": "ok (api.lever.co)"
+  },
+  {
+   "company": "2N",
+   "ats": "smartrecruiters",
+   "slug": "2NTELEKOMUNIKACEAs",
+   "status": 200,
+   "msg": "12 postings"
+  },
+  {
+   "company": "ALTEN",
+   "ats": "smartrecruiters",
+   "slug": "ALTEN",
+   "status": 200,
+   "msg": "1266 postings"
+  },
+  {
+   "company": "About You",
+   "ats": "smartrecruiters",
+   "slug": "ABOUTYOUGmbH",
+   "status": 200,
+   "msg": "180 postings"
+  },
+  {
+   "company": "Appcast",
+   "ats": "smartrecruiters",
+   "slug": "StepStoneGroup",
+   "status": 200,
+   "msg": "109 postings"
+  },
+  {
+   "company": "Arista Networks",
+   "ats": "smartrecruiters",
+   "slug": "AristaNetworks",
+   "status": 200,
+   "msg": "235 postings"
+  },
+  {
+   "company": "Aumovio",
+   "ats": "smartrecruiters",
+   "slug": "Aumovio",
+   "status": 200,
+   "msg": "585 postings"
+  },
+  {
+   "company": "BEUMER Group",
+   "ats": "smartrecruiters",
+   "slug": "BEUMERGroup1",
+   "status": 200,
+   "msg": "224 postings"
+  },
+  {
+   "company": "BarmeniaGothaer",
+   "ats": "smartrecruiters",
+   "slug": "BarmeniaGothaerAG",
+   "status": 200,
+   "msg": "371 postings"
+  },
+  {
+   "company": "Bertelsmann",
+   "ats": "smartrecruiters",
+   "slug": "Bertelsmann-Jobs",
+   "status": 200,
+   "msg": "986 postings"
+  },
+  {
+   "company": "Bosch",
+   "ats": "smartrecruiters",
+   "slug": "BoschGroup",
+   "status": 200,
+   "msg": "5074 postings"
+  },
+  {
+   "company": "CERN",
+   "ats": "smartrecruiters",
+   "slug": "CERN",
+   "status": 200,
+   "msg": "54 postings"
+  },
+  {
+   "company": "CEiiA",
+   "ats": "smartrecruiters",
+   "slug": "CEiiA",
+   "status": 200,
+   "msg": "37 postings"
+  },
+  {
+   "company": "Citech",
+   "ats": "smartrecruiters",
+   "slug": "CITECH",
+   "status": 200,
+   "msg": "111 postings"
+  },
+  {
+   "company": "Coface",
+   "ats": "smartrecruiters",
+   "slug": "Coface",
+   "status": 200,
+   "msg": "233 postings"
+  },
+  {
+   "company": "Continental AG",
+   "ats": "smartrecruiters",
+   "slug": "Continental",
+   "status": 200,
+   "msg": "544 postings"
+  },
+  {
+   "company": "Deloitte",
+   "ats": "smartrecruiters",
+   "slug": "DeloitteAT",
+   "status": 200,
+   "msg": "113 postings"
+  },
+  {
+   "company": "Delta Electronics",
+   "ats": "smartrecruiters",
+   "slug": "DeltaElectronics",
+   "status": 200,
+   "msg": "73 postings"
+  },
+  {
+   "company": "Digica",
+   "ats": "smartrecruiters",
+   "slug": "Digica",
+   "status": 200,
+   "msg": "6 postings"
+  },
+  {
+   "company": "Evolution",
+   "ats": "smartrecruiters",
+   "slug": "Evolution",
+   "status": 200,
+   "msg": "289 postings"
+  },
+  {
+   "company": "H&M Group",
+   "ats": "smartrecruiters",
+   "slug": "HMGroup",
+   "status": 200,
+   "msg": "2028 postings"
+  },
+  {
+   "company": "INFICON",
+   "ats": "smartrecruiters",
+   "slug": "INFICON2",
+   "status": 200,
+   "msg": "62 postings"
+  },
+  {
+   "company": "MET Group",
+   "ats": "smartrecruiters",
+   "slug": "METGroup",
+   "status": 200,
+   "msg": "61 postings"
+  },
+  {
+   "company": "Magellan",
+   "ats": "smartrecruiters",
+   "slug": "Magellan",
+   "status": 200,
+   "msg": "284 postings"
+  },
+  {
+   "company": "Max Mara Fashion Group",
+   "ats": "smartrecruiters",
+   "slug": "MaxMaraFashionGroup",
+   "status": 200,
+   "msg": "188 postings"
+  },
+  {
+   "company": "PSI CRO",
+   "ats": "smartrecruiters",
+   "slug": "PSICRO",
+   "status": 200,
+   "msg": "194 postings"
+  },
+  {
+   "company": "Playtech",
+   "ats": "smartrecruiters",
+   "slug": "Playtech",
+   "status": 200,
+   "msg": "116 postings"
+  },
+  {
+   "company": "Scalable Capital",
+   "ats": "smartrecruiters",
+   "slug": "ScalableGmbH",
+   "status": 200,
+   "msg": "106 postings"
+  },
+  {
+   "company": "Scalian",
+   "ats": "smartrecruiters",
+   "slug": "Scalian",
+   "status": 200,
+   "msg": "775 postings"
+  },
+  {
+   "company": "Sia",
+   "ats": "smartrecruiters",
+   "slug": "Sia",
+   "status": 200,
+   "msg": "533 postings"
+  },
+  {
+   "company": "Sika",
+   "ats": "smartrecruiters",
+   "slug": "SikaAG",
+   "status": 200,
+   "msg": "715 postings"
+  },
+  {
+   "company": "Sopra Steria I2S",
+   "ats": "smartrecruiters",
+   "slug": "SopraSteria1",
+   "status": 200,
+   "msg": "2091 postings"
+  },
+  {
+   "company": "Sportradar",
+   "ats": "smartrecruiters",
+   "slug": "Sportradar",
+   "status": 200,
+   "msg": "104 postings"
+  },
+  {
+   "company": "Talan",
+   "ats": "smartrecruiters",
+   "slug": "Talan",
+   "status": 200,
+   "msg": "464 postings"
+  },
+  {
+   "company": "Tietoevry",
+   "ats": "smartrecruiters",
+   "slug": "Tieto2",
+   "status": 200,
+   "msg": "429 postings"
+  },
+  {
+   "company": "Vattenfall",
+   "ats": "smartrecruiters",
+   "slug": "Vattenfall",
+   "status": 200,
+   "msg": "241 postings"
+  },
+  {
+   "company": "Alongside",
+   "ats": "workable",
+   "slug": "alongside-team",
+   "status": 200,
+   "msg": "19 jobs"
+  },
+  {
+   "company": "D ONE",
+   "ats": "workable",
+   "slug": "d-one",
+   "status": 200,
+   "msg": "14 jobs"
+  },
+  {
+   "company": "Dev.Pro",
+   "ats": "workable",
+   "slug": "devpro",
+   "status": 200,
+   "msg": "100 jobs"
+  },
+  {
+   "company": "EUROPEAN DYNAMICS",
+   "ats": "workable",
+   "slug": "european-dynamics",
+   "status": 200,
+   "msg": "192 jobs"
+  },
+  {
+   "company": "MediaRadar",
+   "ats": "workable",
+   "slug": "mediaradar",
+   "status": 200,
+   "msg": "21 jobs"
+  },
+  {
+   "company": "Netcetera (G+D)",
+   "ats": "workable",
+   "slug": "netcetera",
+   "status": 200,
+   "msg": "16 jobs"
+  },
+  {
+   "company": "ReversingLabs",
+   "ats": "workable",
+   "slug": "reversinglabs",
+   "status": 200,
+   "msg": "9 jobs"
+  },
+  {
+   "company": "Skroutz",
+   "ats": "workable",
+   "slug": "skroutz",
+   "status": 200,
+   "msg": "8 jobs"
+  },
+  {
+   "company": "SupportYourApp",
+   "ats": "workable",
+   "slug": "supportyourapp",
+   "status": 200,
+   "msg": "295 jobs"
+  },
+  {
+   "company": "ABB",
+   "ats": "workday",
+   "slug": "abb|wd3|external_career_page",
+   "status": 200,
+   "msg": "1116 hits for 'intern'"
+  },
+  {
+   "company": "Accenture",
+   "ats": "workday",
+   "slug": "accenture|wd103|accenturecareers",
+   "status": 200,
+   "msg": "2000 hits for 'intern'"
+  },
+  {
+   "company": "Adobe",
+   "ats": "workday",
+   "slug": "adobe|wd5|external_experienced",
+   "status": 200,
+   "msg": "125 hits for 'intern'"
+  },
+  {
+   "company": "Airbus",
+   "ats": "workday",
+   "slug": "ag|wd3|airbus",
+   "status": 200,
+   "msg": "2000 hits for 'intern'"
+  },
+  {
+   "company": "Amadeus",
+   "ats": "workday",
+   "slug": "amadeus|wd502|jobs",
+   "status": 200,
+   "msg": "89 hits for 'intern'"
+  },
+  {
+   "company": "AmerisourceBergen",
+   "ats": "workday",
+   "slug": "myhrabc|wd5|global",
+   "status": 200,
+   "msg": "450 hits for 'intern'"
+  },
+  {
+   "company": "Analog Devices",
+   "ats": "workday",
+   "slug": "analogdevices|wd1|external",
+   "status": 200,
+   "msg": "478 hits for 'intern'"
+  },
+  {
+   "company": "Avanade",
+   "ats": "workday",
+   "slug": "accenture|wd103|avanadecareers",
+   "status": 200,
+   "msg": "317 hits for 'intern'"
+  },
+  {
+   "company": "BlackLine",
+   "ats": "workday",
+   "slug": "blackline|wd108|blacklinecareers",
+   "status": 200,
+   "msg": "54 hits for 'intern'"
+  },
+  {
+   "company": "Brown Brothers Harriman",
+   "ats": "workday",
+   "slug": "bbh|wd5|bbh",
+   "status": 200,
+   "msg": "113 hits for 'intern'"
+  },
+  {
+   "company": "Candescent",
+   "ats": "workday",
+   "slug": "candescent|wd501|hiring",
+   "status": 200,
+   "msg": "11 hits for 'intern'"
+  },
+  {
+   "company": "Cerved",
+   "ats": "workday",
+   "slug": "cerved|wd3|cerved",
+   "status": 200,
+   "msg": "36 hits for 'intern'"
+  },
+  {
+   "company": "Cisco",
+   "ats": "workday",
+   "slug": "cisco|wd5|cisco_careers",
+   "status": 200,
+   "msg": "605 hits for 'intern'"
+  },
+  {
+   "company": "Cloudera",
+   "ats": "workday",
+   "slug": "cloudera|wd5|external_career",
+   "status": 200,
+   "msg": "52 hits for 'intern'"
+  },
+  {
+   "company": "Copeland",
+   "ats": "workday",
+   "slug": "copeland|wd5|copeland_external_careers_page",
+   "status": 200,
+   "msg": "174 hits for 'intern'"
+  },
+  {
+   "company": "Cushman & Wakefield",
+   "ats": "workday",
+   "slug": "cw|wd1|external",
+   "status": 200,
+   "msg": "707 hits for 'intern'"
+  },
+  {
+   "company": "DXC Technology",
+   "ats": "workday",
+   "slug": "dxctechnology|wd1|dxcjobs",
+   "status": 200,
+   "msg": "472 hits for 'intern'"
+  },
+  {
+   "company": "Damen Shiprepair Harlingen",
+   "ats": "workday",
+   "slug": "damen|wd3|damen_careers",
+   "status": 200,
+   "msg": "116 hits for 'intern'"
+  },
+  {
+   "company": "Danaher",
+   "ats": "workday",
+   "slug": "danaher|wd1|danaherjobs",
+   "status": 200,
+   "msg": "589 hits for 'intern'"
+  },
+  {
+   "company": "DraftKings",
+   "ats": "workday",
+   "slug": "draftkings|wd1|draftkings",
+   "status": 200,
+   "msg": "18 hits for 'intern'"
+  },
+  {
+   "company": "Edenred",
+   "ats": "workday",
+   "slug": "edenpeople|wd3|edenred_careers",
+   "status": 200,
+   "msg": "323 hits for 'intern'"
+  },
+  {
+   "company": "Engineering Ingegneria Informatica",
+   "ats": "workday",
+   "slug": "eng|wd3|externalcareers",
+   "status": 200,
+   "msg": "24 hits for 'intern'"
+  },
+  {
+   "company": "Entrust",
+   "ats": "workday",
+   "slug": "entrust|wd1|entrustcareers",
+   "status": 200,
+   "msg": "50 hits for 'intern'"
+  },
+  {
+   "company": "Finastra",
+   "ats": "workday",
+   "slug": "finastra|wd3|finc",
+   "status": 200,
+   "msg": "77 hits for 'intern'"
+  },
+  {
+   "company": "Flex",
+   "ats": "workday",
+   "slug": "flextronics|wd1|careers",
+   "status": 200,
+   "msg": "332 hits for 'intern'"
+  },
+  {
+   "company": "Försäkringsbolaget If",
+   "ats": "workday",
+   "slug": "if|wd502|careers",
+   "status": 200,
+   "msg": "52 hits for 'intern'"
+  },
+  {
+   "company": "GE HealthCare",
+   "ats": "workday",
+   "slug": "gehc|wd5|gehc_externalsite",
+   "status": 200,
+   "msg": "516 hits for 'intern'"
+  },
+  {
+   "company": "GPC",
+   "ats": "workday",
+   "slug": "genpt|wd1|careers",
+   "status": 200,
+   "msg": "893 hits for 'intern'"
+  },
+  {
+   "company": "General Motors",
+   "ats": "workday",
+   "slug": "generalmotors|wd5|careers_gm",
+   "status": 200,
+   "msg": "338 hits for 'intern'"
+  },
+  {
+   "company": "Global Payments",
+   "ats": "workday",
+   "slug": "tsys|wd1|tsys",
+   "status": 200,
+   "msg": "218 hits for 'intern'"
+  },
+  {
+   "company": "HP",
+   "ats": "workday",
+   "slug": "hp|wd5|externalcareersite",
+   "status": 200,
+   "msg": "539 hits for 'intern'"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "ats": "workday",
+   "slug": "hpe|wd5|jobsathpe",
+   "status": 200,
+   "msg": "1112 hits for 'intern'"
+  },
+  {
+   "company": "IFF",
+   "ats": "workday",
+   "slug": "iff|wd5|iff_careers",
+   "status": 200,
+   "msg": "240 hits for 'intern'"
+  },
+  {
+   "company": "ING",
+   "ats": "workday",
+   "slug": "ing|wd3|jvsgblcor",
+   "status": 403,
+   "msg": "0 hits for 'intern'"
+  },
+  {
+   "company": "Intapp",
+   "ats": "workday",
+   "slug": "intapp|wd1|intapp",
+   "status": 200,
+   "msg": "45 hits for 'intern'"
+  },
+  {
+   "company": "Intel",
+   "ats": "workday",
+   "slug": "intel|wd1|external",
+   "status": 200,
+   "msg": "543 hits for 'intern'"
+  },
+  {
+   "company": "Johnson & Johnson",
+   "ats": "workday",
+   "slug": "jj|wd5|noncompetetivehiring",
+   "status": 200,
+   "msg": "39 hits for 'intern'"
+  },
+  {
+   "company": "Julius Baer",
+   "ats": "workday",
+   "slug": "juliusbaer|wd3|external",
+   "status": 200,
+   "msg": "120 hits for 'intern'"
+  },
+  {
+   "company": "Kardex",
+   "ats": "workday",
+   "slug": "kardex|wd103|kardex",
+   "status": 200,
+   "msg": "98 hits for 'intern'"
+  },
+  {
+   "company": "Kyndryl",
+   "ats": "workday",
+   "slug": "kyndryl|wd5|kyndrylprofessionalcareers",
+   "status": 200,
+   "msg": "386 hits for 'intern'"
+  },
+  {
+   "company": "LEGO",
+   "ats": "workday",
+   "slug": "lego|wd103|lego_external",
+   "status": 200,
+   "msg": "230 hits for 'intern'"
+  },
+  {
+   "company": "Leonardo",
+   "ats": "workday",
+   "slug": "leonardocompany|wd3|leonardocareersite",
+   "status": 200,
+   "msg": "725 hits for 'intern'"
+  },
+  {
+   "company": "Light & Wonder",
+   "ats": "workday",
+   "slug": "lnw|wd5|lightwonderexternalcareers",
+   "status": 200,
+   "msg": "58 hits for 'intern'"
+  },
+  {
+   "company": "Logitech",
+   "ats": "workday",
+   "slug": "logitech|wd5|logitech",
+   "status": 200,
+   "msg": "133 hits for 'intern'"
+  },
+  {
+   "company": "Lombard Odier",
+   "ats": "workday",
+   "slug": "lombardodier|wd3|lombard_odier_careers",
+   "status": 200,
+   "msg": "64 hits for 'intern'"
+  },
+  {
+   "company": "Marsh McLennan",
+   "ats": "workday",
+   "slug": "mmc|wd1|careers",
+   "status": 200,
+   "msg": "313 hits for 'intern'"
+  },
+  {
+   "company": "Motorola Solutions",
+   "ats": "workday",
+   "slug": "motorolasolutions|wd5|careers",
+   "status": 200,
+   "msg": "466 hits for 'intern'"
+  },
+  {
+   "company": "Murex",
+   "ats": "workday",
+   "slug": "murex|wd3|murexcareerpage1",
+   "status": 200,
+   "msg": "60 hits for 'intern'"
+  },
+  {
+   "company": "NCR",
+   "ats": "workday",
+   "slug": "ncr|wd1|ext_non_us",
+   "status": 200,
+   "msg": "33 hits for 'intern'"
+  },
+  {
+   "company": "NVIDIA",
+   "ats": "workday",
+   "slug": "nvidia|wd5|NVIDIAExternalCareerSite",
+   "status": 200,
+   "msg": "1128 hits for 'intern'"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "ats": "workday",
+   "slug": "nxp|wd3|careers",
+   "status": 422,
+   "msg": "0 hits for 'intern'"
+  },
+  {
+   "company": "Nasdaq",
+   "ats": "workday",
+   "slug": "nasdaq|wd1|global_external_site",
+   "status": 200,
+   "msg": "69 hits for 'intern'"
+  },
+  {
+   "company": "PPG Industries",
+   "ats": "workday",
+   "slug": "ppg|wd5|ppg_careers",
+   "status": 200,
+   "msg": "257 hits for 'intern'"
+  },
+  {
+   "company": "PTC",
+   "ats": "workday",
+   "slug": "ptc|wd1|ptc",
+   "status": 200,
+   "msg": "92 hits for 'intern'"
+  },
+  {
+   "company": "PVH",
+   "ats": "workday",
+   "slug": "pvh|wd1|pvh_careers",
+   "status": 200,
+   "msg": "524 hits for 'intern'"
+  },
+  {
+   "company": "Pernod Ricard",
+   "ats": "workday",
+   "slug": "pernodricard|wd3|pernod-ricard",
+   "status": 200,
+   "msg": "220 hits for 'intern'"
+  },
+  {
+   "company": "Prysmian Group",
+   "ats": "workday",
+   "slug": "prysmiangroup|wd3|careers",
+   "status": 200,
+   "msg": "288 hits for 'intern'"
+  },
+  {
+   "company": "Quickbase",
+   "ats": "workday",
+   "slug": "quickbase|wd504|external",
+   "status": 200,
+   "msg": "24 hits for 'intern'"
+  },
+  {
+   "company": "Rabobank",
+   "ats": "workday",
+   "slug": "rabobank|wd3|jobs",
+   "status": 200,
+   "msg": "146 hits for 'intern'"
+  },
+  {
+   "company": "Rakuten Kobo",
+   "ats": "workday",
+   "slug": "rakuten|wd1|kobo",
+   "status": 200,
+   "msg": "6 hits for 'intern'"
+  },
+  {
+   "company": "Relativity",
+   "ats": "workday",
+   "slug": "kcura|wd1|external_career_site",
+   "status": 200,
+   "msg": "80 hits for 'intern'"
+  },
+  {
+   "company": "Renault",
+   "ats": "workday",
+   "slug": "alliancewd|wd3|renault-group-careers",
+   "status": 200,
+   "msg": "340 hits for 'intern'"
+  },
+  {
+   "company": "Roche",
+   "ats": "workday",
+   "slug": "roche|wd3|roche-ext",
+   "status": 200,
+   "msg": "694 hits for 'intern'"
+  },
+  {
+   "company": "Rockwell Automation",
+   "ats": "workday",
+   "slug": "rockwellautomation|wd1|external_rockwell_automation",
+   "status": 200,
+   "msg": "196 hits for 'intern'"
+  },
+  {
+   "company": "Sartorius",
+   "ats": "workday",
+   "slug": "sartorius|wd3|sartoriuscareers",
+   "status": 200,
+   "msg": "223 hits for 'intern'"
+  },
+  {
+   "company": "Silicon Labs",
+   "ats": "workday",
+   "slug": "silabs|wd1|internships",
+   "status": 200,
+   "msg": "4 hits for 'intern'"
+  },
+  {
+   "company": "State Street",
+   "ats": "workday",
+   "slug": "statestreet|wd1|global",
+   "status": 200,
+   "msg": "700 hits for 'intern'"
+  },
+  {
+   "company": "Stryker",
+   "ats": "workday",
+   "slug": "stryker|wd1|strykercareers",
+   "status": 200,
+   "msg": "708 hits for 'intern'"
+  },
+  {
+   "company": "TRUMPF",
+   "ats": "workday",
+   "slug": "trumpf|wd3|trumpf_students",
+   "status": 200,
+   "msg": "198 hits for 'intern'"
+  },
+  {
+   "company": "Thales",
+   "ats": "workday",
+   "slug": "thales|wd3|careers",
+   "status": 200,
+   "msg": "2000 hits for 'intern'"
+  },
+  {
+   "company": "Thermo Fisher Scientific",
+   "ats": "workday",
+   "slug": "thermofisher|wd5|thermofishercareers",
+   "status": 200,
+   "msg": "1619 hits for 'intern'"
+  },
+  {
+   "company": "Unisys",
+   "ats": "workday",
+   "slug": "unisys|wd5|external",
+   "status": 200,
+   "msg": "139 hits for 'intern'"
+  },
+  {
+   "company": "VIAVI",
+   "ats": "workday",
+   "slug": "viavisolutions|wd1|careers",
+   "status": 200,
+   "msg": "72 hits for 'intern'"
+  },
+  {
+   "company": "Vanderlande",
+   "ats": "workday",
+   "slug": "vanderlande|wd3|careers",
+   "status": 200,
+   "msg": "157 hits for 'intern'"
+  },
+  {
+   "company": "Viridien",
+   "ats": "workday",
+   "slug": "cgg|wd103|viridiencareers",
+   "status": 200,
+   "msg": "48 hits for 'intern'"
+  },
+  {
+   "company": "Visa",
+   "ats": "workday",
+   "slug": "visa|wd5|visa_talent_portal",
+   "status": 200,
+   "msg": "191 hits for 'intern'"
+  },
+  {
+   "company": "Volaris Group",
+   "ats": "workday",
+   "slug": "volarisgroup|wd3|volaris",
+   "status": 200,
+   "msg": "15 hits for 'intern'"
+  },
+  {
+   "company": "Vontobel",
+   "ats": "workday",
+   "slug": "vontobel|wd3|linkedin",
+   "status": 200,
+   "msg": "46 hits for 'intern'"
+  },
+  {
+   "company": "Yokogawa",
+   "ats": "workday",
+   "slug": "yokogawa|wd3|yokogawa-career-site",
+   "status": 200,
+   "msg": "239 hits for 'intern'"
+  },
+  {
+   "company": "Zalando",
+   "ats": "workday",
+   "slug": "zalando|wd3|zalandositewd",
+   "status": 200,
+   "msg": "73 hits for 'intern'"
+  },
+  {
+   "company": "dentsu",
+   "ats": "workday",
+   "slug": "dentsuaegis|wd3|dan_global",
+   "status": 200,
+   "msg": "537 hits for 'intern'"
+  },
+  {
+   "company": "flaschenpost",
+   "ats": "workday",
+   "slug": "flaschenpost|wd103|flaschenpost",
+   "status": 200,
+   "msg": "14 hits for 'intern'"
+  }
+ ],
+ "aggregators": {
+  "arbeitnow": {
+   "status": 200,
+   "size": 300
+  },
+  "adzuna": {
+   "status": "skipped"
+  }
+ }
+}

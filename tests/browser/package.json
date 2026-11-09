@@ -1,0 +1,16 @@
+{
+  "name": "eu-swe-2027-browser-tests",
+  "private": true,
+  "description": "Browser checks for the site: screenshots, tracker persistence, export/import, Gist sync (mocked).",
+  "scripts": {
+    "serve": "python3 gzserve.py ../../site 8766",
+    "shots": "node shots.js ./shots http://127.0.0.1:8766/",
+    "tracker": "node tracker_test.js http://127.0.0.1:8766/ .",
+    "gist": "node gist_test.js http://127.0.0.1:8766/",
+    "lighthouse": "lighthouse http://127.0.0.1:8766/ --only-categories=performance,accessibility,best-practices --chrome-flags=--headless=new"
+  },
+  "devDependencies": {
+    "lighthouse": "12.3.0",
+    "puppeteer-core": "23.11.1"
+  }
+}

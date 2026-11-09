@@ -1,0 +1,1975 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8696114002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6474697002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8696114002,
+   "updated_at": "2026-10-30T10:04:41-04:00",
+   "requisition_id": "JR106082",
+   "title": "Cloud Systems Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-25T13:24:07-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8722007002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6486587002,
+   "location": {
+    "name": "Warszawa, Masovian Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8722007002,
+   "updated_at": "2026-10-30T10:07:43-04:00",
+   "requisition_id": "JR106055",
+   "title": "Embedded C++ Developer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-21T12:34:21-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8159050002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6233345002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8159050002,
+   "updated_at": "2026-10-30T10:08:36-04:00",
+   "requisition_id": "JR105343",
+   "title": "Management Development Program Associate",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-27T14:53:11-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8853394002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6543966002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8853394002,
+   "updated_at": "2026-10-30T10:09:07-04:00",
+   "requisition_id": "JR106161",
+   "title": "Program Manager, Finance Systems",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-01T16:40:18-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8861546002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6547589002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8861546002,
+   "updated_at": "2026-11-05T17:26:41-05:00",
+   "requisition_id": "JR106175",
+   "title": "Senior Technical Program Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-05T17:26:41-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8900284002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6565181002,
+   "location": {
+    "name": "Needham, Massachusetts"
+   },
+   "metadata": null,
+   "id": 8900284002,
+   "updated_at": "2026-11-02T13:37:45-05:00",
+   "requisition_id": "JR106215",
+   "title": "Software Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T14:08:13-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8822833002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6531191002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8822833002,
+   "updated_at": "2026-10-30T10:06:59-04:00",
+   "requisition_id": "JR106156",
+   "title": "Software Engineer II",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-06T09:58:27-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8924095002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6565181002,
+   "location": {
+    "name": "Needham, Massachusetts"
+   },
+   "metadata": null,
+   "id": 8924095002,
+   "updated_at": "2026-11-02T13:37:45-05:00",
+   "requisition_id": "JR106215",
+   "title": "Software Engineer II",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-30T12:12:56-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8659801002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6457843002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8659801002,
+   "updated_at": "2026-11-03T17:53:54-05:00",
+   "requisition_id": "JR106060",
+   "title": "Software Engineer II",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-31T06:07:16-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8917790002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6573119002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8917790002,
+   "updated_at": "2026-10-30T10:07:12-04:00",
+   "requisition_id": "JR106231",
+   "title": "Software Engineer II",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-28T16:20:43-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8638328002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6450038002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8638328002,
+   "updated_at": "2026-10-30T10:06:21-04:00",
+   "requisition_id": "JR106025",
+   "title": "Software Engineer II - C#",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-28T06:40:23-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8635118002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6448719002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8635118002,
+   "updated_at": "2026-10-30T10:06:19-04:00",
+   "requisition_id": "JR106020",
+   "title": "Software Engineer II (Full-stack Web)\t",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-21T04:16:33-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8649149002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6454183002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8649149002,
+   "updated_at": "2026-10-30T10:06:31-04:00",
+   "requisition_id": "JR106048",
+   "title": "Software Engineer II (.NET)",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-29T07:01:52-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8822832002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6531190002,
+   "location": {
+    "name": "Kraków, Lesser Poland Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8822832002,
+   "updated_at": "2026-10-30T10:06:57-04:00",
+   "requisition_id": "JR106157",
+   "title": "Software Engineer I - (streaming technologies)",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-03T05:46:26-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923631002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6575847002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8923631002,
+   "updated_at": "2026-11-03T17:53:57-05:00",
+   "requisition_id": "JR106230",
+   "title": "Software Rotation Program Associate",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-03T11:30:17-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/7564515002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Tysons, VA"
+   },
+   "metadata": null,
+   "id": 7564515002,
+   "updated_at": "2026-07-08T12:22:31-04:00",
+   "requisition_id": null,
+   "title": "Alarm.com Accounting and Finance Talent Network",
+   "company_name": "Alarm.com",
+   "first_published": "2024-07-23T15:16:18-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/7466450002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Tysons, VA"
+   },
+   "metadata": null,
+   "id": 7466450002,
+   "updated_at": "2026-07-08T12:22:31-04:00",
+   "requisition_id": null,
+   "title": "Alarm.com Human Resources Talent Network",
+   "company_name": "Alarm.com",
+   "first_published": "2024-05-24T18:08:12-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/7462078002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Alarm.com"
+   },
+   "metadata": null,
+   "id": 7462078002,
+   "updated_at": "2026-07-08T12:22:31-04:00",
+   "requisition_id": null,
+   "title": "Alarm.com Sales Talent Network",
+   "company_name": "Alarm.com",
+   "first_published": "2024-05-23T10:39:38-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/7465414002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": null,
+   "location": {
+    "name": "Tysons, VA"
+   },
+   "metadata": null,
+   "id": 7465414002,
+   "updated_at": "2026-07-08T12:22:31-04:00",
+   "requisition_id": null,
+   "title": "Alarm.com Supply Chain Talent Network",
+   "company_name": "Alarm.com",
+   "first_published": "2024-05-24T09:55:46-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8753230002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6500640002,
+   "location": {
+    "name": "Liberty Lake, Washington"
+   },
+   "metadata": null,
+   "id": 8753230002,
+   "updated_at": "2026-10-30T10:09:35-04:00",
+   "requisition_id": "JR106105",
+   "title": "Associate Inside Sales Representative",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-26T18:44:23-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8733921002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6492065002,
+   "location": {
+    "name": "Japan"
+   },
+   "metadata": null,
+   "id": 8733921002,
+   "updated_at": "2026-10-30T10:09:55-04:00",
+   "requisition_id": "JR106100",
+   "title": "Business Development Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-04T11:27:31-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923727002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6474700002,
+   "location": {
+    "name": "Florida"
+   },
+   "metadata": null,
+   "id": 8923727002,
+   "updated_at": "2026-11-05T13:10:39-05:00",
+   "requisition_id": "JR106075",
+   "title": " Commercial Sales Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T11:41:03-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8696117002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6474700002,
+   "location": {
+    "name": "Texas, United States"
+   },
+   "metadata": null,
+   "id": 8696117002,
+   "updated_at": "2026-10-30T10:09:32-04:00",
+   "requisition_id": "JR106075",
+   "title": "Commercial Sales Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-19T10:27:41-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8900240002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6565163002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8900240002,
+   "updated_at": "2026-10-30T10:08:01-04:00",
+   "requisition_id": "JR106198",
+   "title": "Component Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T14:32:06-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8919539002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6573948002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8919539002,
+   "updated_at": "2026-11-05T12:31:28-05:00",
+   "requisition_id": "JR106220",
+   "title": "Customer Success Operations Associate",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-04T13:00:35-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8801196002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6420032002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8801196002,
+   "updated_at": "2026-10-30T10:04:31-04:00",
+   "requisition_id": "JR105885",
+   "title": "Database Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-11T11:40:40-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8752266002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6500538002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8752266002,
+   "updated_at": "2026-10-30T10:07:45-04:00",
+   "requisition_id": "JR106111",
+   "title": "Device Engineer II",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-02T15:56:21-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8924631002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6559667002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8924631002,
+   "updated_at": "2026-10-30T10:07:55-04:00",
+   "requisition_id": "JR106214",
+   "title": "Device Engineer II (RF/EMC) ",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T17:21:48-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8828043002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6533660002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8828043002,
+   "updated_at": "2026-10-30T10:04:45-04:00",
+   "requisition_id": "JR106154",
+   "title": "DevOps Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-19T14:27:59-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8392931002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6350788002,
+   "location": {
+    "name": "Boston, Massachusetts"
+   },
+   "metadata": null,
+   "id": 8392931002,
+   "updated_at": "2026-10-30T10:07:27-04:00",
+   "requisition_id": "JR105599",
+   "title": "Engineering Manager - Embedded Firmware ",
+   "company_name": "Alarm.com",
+   "first_published": "2026-02-17T16:55:05-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8750788002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6499924002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8750788002,
+   "updated_at": "2026-10-30T10:08:22-04:00",
+   "requisition_id": "JR106118",
+   "title": "Facilities Associate",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-08T10:32:56-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923821002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6499924002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8923821002,
+   "updated_at": "2026-10-30T10:08:22-04:00",
+   "requisition_id": "JR106118",
+   "title": "Facilities Maintenance Associate",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T12:18:08-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8853396002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6543967002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8853396002,
+   "updated_at": "2026-10-30T10:09:08-04:00",
+   "requisition_id": "JR106162",
+   "title": "Finance Transformation Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-01T16:40:44-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8883714002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6557671002,
+   "location": {
+    "name": "Warszawa, Masovian Voivodeship, Poland"
+   },
+   "metadata": null,
+   "id": 8883714002,
+   "updated_at": "2026-10-16T06:20:06-04:00",
+   "requisition_id": "JR106166",
+   "title": "HR Generalist (fixed-term)",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-16T06:20:06-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8861547002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6547590002,
+   "location": {
+    "name": "Texas, United States"
+   },
+   "metadata": null,
+   "id": 8861547002,
+   "updated_at": "2026-11-04T12:22:45-05:00",
+   "requisition_id": "JR106171",
+   "title": "Human Resources Business Partner",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-05T11:16:36-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8920295002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6574288002,
+   "location": {
+    "name": "Bogotá, Bogotá, Colombia"
+   },
+   "metadata": null,
+   "id": 8920295002,
+   "updated_at": "2026-11-06T11:54:29-05:00",
+   "requisition_id": "JR106191",
+   "title": "Inside Sales Representative",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-06T11:54:29-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8471613002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6383670002,
+   "location": {
+    "name": "Spain"
+   },
+   "metadata": null,
+   "id": 8471613002,
+   "updated_at": "2026-10-30T10:10:46-04:00",
+   "requisition_id": "JR105747",
+   "title": "International Project Manager - EMEA",
+   "company_name": "Alarm.com",
+   "first_published": "2026-04-07T15:35:00-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8746993002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6498155002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8746993002,
+   "updated_at": "2026-10-30T10:08:39-04:00",
+   "requisition_id": "JR106112",
+   "title": "Lead Compensation Analyst",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-05T12:34:56-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8761347002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6504677002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8761347002,
+   "updated_at": "2026-10-30T10:08:53-04:00",
+   "requisition_id": "JR106127",
+   "title": "Manager, Corporate Accounting",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-03T12:28:18-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8918314002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6573347002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8918314002,
+   "updated_at": "2026-11-01T02:06:54-05:00",
+   "requisition_id": "JR106208",
+   "title": "Manager, IT Internal Audit",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-28T19:25:57-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8801083002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6521609002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8801083002,
+   "updated_at": "2026-10-30T10:08:57-04:00",
+   "requisition_id": "JR106145",
+   "title": "Manager of Financial Reporting & Technical Accounting",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-29T18:04:50-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8610060002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6438780002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8610060002,
+   "updated_at": "2026-10-30T10:07:37-04:00",
+   "requisition_id": "JR105955",
+   "title": "Manufacturing Quality Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-10T12:49:07-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8796547002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6519494002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8796547002,
+   "updated_at": "2026-10-30T10:09:41-04:00",
+   "requisition_id": "JR106131",
+   "title": "Partner Success Executive",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-23T16:12:01-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8030878002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6178162002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8030878002,
+   "updated_at": "2026-10-30T10:04:05-04:00",
+   "requisition_id": "JR105160",
+   "title": "Principal Network Security Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2025-07-14T10:26:34-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8868356002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6413305002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8868356002,
+   "updated_at": "2026-11-03T17:53:50-05:00",
+   "requisition_id": "JR105861",
+   "title": "Principal Software Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-05T11:40:51-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8648918002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6454095002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8648918002,
+   "updated_at": "2026-10-30T10:10:38-04:00",
+   "requisition_id": "JR106032",
+   "title": "Product Manager- Access Technologies",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-05T19:24:09-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8842046002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6455833002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8842046002,
+   "updated_at": "2026-10-30T10:10:39-04:00",
+   "requisition_id": "JR106039",
+   "title": "Product Manager II (Technical) ",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-23T22:07:52-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8399305002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6353210002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8399305002,
+   "updated_at": "2026-10-30T10:10:16-04:00",
+   "requisition_id": "JR105615",
+   "title": "Product Marketing Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-02-09T16:06:15-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8920296002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6574289002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8920296002,
+   "updated_at": "2026-11-05T11:29:20-05:00",
+   "requisition_id": "JR106225",
+   "title": "Product Marketing Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-05T11:29:20-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8870659002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6551891002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8870659002,
+   "updated_at": "2026-10-30T10:08:15-04:00",
+   "requisition_id": "JR106189",
+   "title": "Quality Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-12T10:05:53-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8882544002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6351375002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8882544002,
+   "updated_at": "2026-10-30T10:08:02-04:00",
+   "requisition_id": "JR105610",
+   "title": "Quality Engineer I",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-09T18:56:02-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8713807002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6458199002,
+   "location": {
+    "name": "REMOTE"
+   },
+   "metadata": null,
+   "id": 8713807002,
+   "updated_at": "2026-10-30T10:09:32-04:00",
+   "requisition_id": "JR106058",
+   "title": "Regional Sales Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-14T09:11:26-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8573813002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6424514002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8573813002,
+   "updated_at": "2026-10-30T10:09:21-04:00",
+   "requisition_id": "JR105926",
+   "title": "Revenue Operations Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-06-08T10:55:16-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8924188002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6543971002,
+   "location": {
+    "name": "Liberty Lake, Washington"
+   },
+   "metadata": null,
+   "id": 8924188002,
+   "updated_at": "2026-11-04T18:41:28-05:00",
+   "requisition_id": "JR106165",
+   "title": "RMA Technician",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T14:49:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8882084002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6556927002,
+   "location": {
+    "name": "Bogotá, Bogotá, Colombia"
+   },
+   "metadata": null,
+   "id": 8882084002,
+   "updated_at": "2026-10-30T10:10:02-04:00",
+   "requisition_id": "JR106192",
+   "title": "Sales Analyst & Business Coordinator",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-19T15:17:02-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8646370002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6452983002,
+   "location": {
+    "name": "Massachusetts, United States"
+   },
+   "metadata": null,
+   "id": 8646370002,
+   "updated_at": "2026-10-30T10:09:25-04:00",
+   "requisition_id": "JR106000",
+   "title": "Sales Engineer - Northeast",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-22T18:29:23-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8853393002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6543965002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8853393002,
+   "updated_at": "2026-11-06T14:46:21-05:00",
+   "requisition_id": "JR106147",
+   "title": "Senior Accountant",
+   "company_name": "Alarm.com",
+   "first_published": "2026-11-05T16:00:04-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8842947002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6458199002,
+   "location": {
+    "name": "REMOTE"
+   },
+   "metadata": null,
+   "id": 8842947002,
+   "updated_at": "2026-10-30T10:09:32-04:00",
+   "requisition_id": "JR106058",
+   "title": "Senior Account Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-24T14:06:10-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8783306002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6233344002,
+   "location": {
+    "name": "San Diego, California"
+   },
+   "metadata": null,
+   "id": 8783306002,
+   "updated_at": "2026-10-30T10:07:20-04:00",
+   "requisition_id": "JR105348",
+   "title": "Senior Device Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-03T19:02:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8341986002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6245198002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8341986002,
+   "updated_at": "2026-10-30T10:07:22-04:00",
+   "requisition_id": "JR105383",
+   "title": "Senior Device Engineer (Gateway)",
+   "company_name": "Alarm.com",
+   "first_published": "2025-12-16T11:32:45-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8610061002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6438781002,
+   "location": {
+    "name": "San Diego, California"
+   },
+   "metadata": null,
+   "id": 8610061002,
+   "updated_at": "2026-10-30T10:07:38-04:00",
+   "requisition_id": "JR105962",
+   "title": "Senior Device Engineer - Mechanical",
+   "company_name": "Alarm.com",
+   "first_published": "2026-07-01T14:28:41-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8675596002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6465393002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8675596002,
+   "updated_at": "2026-10-30T10:04:36-04:00",
+   "requisition_id": "JR106069",
+   "title": "Senior Financial Systems Engineer ",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-10T14:32:45-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8877371002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6554828002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8877371002,
+   "updated_at": "2026-10-30T10:04:47-04:00",
+   "requisition_id": "JR106186",
+   "title": "Senior Financial Systems Engineer, Dynamics365",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-22T12:52:54-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8750789002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6499925002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8750789002,
+   "updated_at": "2026-10-30T17:32:46-04:00",
+   "requisition_id": "JR106124",
+   "title": "Senior Manager, Accounting",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-28T18:54:50-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8722273002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6486722002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8722273002,
+   "updated_at": "2026-10-30T10:07:44-04:00",
+   "requisition_id": "JR106092",
+   "title": "Senior Mechanical Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-19T20:19:47-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8516481002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6401945002,
+   "location": {
+    "name": "Taoyuan, Taiwan"
+   },
+   "metadata": null,
+   "id": 8516481002,
+   "updated_at": "2026-10-30T10:07:35-04:00",
+   "requisition_id": "JR105820",
+   "title": "Senior Multimedia Firmware Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-05-04T09:44:37-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8877374002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6554831002,
+   "location": {
+    "name": "REMOTE"
+   },
+   "metadata": null,
+   "id": 8877374002,
+   "updated_at": "2026-10-30T10:09:44-04:00",
+   "requisition_id": "JR106182",
+   "title": "Senior Partner Growth Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-12T15:29:48-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8660676002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6458199002,
+   "location": {
+    "name": "REMOTE"
+   },
+   "metadata": null,
+   "id": 8660676002,
+   "updated_at": "2026-10-30T10:09:32-04:00",
+   "requisition_id": "JR106058",
+   "title": "Senior Partner Growth Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-08-06T12:03:32-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8863303002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6370390002,
+   "location": {
+    "name": "Redwood City, California; San Diego, California"
+   },
+   "metadata": null,
+   "id": 8863303002,
+   "updated_at": "2026-10-30T10:10:36-04:00",
+   "requisition_id": "JR105679",
+   "title": "Senior Product Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-02T09:21:44-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8601611002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6370390002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8601611002,
+   "updated_at": "2026-10-30T10:10:36-04:00",
+   "requisition_id": "JR105679",
+   "title": "Senior Product Manager",
+   "company_name": "Alarm.com",
+   "first_published": "2026-06-19T17:35:46-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8807341002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6524535002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8807341002,
+   "updated_at": "2026-10-30T10:10:42-04:00",
+   "requisition_id": "JR106130",
+   "title": "Senior Regulatory Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-23T13:49:40-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8924639002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6450902002,
+   "location": {
+    "name": "Tysons, Virginia"
+   },
+   "metadata": null,
+   "id": 8924639002,
+   "updated_at": "2026-10-30T10:07:41-04:00",
+   "requisition_id": "JR106031",
+   "title": "Senior RF/EMC Engineer ",
+   "company_name": "Alarm.com",
+   "first_published": "2026-10-29T17:20:57-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/alarmcom/jobs/8815202002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "education": "education_optional",
+   "internal_job_id": 6450901002,
+   "location": {
+    "name": "Needham, Massachusetts"
+   },
+   "metadata": null,
+   "id": 8815202002,
+   "updated_at": "2026-10-30T10:06:25-04:00",
+   "requisition_id": "JR106030",
+   "title": "Senior Software Engineer",
+   "company_name": "Alarm.com",
+   "first_published": "2026-09-16T15:11:46-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 92
+ },
+ "_host": "https://boards-api.greenhouse.io"
+}

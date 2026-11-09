@@ -1,0 +1,1023 @@
+{
+ "totalFound": 12,
+ "content": [
+  {
+   "id": "744000156583180",
+   "name": "Embedded Software Developer - Peripherals",
+   "uuid": "d53861e3-07b2-4034-afbc-334320013763",
+   "jobAdId": "78409f38-1423-4111-80f4-95be078aa228",
+   "defaultJobAd": true,
+   "refNumber": "REF123M",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-20T14:42:56.499Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "",
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+   },
+   "department": {
+    "id": "11813953",
+    "label": "Research & Development"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813953",
+     "valueLabel": "Research & Development"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "41103fe7-ff49-46b1-aeb9-6ec1702284e6",
+     "valueLabel": "Prague, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "54ce2367-2701-44b1-b9c0-44de3f1c060f",
+     "valueLabel": "20.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000156583180",
+   "creator": {
+    "name": "Martin Mihalko"
+   },
+   "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+   }
+  },
+  {
+   "id": "744000154420959",
+   "name": "Junior Agentic DevOps Engineer",
+   "uuid": "f440ba5f-596e-4c26-81d7-ae4ae4946efe",
+   "jobAdId": "394f9382-58ca-4171-8c00-f9fc677b46cd",
+   "defaultJobAd": true,
+   "refNumber": "REF119O",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-08T12:06:46.058Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+   },
+   "department": {
+    "id": "11813953",
+    "label": "Research & Development"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813953",
+     "valueLabel": "Research & Development"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "41103fe7-ff49-46b1-aeb9-6ec1702284e6",
+     "valueLabel": "Prague, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "bf110988-07d8-4471-ad92-f0fcd97fb87f",
+     "valueLabel": "10.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000154420959",
+   "creator": {
+    "name": "Andrea Šnoblová"
+   },
+   "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+   }
+  },
+  {
+   "id": "744000160554649",
+   "name": "R&D Manager - SW Development",
+   "uuid": "814c83e9-b357-4f85-9225-90b71e3c3ee0",
+   "jobAdId": "277c73be-5754-474c-b3d9-7d38b3a49515",
+   "defaultJobAd": true,
+   "refNumber": "REF125S",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-11-09T08:39:16.368Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+   },
+   "department": {
+    "id": "11813953",
+    "label": "Research & Development"
+   },
+   "function": {
+    "id": "management",
+    "label": "Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813953",
+     "valueLabel": "Research & Development"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "23545417-2cf2-446f-8b1f-aab774fb807e",
+     "valueLabel": "Praha, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "84c96138-1931-4f35-8306-af446bd75584",
+     "valueLabel": "30.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000160554649",
+   "creator": {
+    "name": "Martin Mihalko"
+   },
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000158470495",
+   "name": "Key Account EMEA Real Estate ",
+   "uuid": "787bf124-0adf-4601-8f31-b805258075cc",
+   "jobAdId": "582b79d1-dfea-433a-a7b0-28f191ff0324",
+   "defaultJobAd": true,
+   "refNumber": "REF108N",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-29T09:34:30.763Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Hvězdova 1716/2b",
+    "postalCode": "140 00",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.050417",
+    "longitude": "14.436136",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11813970",
+    "label": "Sales"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "54ce2367-2701-44b1-b9c0-44de3f1c060f",
+     "valueLabel": "20.000 Kč"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813970",
+     "valueLabel": "Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000158470495",
+   "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+   }
+  },
+  {
+   "id": "744000158065005",
+   "name": "Mechanik-konstruktér strojů a přípravků",
+   "uuid": "5ddd5261-d36f-4348-b621-245483efaef5",
+   "jobAdId": "f9ed18a9-6eac-4ace-9a73-e8ddff3901f2",
+   "defaultJobAd": true,
+   "refNumber": "REF100V",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-27T14:34:45.204Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "mechanical_engineering",
+    "label": "Mechanical Or Industrial Engineering"
+   },
+   "department": {
+    "id": "11813851",
+    "label": "Manufacturing & Industrialization"
+   },
+   "function": {
+    "id": "production",
+    "label": "Production"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813851",
+     "valueLabel": "Manufacturing & Industrialization"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "41103fe7-ff49-46b1-aeb9-6ec1702284e6",
+     "valueLabel": "Prague, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "76521e42-49ed-41e3-b269-c36c343e5af8",
+     "valueLabel": "15.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000158065005",
+   "creator": {
+    "name": "Lada Pasek"
+   },
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000156793631",
+   "name": "Area Account Manager - ČR (Brno)",
+   "uuid": "8aabd99f-2191-490f-9a03-f9320e106433",
+   "jobAdId": "c13e7629-044d-47f9-99e5-dd8bea228841",
+   "defaultJobAd": true,
+   "refNumber": "REF124Z",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-21T12:53:57.040Z",
+   "location": {
+    "city": "Brno",
+    "region": "South Moravian",
+    "country": "cz",
+    "address": "Stránského 3140/39",
+    "postalCode": "616 00",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "49.212521",
+    "longitude": "16.569568",
+    "fullLocation": "Brno, South Moravian, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11813970",
+    "label": "Sales"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "76521e42-49ed-41e3-b269-c36c343e5af8",
+     "valueLabel": "15.000 Kč"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813970",
+     "valueLabel": "Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000156793631",
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000156483559",
+   "name": "Product Integration Specialist (pro studenty VŠ)",
+   "uuid": "86c91197-62ff-4cc5-8bbd-9da9120f4c62",
+   "jobAdId": "36365506-6efa-4936-8b1b-4262b47c37b4",
+   "defaultJobAd": true,
+   "refNumber": "REF121Y",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-20T07:35:58.246Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11813987",
+    "label": "Product Management"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813987",
+     "valueLabel": "Product Management"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "23545417-2cf2-446f-8b1f-aab774fb807e",
+     "valueLabel": "Praha, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "3ca5f76b-0a75-45dd-8d42-17d359b7e204",
+     "valueLabel": "5.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000156483559",
+   "creator": {
+    "name": "Adéla Ryjáčková"
+   },
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000155266454",
+   "name": "Area Account Manager - ČR (Praha)",
+   "uuid": "df202581-81fb-4c05-8622-ca4767f134de",
+   "jobAdId": "55fd8565-4174-4a7a-b9f6-6a5f2b4d6977",
+   "defaultJobAd": true,
+   "refNumber": "REF116W",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-13T13:38:03.657Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Hvězdova 1716/2b",
+    "postalCode": "140 00",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.050417",
+    "longitude": "14.436136",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11813970",
+    "label": "Sales"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813970",
+     "valueLabel": "Sales"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "f208b987-6f3c-4f2a-9540-454cc33fd24e",
+     "valueLabel": "Prague, Pankrác"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "54ce2367-2701-44b1-b9c0-44de3f1c060f",
+     "valueLabel": "20.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000155266454",
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000155265884",
+   "name": "Inside Sales Representative - Nordics (Based in Prague)",
+   "uuid": "17c3f8dd-37fa-4d3b-97a4-4573eda65745",
+   "jobAdId": "f6cbbd0d-afee-4420-8bd9-0334fa738aa9",
+   "defaultJobAd": true,
+   "refNumber": "REF115B",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-13T13:37:14.238Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Hvězdova 1716/2b",
+    "postalCode": "140 00",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.050417",
+    "longitude": "14.436136",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11813970",
+    "label": "Sales"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813970",
+     "valueLabel": "Sales"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "f208b987-6f3c-4f2a-9540-454cc33fd24e",
+     "valueLabel": "Prague, Pankrác"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "54ce2367-2701-44b1-b9c0-44de3f1c060f",
+     "valueLabel": "20.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000155265884",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000154074029",
+   "name": "Datový architekt",
+   "uuid": "3f56412d-a31c-49a2-9c25-d2a2f7958761",
+   "jobAdId": "b6cba3b8-f624-4528-8a8c-19997457130a",
+   "defaultJobAd": true,
+   "refNumber": "REF103Y",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-07T11:14:13.586Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Hvězdova 1716/2b",
+    "postalCode": "140 00",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.050417",
+    "longitude": "14.436136",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+   },
+   "department": {
+    "id": "11814038",
+    "label": "IT"
+   },
+   "function": {
+    "id": "analyst",
+    "label": "Analyst"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11814038",
+     "valueLabel": "IT"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "f208b987-6f3c-4f2a-9540-454cc33fd24e",
+     "valueLabel": "Prague, Pankrác"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "54ce2367-2701-44b1-b9c0-44de3f1c060f",
+     "valueLabel": "20.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000154074029",
+   "creator": {
+    "name": "Lada Pasek"
+   },
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000152869089",
+   "name": "Project & Production Quality Manager",
+   "uuid": "c531c4c1-319b-4a7d-9f11-990375a4df47",
+   "jobAdId": "17f6d91d-21b1-480b-91a6-c99cbb9dad98",
+   "defaultJobAd": true,
+   "refNumber": "REF118C",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-10-01T08:33:49.028Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Modřanská 621",
+    "postalCode": "143 01",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "50.015955",
+    "longitude": "14.403337",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "electrical_manufacturing",
+    "label": "Electrical And Electronic Manufacturing"
+   },
+   "department": {
+    "id": "11813919",
+    "label": "Quality"
+   },
+   "function": {
+    "id": "quality_assurance",
+    "label": "Quality Assurance"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11813919",
+     "valueLabel": "Quality"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "23545417-2cf2-446f-8b1f-aab774fb807e",
+     "valueLabel": "Praha, Modřany"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "84c96138-1931-4f35-8306-af446bd75584",
+     "valueLabel": "30.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000152869089",
+   "creator": {
+    "name": "Martin Mihalko"
+   },
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  },
+  {
+   "id": "744000149010295",
+   "name": "Projects Portfolio Lead (non-product projects)",
+   "uuid": "2d509967-4ec8-497e-b168-7bd3a5c6296a",
+   "jobAdId": "5c019818-26b0-4ba1-a0e7-0cfea097d232",
+   "defaultJobAd": true,
+   "refNumber": "REF114S",
+   "company": {
+    "identifier": "2NTELEKOMUNIKACEAs",
+    "name": "2N TELEKOMUNIKACE a.s."
+   },
+   "releasedDate": "2026-09-11T12:43:36.423Z",
+   "location": {
+    "city": "Prague",
+    "region": "Hlavní město Praha",
+    "country": "cz",
+    "address": "Hvězdova 1716/2b",
+    "postalCode": "140 00",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "50.050417",
+    "longitude": "14.436136",
+    "fullLocation": "Prague, Hlavní město Praha, Czechia"
+   },
+   "industry": {
+    "id": "telecommunications",
+    "label": "Telecommunications"
+   },
+   "department": {
+    "id": "11814004",
+    "label": "Finance & Legal"
+   },
+   "function": {
+    "id": "project_management",
+    "label": "Project Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6765610f63b57c47be5b0dcb",
+     "fieldLabel": "Department",
+     "valueId": "11814004",
+     "valueLabel": "Finance & Legal"
+    },
+    {
+     "fieldId": "6765610f63b57c47be5b0dca",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "2N TELEKOMUNIKACE a.s."
+    },
+    {
+     "fieldId": "67978924434a403e1411a226",
+     "fieldLabel": "Office",
+     "valueId": "f208b987-6f3c-4f2a-9540-454cc33fd24e",
+     "valueLabel": "Prague, Pankrác"
+    },
+    {
+     "fieldId": "67978a2cd555bd0e132c6fb9",
+     "fieldLabel": "Referral bonus",
+     "valueId": "84c96138-1931-4f35-8306-af446bd75584",
+     "valueLabel": "30.000 Kč"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "cz",
+     "valueLabel": "Czechia"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/2NTELEKOMUNIKACEAs/postings/744000149010295",
+   "language": {
+    "code": "cs",
+    "label": "Czech",
+    "labelNative": "čeština"
+   }
+  }
+ ]
+}

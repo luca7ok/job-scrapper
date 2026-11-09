@@ -1,0 +1,6443 @@
+{
+ "totalFound": 180,
+ "content": [
+  {
+   "id": "744000159683129",
+   "name": "Praktikant*in Wholesale Buying (all genders)",
+   "uuid": "9fcfa543-340d-4985-ae83-c6ea6f24fe9b",
+   "jobAdId": "358da689-843d-4195-92ce-206a3674bf41",
+   "defaultJobAd": false,
+   "refNumber": "ID2608-00434A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T16:40:29.404Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "0b44bea8-9b13-4c37-920a-2d6d10bf2fa6",
+     "valueLabel": "Buying & Merchandising"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159683129",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159682889",
+   "name": "Intern Wholesale Buying (all genders)",
+   "uuid": "18bc6a28-ca44-4047-87d8-8d256ddc6d75",
+   "jobAdId": "5994da78-53aa-4729-b306-d7ca7b64d4a5",
+   "defaultJobAd": true,
+   "refNumber": "ID2608-00434A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T16:39:54.219Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "0b44bea8-9b13-4c37-920a-2d6d10bf2fa6",
+     "valueLabel": "Buying & Merchandising"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159682889",
+   "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+   }
+  },
+  {
+   "id": "744000159670595",
+   "name": "(Junior) Product Operations & Assortment Manager (all genders)",
+   "uuid": "f91ce6cf-ae72-4185-ade7-223308ce4a87",
+   "jobAdId": "b9a4305d-1294-464b-8af7-ec8f5de4f3eb",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00585A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T15:57:56.209Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "11a67035-ab2d-404e-b30f-73e75af3810d",
+     "valueLabel": "Partner Management & Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159670595",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159671610",
+   "name": "(Junior) Product Operations & Assortment Manager (all genders)",
+   "uuid": "8a9cdc93-ea01-459f-87df-627596e957dd",
+   "jobAdId": "34132b76-b9ed-4ce6-beb4-7e1805bc8049",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00585A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T15:57:35.486Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "11a67035-ab2d-404e-b30f-73e75af3810d",
+     "valueLabel": "Partner Management & Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159671610",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159599380",
+   "name": "(Junior) Merchandise Planner (all genders) ",
+   "uuid": "6031cf21-248a-43cf-ae0d-17fbfa2b4f54",
+   "jobAdId": "fdb9a028-712d-42d9-9719-eaf62bfcbad4",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00604A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T10:45:43.850Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "strategy_planning",
+    "label": "Strategy/Planning"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159599380",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159600021",
+   "name": "(Junior) Merchandise Planner (all genders) ",
+   "uuid": "24743b61-1cf6-4e8c-8463-c5fcae3040fe",
+   "jobAdId": "0fc09ce3-94b3-43ca-b6e7-6e2b25ee6cb0",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00604A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T10:45:19.419Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "strategy_planning",
+    "label": "Strategy/Planning"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159600021",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159424659",
+   "name": "Praktikant*in - Sale & Campaign Planning (all genders)",
+   "uuid": "32467737-9228-4b63-aa8a-4248e6dd3b9d",
+   "jobAdId": "74204dfc-8d24-46af-895f-63a2b3fefbcd",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00609A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-03T15:39:34.407Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159424659",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159424429",
+   "name": "Intern Sale & Campaign Planning (all genders)",
+   "uuid": "d0f9ca35-f4f8-48d7-8960-52d029116e48",
+   "jobAdId": "1349ec3b-9f9b-4d77-a4c3-6939ac1719cc",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00609A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-03T15:39:10.612Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159424429",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158264680",
+   "name": "Praktikant*in Partner Business Development (all genders)",
+   "uuid": "456210d1-f662-4491-b4e3-4503ae582bd6",
+   "jobAdId": "3d63705d-96dd-43d3-91ba-a280979ce920",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00603A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T11:14:07.818Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "efea343c-4a7f-482e-a300-0c269de674c8",
+     "valueLabel": "Business Development & Strategy"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158264680",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158264542",
+   "name": "Intern Marketplaces Business Development (all genders)",
+   "uuid": "7874546b-2689-4f68-99d3-675a7451f72b",
+   "jobAdId": "25b1e02d-208c-4af9-9597-5e3c34ef5109",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00603A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T11:10:23.744Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "efea343c-4a7f-482e-a300-0c269de674c8",
+     "valueLabel": "Business Development & Strategy"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158264542",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158226156",
+   "name": "Praktikant*in - Dutch-speaking (all genders)",
+   "uuid": "fa737ffe-7173-41eb-9acb-10abae4e463f",
+   "jobAdId": "136ea2c6-1332-474c-8b80-0d4903feefd1",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00601A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T08:23:53.459Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158226156",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158227039",
+   "name": "Intern Markets - Dutch-speaking (all genders)",
+   "uuid": "e3a7d74d-5ae8-4bde-a886-dd8fc85da5d2",
+   "jobAdId": "c9503d35-77a2-4d77-afff-3e855e0cf97e",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00601A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T08:22:11.722Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158227039",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157777529",
+   "name": "Software Engineer - Supply Data Solutions (all genders)",
+   "uuid": "b2e08a1c-8ea7-41c5-b163-a938e3ba3ed8",
+   "jobAdId": "44dd2c42-f030-466f-9aa4-f6ea09ab0b4e",
+   "defaultJobAd": false,
+   "refNumber": "REF3380A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-26T10:39:02.708Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "f9fddf55-9c7b-4ea1-a2a7-1b9e21b3d0ae",
+     "valueLabel": "Data & Analytics"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157777529",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157774990",
+   "name": "Software Engineer - Supply Data Solutions (all genders)",
+   "uuid": "0c2d7696-0f30-4621-9e49-403f69fd6f70",
+   "jobAdId": "f34bda7c-5ebb-4f8b-b0a0-eca4235eff94",
+   "defaultJobAd": true,
+   "refNumber": "REF3380A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-26T10:38:41.701Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "f9fddf55-9c7b-4ea1-a2a7-1b9e21b3d0ae",
+     "valueLabel": "Data & Analytics"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157774990",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157087709",
+   "name": "Junior Application Security Engineer (all genders)",
+   "uuid": "e4907875-b0d7-4dfb-b37f-aa32375dc26b",
+   "jobAdId": "5013e0b2-3708-4e4e-a6a6-8a9e6ada3e83",
+   "defaultJobAd": false,
+   "refNumber": "Dummy-ID2607-00396A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T09:47:56.072Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "fef2f611-842f-46cb-ae7c-bd6816ff3786",
+     "valueLabel": "ABOUT YOU Holding AG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157087709",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157086740",
+   "name": "Junior Application Security Engineer (all genders)",
+   "uuid": "3aa8c66b-ddb4-4042-b975-56edb527ad19",
+   "jobAdId": "e0083d16-4b4e-45dc-881c-79b4169d5596",
+   "defaultJobAd": true,
+   "refNumber": "Dummy-ID2607-00396A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T09:47:36.768Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "fef2f611-842f-46cb-ae7c-bd6816ff3786",
+     "valueLabel": "ABOUT YOU Holding AG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157086740",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000156762629",
+   "name": "Praktikant*in Talent Acquisition - Young Talents (all genders)",
+   "uuid": "0415e7eb-41e3-4bb2-94b3-2905e0c6369d",
+   "jobAdId": "2cf5adf9-2b2f-4f12-881f-ad019666094b",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00584A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-21T10:08:08.476Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "229c8be9-8e26-47eb-8c66-587ca7af7268",
+     "valueLabel": "People & Organization"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156762629",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000156762259",
+   "name": "Intern Talent Acquisition - Young Talents (all genders)",
+   "uuid": "bfe8c367-25a2-4222-a01b-bc0d39256605",
+   "jobAdId": "8152f541-0377-4ce7-9c19-50ea3282a7ba",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00584A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-21T10:06:14.528Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "229c8be9-8e26-47eb-8c66-587ca7af7268",
+     "valueLabel": "People & Organization"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156762259",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000156594739",
+   "name": "Praktikant*in Social Media (all genders)",
+   "uuid": "d3c41b59-4957-486f-918d-71e3530defeb",
+   "jobAdId": "539ffc1f-abe2-4b43-9541-081cc740e86c",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00580A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-20T15:19:35.740Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "11523831",
+    "label": "Marketing"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "11523831",
+     "valueLabel": "Marketing"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "864fb660-e1e2-4e97-8fa3-cde64117abfe",
+     "valueLabel": "Social Media"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156594739",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000156594289",
+   "name": "Intern Social Media (all genders)",
+   "uuid": "738ab050-fd8b-4260-a7c3-e0be4e4b4b31",
+   "jobAdId": "f1c9fc78-a4ca-48c2-830d-ea084d83a4bc",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00580A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-20T15:18:20.753Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "11523831",
+    "label": "Marketing"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "11523831",
+     "valueLabel": "Marketing"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "864fb660-e1e2-4e97-8fa3-cde64117abfe",
+     "valueLabel": "Social Media"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156594289",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000156247659",
+   "name": "Product Developer - LAYBELS (all genders)",
+   "uuid": "212df553-40a1-4bc3-b82f-4b0f800d9907",
+   "jobAdId": "ca95f7a8-e57d-43d3-ac7e-d30bca1c9f34",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00570Adummy",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-19T07:43:54.897Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156247659",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000156245374",
+   "name": "Product Developer - LAYBELS (all genders)",
+   "uuid": "473cce3a-329d-434b-b072-e174c039667c",
+   "jobAdId": "39887f9a-0a50-4b17-800d-b252abfee094",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00570Adummy",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-19T07:40:01.538Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156245374",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000156245999",
+   "name": "Junior Product Developer - LAYBELS (all genders)",
+   "uuid": "4a865dc3-7d77-406d-8917-646151829e2d",
+   "jobAdId": "62a3c2c3-a3c5-406d-8ad9-4f210ab2d684",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00570A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-19T07:35:46.387Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156245999",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000156243162",
+   "name": "Junior Product Developer - LAYBELS (all genders)",
+   "uuid": "b7de758b-2b2b-481c-b2de-3907a22d0613",
+   "jobAdId": "8d0ce964-48c2-44e7-8dcb-e218a0dd3366",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00570A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-19T07:29:26.228Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000156243162",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000155786623",
+   "name": "Praktikant*in Markets - English-speaking (all genders)",
+   "uuid": "f5b6e538-8395-4c40-9f88-20f4d2e4fe47",
+   "jobAdId": "b0ab21a2-f168-44f8-950b-5a114482de45",
+   "defaultJobAd": false,
+   "refNumber": "ID2609-00534A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-15T15:17:31.733Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000155786623",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000155787959",
+   "name": " Intern Markets - English-speaking (all genders)",
+   "uuid": "28e8fc7a-0f83-4b2a-bcdb-d2445899e82c",
+   "jobAdId": "9aa71d26-1c31-4d66-bc8e-d2a0b715f772",
+   "defaultJobAd": true,
+   "refNumber": "ID2609-00534A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-15T15:16:06.142Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000155787959",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000151832959",
+   "name": "Backend Engineer - Recommendation (all genders)",
+   "uuid": "787c41a2-49fb-4906-b34f-d5d24fa1bab0",
+   "jobAdId": "5fb86ee8-b1b0-4ae4-9669-6aa975e8ecd1",
+   "defaultJobAd": false,
+   "refNumber": "ID2602-00102A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-09-25T12:12:53.188Z",
+   "location": {
+    "city": "Hamburg oder Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg oder Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000151832959",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000151832569",
+   "name": "Backend Engineer - Recommendation (all genders)",
+   "uuid": "b12cab7e-537c-450a-9a0a-10ecad3cf361",
+   "jobAdId": "43c4eaca-47d0-499f-95cd-23bbdc315e42",
+   "defaultJobAd": true,
+   "refNumber": "ID2602-00102A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-09-25T12:11:13.306Z",
+   "location": {
+    "city": "Hamburg or Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg or Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000151832569",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000147485600",
+   "name": "Application Security Engineer (all genders)",
+   "uuid": "246bb867-3023-4a7f-980e-331efbb4fd89",
+   "jobAdId": "3d42b33b-f153-48bb-956e-f8a754cffd0a",
+   "defaultJobAd": false,
+   "refNumber": "ID2607-00396A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-09-04T11:26:28.557Z",
+   "location": {
+    "city": "Hamburg oder Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg oder Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000147485600",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000147486149",
+   "name": "Application Security Engineer (all genders)",
+   "uuid": "59b5f9f3-c8d7-415f-87a4-52ea3ea96de2",
+   "jobAdId": "e3cda80a-0527-49c5-b905-2e3ab9d853c6",
+   "defaultJobAd": true,
+   "refNumber": "ID2607-00396A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-09-04T11:25:07.326Z",
+   "location": {
+    "city": "Hamburg or Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg or Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000147486149",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160599483",
+   "name": "(Senior) Technical Process / Product Owner - Supply Tech (all genders)",
+   "uuid": "57691e17-b834-4d1e-aeab-b4630f9e9982",
+   "jobAdId": "5f0418d2-b76e-4f82-96a7-d07c1336c542",
+   "defaultJobAd": true,
+   "refNumber": "HW2508-00358A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:30:34.068Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "4a96ab8e-6beb-4143-893e-96d959866833",
+     "valueLabel": "Supply Tech"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160599483",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160602148",
+   "name": "Senior Financial Analytics Engineer (all genders)",
+   "uuid": "28d4dc4e-7f6d-4214-8df2-4bd7f4a571d7",
+   "jobAdId": "9ff07c3f-2784-4aeb-be6f-01e8cb1401b1",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00578A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:30:14.010Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160602148",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160598809",
+   "name": "Senior Financial Analytics Engineer (all genders)",
+   "uuid": "f602c299-9abc-441b-b296-f066d946f880",
+   "jobAdId": "24fd9c18-1b00-4d53-9e1a-5525d0e52705",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00578A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:29:59.991Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160598809",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160601408",
+   "name": "Senior Analytics Engineer - Brand Analytics (all genders)",
+   "uuid": "66690743-b7f4-45bb-87fa-f59bdb39c89a",
+   "jobAdId": "4174813d-0df8-411d-bb16-e44f753b5c88",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00552A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:27:24.093Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160601408",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160601348",
+   "name": "Senior Analytics Engineer - Brand Analytics (all genders)",
+   "uuid": "6d14480a-e391-46b3-aaaf-0b94783b7806",
+   "jobAdId": "215149b3-a7d6-49d4-89f2-5aa008af66d1",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00552A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:27:10.859Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160601348",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160600238",
+   "name": "Senior Backend Engineer - Checkout (all genders)",
+   "uuid": "4d3963a8-2e15-4161-acdf-7a246a01be1d",
+   "jobAdId": "5a5a27a0-fab1-4e64-9289-5e93b3a9d17e",
+   "defaultJobAd": false,
+   "refNumber": "ID2604-00221A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:22:26.916Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160600238",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160599769",
+   "name": "Senior Backend Engineer - Checkout (all genders)",
+   "uuid": "66021991-3525-48a3-822d-af8bc1ed9128",
+   "jobAdId": "91855856-f7e9-4ab4-90e6-74bb5489364c",
+   "defaultJobAd": true,
+   "refNumber": "ID2604-00221A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:22:11.627Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160599769",
+   "language": {
+    "code": "en-GB",
+    "label": "English (UK)",
+    "labelNative": "English (UK)"
+   }
+  },
+  {
+   "id": "744000160597063",
+   "name": "Senior Full Stack Engineer - Campaign Engine (all genders)",
+   "uuid": "7be8ae92-8771-46c3-9e32-5a9d85af7900",
+   "jobAdId": "e38d6403-a656-4b97-a881-6d65b5a9a62d",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00551A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:09:01.193Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160597063",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160596968",
+   "name": "Senior Full Stack Engineer - Campaign Engine (all genders)",
+   "uuid": "e67843a6-fbc7-4567-a87a-1cf109e1bd7e",
+   "jobAdId": "8f7a13ff-e2b4-4ddb-9ea9-b438c49f5e99",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00551A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T12:08:45.918Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160596968",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160591420",
+   "name": "(Senior) Payroll Specialist (all genders)",
+   "uuid": "fb1d6813-14b7-49ec-aa4b-70a1062e2ce7",
+   "jobAdId": "b0cbed87-0780-4703-9376-8d04878fa31b",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00611A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T11:42:49.542Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "229c8be9-8e26-47eb-8c66-587ca7af7268",
+     "valueLabel": "People & Organization"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160591420",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160591367",
+   "name": "(Senior) Payroll Specialist (all genders)",
+   "uuid": "ba19c472-787f-4578-ad8a-e19ae0ef7431",
+   "jobAdId": "532b7937-8a53-407f-9eda-80b2e574c1cf",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00611A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T11:38:17.154Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "human_resources",
+    "label": "Human Resources"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "229c8be9-8e26-47eb-8c66-587ca7af7268",
+     "valueLabel": "People & Organization"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160591367",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160570410",
+   "name": "Werkstudent*in Inbound Management (all genders)",
+   "uuid": "0dd22818-e330-4dea-93a7-253a3c3e4b15",
+   "jobAdId": "5af720f9-79aa-4acf-9137-0bb567de6bad",
+   "defaultJobAd": false,
+   "refNumber": "ID2611-00616A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T10:11:20.054Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "supply_chain",
+    "label": "Supply Chain"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "69cfae8e-af56-4b64-9de6-539a777b03fb",
+     "valueLabel": "Procurement"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160570410",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160572331",
+   "name": "Working Student Inbound Management (all genders)",
+   "uuid": "aa01c8a5-e383-4c68-a123-a0c4a969c7a2",
+   "jobAdId": "1736c595-2410-4e8f-a507-d9159f20c96c",
+   "defaultJobAd": true,
+   "refNumber": "ID2611-00616A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-09T10:08:52.601Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "supply_chain",
+    "label": "Supply Chain"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "69cfae8e-af56-4b64-9de6-539a777b03fb",
+     "valueLabel": "Procurement"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160572331",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160175672",
+   "name": "Quality Assurance Engineer - Panels (all genders)",
+   "uuid": "5bcb61c8-17f4-4fe0-982e-34623f227a27",
+   "jobAdId": "04c71e0a-15fc-4f09-8896-37ad912c4e29",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00569A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-06T11:21:22.867Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160175672",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160175999",
+   "name": "Quality Assurance Engineer - Panels (all genders)",
+   "uuid": "2501a9ff-2a48-410a-9dad-da4921928ee4",
+   "jobAdId": "ab5319ce-7b10-48c4-ad33-b4f6f556c55f",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00569A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-06T11:21:08.562Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160175999",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160169260",
+   "name": "Werkstudent*in Markets (all genders)",
+   "uuid": "aa6546d5-4457-4f7a-918d-fc62dfe9e66b",
+   "jobAdId": "c30cd1e4-f724-41fd-90b0-95c97da4af9e",
+   "defaultJobAd": false,
+   "refNumber": "ID2611-00621A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-06T10:58:10.558Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160169260",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000160170834",
+   "name": "Working Student Markets (all genders)",
+   "uuid": "924ae5f0-0735-4b19-8467-a8245a254051",
+   "jobAdId": "1658a67a-10d6-461d-913a-3772241a2051",
+   "defaultJobAd": true,
+   "refNumber": "ID2611-00621A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-06T10:55:34.305Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2097615a-f11f-44c5-aa55-d3d6ecb58cfa",
+     "valueLabel": "Markets"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000160170834",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159907120",
+   "name": "(Senior) Frontend Engineer - Webstack (all genders)",
+   "uuid": "98508fdc-b28f-481d-b8bb-437f466a254c",
+   "jobAdId": "06f5fe21-c195-4e01-a80d-0d86985f65f3",
+   "defaultJobAd": false,
+   "refNumber": "HW2511-00511A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T15:47:45.538Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159907120",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159906055",
+   "name": "(Senior) Frontend Engineer - Webstack (all genders)",
+   "uuid": "03868cd0-2e16-4004-9671-ca0b37369c67",
+   "jobAdId": "5d50529f-b185-40a7-957d-f9349c6b2ad1",
+   "defaultJobAd": true,
+   "refNumber": "HW2511-00511A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T15:46:35.795Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159906055",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159862039",
+   "name": "Technical Account Manager (all genders)",
+   "uuid": "caf5d73f-96a9-427d-ba9a-1d2c147ea4ea",
+   "jobAdId": "50031d1c-8475-4aa1-a7a3-b39b0a89ad50",
+   "defaultJobAd": false,
+   "refNumber": "ID2611-00618A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T12:59:20.717Z",
+   "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "40.7127753",
+    "longitude": "-74.0059728",
+    "fullLocation": "New York, NY, United States"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "b1562cc2-a818-4a69-8423-a59072afb7ff",
+     "valueLabel": "Other"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159862039",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159861809",
+   "name": "Technical Account Manager (all genders)",
+   "uuid": "e80edab9-cf0e-48c5-8ab1-a82781636cf7",
+   "jobAdId": "102e3f2e-a55c-4439-9170-040e6c40f948",
+   "defaultJobAd": true,
+   "refNumber": "ID2611-00618A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T12:57:54.854Z",
+   "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "40.7127753",
+    "longitude": "-74.0059728",
+    "fullLocation": "New York, NY, United States"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "b1562cc2-a818-4a69-8423-a59072afb7ff",
+     "valueLabel": "Other"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159861809",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159821259",
+   "name": "AI Artist (all genders)",
+   "uuid": "d55747f3-ea7f-45bd-a4c3-a860a0d50f7d",
+   "jobAdId": "f2de4f0b-6a6a-4e21-83da-f9cc541a2a51",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00543A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T09:42:12.348Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "b1562cc2-a818-4a69-8423-a59072afb7ff",
+     "valueLabel": "Other"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159821259",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159815334",
+   "name": "AI Artist (all genders)",
+   "uuid": "999aac5c-0937-46de-a032-5b3231b80e78",
+   "jobAdId": "37354623-cf9a-44d4-a311-1f3e9db65b00",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00543A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T09:39:26.397Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "b1562cc2-a818-4a69-8423-a59072afb7ff",
+     "valueLabel": "Other"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159815334",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159810810",
+   "name": "Senior Backend Engineer - Sorting (all genders)",
+   "uuid": "d9f8d483-ec20-4e76-8d15-c59c600da804",
+   "jobAdId": "744219a0-9701-458b-888d-2c85bbe6159e",
+   "defaultJobAd": true,
+   "refNumber": "Dummy-ID2602-00103A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-05T09:03:14.967Z",
+   "location": {
+    "city": "Hamburg or Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg or Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159810810",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159664899",
+   "name": "Analytics Engineer - Shop Analytics (all genders)",
+   "uuid": "f4e17eda-8062-4d1d-9482-1f1f7aa25f41",
+   "jobAdId": "0ca19fa9-be09-49e3-b08c-84abbd240097",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00572A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-04T15:29:29.043Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "analyst",
+    "label": "Analyst"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "f9fddf55-9c7b-4ea1-a2a7-1b9e21b3d0ae",
+     "valueLabel": "Data & Analytics"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159664899",
+   "creator": {
+    "name": "Gianni Salamone"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000159440772",
+   "name": "Analytics Engineer - Shop Analytics (all genders)",
+   "uuid": "f9fa5b07-7894-4b3b-9822-198b4fe614ad",
+   "jobAdId": "74deebf1-7219-4d8f-8132-e509f9a15c65",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00572A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-03T16:38:43.109Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "analyst",
+    "label": "Analyst"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "f9fddf55-9c7b-4ea1-a2a7-1b9e21b3d0ae",
+     "valueLabel": "Data & Analytics"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159440772",
+   "creator": {
+    "name": "Gianni Salamone"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000159156665",
+   "name": "Content Marketing Manager (m/w/d)",
+   "uuid": "7a7c43e7-6713-4ecd-a74e-b11d6168bcd8",
+   "jobAdId": "6ebc7d9f-cfb9-42c5-baf3-36fc9f999305",
+   "defaultJobAd": true,
+   "refNumber": "REF2172J",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-11-02T14:28:27.529Z",
+   "location": {
+    "city": "Lüneburg",
+    "region": "NDS",
+    "country": "de",
+    "postalCode": "21",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "Alle zwei Wochen einen Tag vor Ort ",
+    "latitude": "53.2478704",
+    "longitude": "10.4160637",
+    "fullLocation": "Lüneburg, NDS, Germany"
+   },
+   "industry": {
+    "id": "marketing_and_advertising",
+    "label": "Marketing And Advertising"
+   },
+   "department": {
+    "id": "1289202",
+    "label": "Adference"
+   },
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "executive",
+    "label": "Executive"
+   },
+   "customField": [
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1289202",
+     "valueLabel": "Adference"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "093f4363-ffdc-4bb4-8504-2d0805d412fd",
+     "valueLabel": "Adference"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000159156665",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158757935",
+   "name": "Senior Project Manager - Project Delivery (all genders)",
+   "uuid": "78659cd8-f32b-4c3b-9239-40162b25dd76",
+   "jobAdId": "23b5d9a7-a0ef-40e4-9899-96b7528f550d",
+   "defaultJobAd": false,
+   "refNumber": "ID2607-00401A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-30T14:27:29.194Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "Hamburg",
+    "country": "de",
+    "postalCode": "20095",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "Drei Tage pro Woche (Dienstag bis Donnerstag) vor Ort in Ham",
+    "fullLocation": "Hamburg, Hamburg, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c8329e4e-3e11-4dc0-b5d2-7a776d883a52",
+     "valueLabel": "Product & Project Management"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158757935",
+   "creator": {
+    "name": "Gianni Salamone"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158756290",
+   "name": "Senior Project Manager - Project Delivery (all genders)",
+   "uuid": "829f193f-ec49-4855-bc60-b47391c213bf",
+   "jobAdId": "3e8a6fa3-ffb1-47dc-b243-67aa6f254c55",
+   "defaultJobAd": true,
+   "refNumber": "ID2607-00401A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-30T14:13:14.708Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "Hamburg",
+    "country": "de",
+    "postalCode": "20095",
+    "remote": false,
+    "hybrid": true,
+    "hybridDescription": "On-site in Hamburg three days a week (Tuesday to Thursday)",
+    "fullLocation": "Hamburg, Hamburg, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c8329e4e-3e11-4dc0-b5d2-7a776d883a52",
+     "valueLabel": "Product & Project Management"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158756290",
+   "creator": {
+    "name": "Gianni Salamone"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158739849",
+   "name": "Senior Technical Support Engineer - Customer Support (all genders)",
+   "uuid": "7ca6ffa9-f976-4395-bc26-f715a896c5b0",
+   "jobAdId": "9e50b882-efa2-4da3-9b6a-8ce9577823fe",
+   "defaultJobAd": true,
+   "refNumber": "ID2609-00477A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-30T13:07:25.525Z",
+   "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "40.7127753",
+    "longitude": "-74.0059728",
+    "fullLocation": "New York, NY, United States"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158739849",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158738024",
+   "name": "Technical Support Engineer - Customer Support (all genders)",
+   "uuid": "eefa1bcf-68b2-403e-a575-f877edac4c39",
+   "jobAdId": "2ce5e8e0-5f6a-43db-a3bc-acde94d35584",
+   "defaultJobAd": true,
+   "refNumber": "ID2609-00478A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-30T13:06:46.765Z",
+   "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": true,
+    "hybrid": false,
+    "latitude": "40.7127753",
+    "longitude": "-74.0059728",
+    "fullLocation": "New York, NY, United States"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "us",
+     "valueLabel": "United States"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158738024",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158334689",
+   "name": "Wirtschaftsjurist*in – E-Commerce- und Datenschutzrecht B2B (all genders)",
+   "uuid": "134add13-3e8e-40ed-ab34-20fefd774266",
+   "jobAdId": "88336707-ce1a-4296-840f-07d92af62278",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00598A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T15:47:13.692Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "legal",
+    "label": "Legal"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "809ca561-213c-4296-b2f3-3d70e92919cf",
+     "valueLabel": "Legal"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158334689",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158334029",
+   "name": "Legal Consultant – E-Commerce & Data Protection B2B (all genders)",
+   "uuid": "24243ab7-08a2-41c8-85f2-7d2382b7e994",
+   "jobAdId": "731428d9-9e91-4387-bf21-7fe27449a311",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00598A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T15:45:31.266Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "legal",
+    "label": "Legal"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "7fcf7fd3-d61e-4a9e-a097-2413c7b55b6d",
+     "valueLabel": "SCAYLE"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "809ca561-213c-4296-b2f3-3d70e92919cf",
+     "valueLabel": "Legal"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158334029",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158251799",
+   "name": "Working Student - Product Management (all genders)",
+   "uuid": "4cbc23eb-6d18-4035-95dc-f966d974eb78",
+   "jobAdId": "6ec813c5-3590-4fad-b1f7-e46386f5d4d6",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00594A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T10:09:45.922Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c8329e4e-3e11-4dc0-b5d2-7a776d883a52",
+     "valueLabel": "Product & Project Management"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158251799",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158251729",
+   "name": "Working Student - Product Management (all genders)",
+   "uuid": "db2bda86-9f33-417c-bdf1-5c3f910eeab6",
+   "jobAdId": "e541ff14-79d7-4bfe-b6d5-d359996ecfb4",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00594A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-28T10:09:22.217Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "product_management",
+    "label": "Product Management"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c8329e4e-3e11-4dc0-b5d2-7a776d883a52",
+     "valueLabel": "Product & Project Management"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158251729",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158049308",
+   "name": "Minijobber Fitting Model Size L / 52 (all genders)",
+   "uuid": "07f2214c-0b35-4600-80b5-8a86dd8e0fc7",
+   "jobAdId": "71a34409-ace6-4cf9-bc06-6c59e826b9c3",
+   "defaultJobAd": true,
+   "refNumber": "ID2606-00340A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-27T13:41:00.148Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158049308",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000158028560",
+   "name": "Werkstudent*in - Marketplace Sales (all genders)",
+   "uuid": "5930ae0c-6e46-493f-8e68-ad31bb42ed54",
+   "jobAdId": "8b9ad630-067f-43f8-a837-fc9c2c5c6309",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00595A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-27T12:16:37.306Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "11a67035-ab2d-404e-b30f-73e75af3810d",
+     "valueLabel": "Partner Management & Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158028560",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000158018900",
+   "name": "Working Student - Marketplace Sales (all genders)",
+   "uuid": "82ae44de-e141-490a-bd46-17e47130ad79",
+   "jobAdId": "1046f4e5-a23c-4733-89ea-5099d47c2a64",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00595A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-27T11:18:37.770Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "sales",
+    "label": "Sales"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "11a67035-ab2d-404e-b30f-73e75af3810d",
+     "valueLabel": "Partner Management & Sales"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000158018900",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157761563",
+   "name": "Werkstudent*in - Merchandise Steering & Replenishment (all genders)",
+   "uuid": "d2eee6e0-6d36-4cfb-a6ce-43fddc051f32",
+   "jobAdId": "88aae852-c156-48ec-af27-18ae21561cee",
+   "defaultJobAd": false,
+   "refNumber": "ID2610-00579A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-26T09:55:34.582Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157761563",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157763079",
+   "name": "Working Student - Merchandise Steering & Replenishment (all genders)",
+   "uuid": "71fc9e24-261b-4cfe-87f7-21ff78ef8d1a",
+   "jobAdId": "7b1ea7d7-42df-4be3-a0ee-f33f08387dd5",
+   "defaultJobAd": true,
+   "refNumber": "ID2610-00579A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-26T09:55:13.774Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "8633151",
+    "label": "Business"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "8633151",
+     "valueLabel": "Business"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "96b979d1-2bd5-449c-95b1-55191378ec48",
+     "valueLabel": "Planning, Pricing & Campaigns"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157763079",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157478516",
+   "name": "Senior Flutter Engineer - Purchase & Post Purchase (all genders)",
+   "uuid": "b5bac043-d384-48d2-877b-2acf7954b033",
+   "jobAdId": "fe050b5c-0cc6-446f-89df-6c22c6804182",
+   "defaultJobAd": true,
+   "refNumber": "Dummy-ID2606-00342A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T13:39:17.112Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157478516",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157468333",
+   "name": "Lead App Engineer - Discovery & Consideration (all genders)",
+   "uuid": "d788ca6c-3c8b-446c-a4ce-721d1cdf7751",
+   "jobAdId": "b6e4376a-7862-4357-a02d-115d83b58a26",
+   "defaultJobAd": false,
+   "refNumber": "Dummy-ID2608-00451A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T12:56:02.054Z",
+   "location": {
+    "city": "Hamburg oder Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg oder Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "executive",
+    "label": "Executive"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157468333",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157467530",
+   "name": "Lead App Engineer - Discovery & Consideration (all genders)",
+   "uuid": "ae3ad40d-64af-4ba8-80f4-a50c8ae31f7d",
+   "jobAdId": "6bb9ff1c-c65b-4d8d-a974-0f76e2bc2cd0",
+   "defaultJobAd": true,
+   "refNumber": "Dummy-ID2608-00451A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T12:55:39.126Z",
+   "location": {
+    "city": "Hamburg or Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg or Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "executive",
+    "label": "Executive"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157467530",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157447549",
+   "name": "Senior App Engineer - Purchase & Post Purchase (all genders) ",
+   "uuid": "cb750a3d-3929-4a34-a8e1-e488f1e335fe",
+   "jobAdId": "49542c82-7c2b-49df-b49c-923d8dd1ad91",
+   "defaultJobAd": false,
+   "refNumber": "ID2606-00342A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T11:18:10.155Z",
+   "location": {
+    "city": "Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157447549",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157447109",
+   "name": "Senior App Engineer - Purchase & Post Purchase (all genders) ",
+   "uuid": "7aa553b5-00bf-4529-8eca-5c350bee90ee",
+   "jobAdId": "6dffbace-aff2-4ef4-b04b-8232f97751a4",
+   "defaultJobAd": true,
+   "refNumber": "ID2606-00342A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T11:16:11.798Z",
+   "location": {
+    "city": "Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157447109",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157446865",
+   "name": "App Engineer - Discovery & Consideration (all genders)",
+   "uuid": "38057487-aaa9-4051-8c9a-c822cc4cc7e5",
+   "jobAdId": "b31c85a1-a45f-4b5d-bf87-0f59c928caa1",
+   "defaultJobAd": true,
+   "refNumber": "ID2604-00219A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T11:14:35.105Z",
+   "location": {
+    "city": "Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157446865",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157445095",
+   "name": "App Engineer - Discovery & Consideration (all genders)",
+   "uuid": "292ddb72-9bcf-4f77-b07b-2ac4fdb0cfca",
+   "jobAdId": "8c3c5b56-7d00-46aa-887a-34659db9cdd7",
+   "defaultJobAd": false,
+   "refNumber": "ID2604-00219A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-23T11:12:06.397Z",
+   "location": {
+    "city": "Berlin",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Berlin, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "2dc3892c-6ba5-448d-b4a1-aa0e618ca1f1",
+     "valueLabel": "Software Development & Engineering"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157445095",
+   "creator": {
+    "name": "Emilia Karlotta Lorenz"
+   },
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157171185",
+   "name": "Minijobber Fitting Model Size L / 52 (all genders)",
+   "uuid": "61b1216c-4b73-46cf-846b-84d76e0358c3",
+   "jobAdId": "37a766d1-ae01-486a-ab33-b541ffe284be",
+   "defaultJobAd": false,
+   "refNumber": "ID2606-00340A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T15:30:16.500Z",
+   "location": {
+    "city": "Berlin",
+    "region": "BE",
+    "country": "de",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "52.52000659999999",
+    "longitude": "13.404954",
+    "fullLocation": "Berlin, BE, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "typeOfEmployment": {
+    "id": "part-time",
+    "label": "Part-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "25c461d9-ca32-442a-b069-204184f08900",
+     "valueLabel": "Own Label"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157171185",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157145347",
+   "name": "Customer Success Manager (m/w/d)",
+   "uuid": "678d93fa-16ae-4ab6-a2c2-26d9d830a3f1",
+   "jobAdId": "4ae44c4a-b03f-46be-9187-07ab756383ba",
+   "defaultJobAd": true,
+   "refNumber": "REF1184H",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T14:03:41.618Z",
+   "location": {
+    "city": "Lüneburg",
+    "region": "NDS",
+    "country": "de",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "53.2464214",
+    "longitude": "10.4115179",
+    "fullLocation": "Lüneburg, NDS, Germany"
+   },
+   "industry": {
+    "id": "marketing_and_advertising",
+    "label": "Marketing And Advertising"
+   },
+   "department": {
+    "id": "1289202",
+    "label": "Adference"
+   },
+   "function": {
+    "id": "customer_service",
+    "label": "Customer Service"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+   },
+   "customField": [
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    },
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1289202",
+     "valueLabel": "Adference"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "093f4363-ffdc-4bb4-8504-2d0805d412fd",
+     "valueLabel": "Adference"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157145347",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157112529",
+   "name": "Business Development Manager - Buying (all genders)",
+   "uuid": "af65ad73-24e0-45d3-bf7d-43db0dfceaea",
+   "jobAdId": "b36a9417-a205-4988-8873-5732d06cb23a",
+   "defaultJobAd": false,
+   "refNumber": "ID2606-00337A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T11:54:36.928Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "0b44bea8-9b13-4c37-920a-2d6d10bf2fa6",
+     "valueLabel": "Buying & Merchandising"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157112529",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157112019",
+   "name": "Business Development Manager - Buying (all genders)",
+   "uuid": "aebc0d5b-28ed-4ce6-a45d-f96ccf7f9fc1",
+   "jobAdId": "7515f29f-ad9d-4477-bfe0-0281920954c7",
+   "defaultJobAd": true,
+   "refNumber": "ID2606-00337A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T11:52:55.311Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1129113",
+    "label": "Fashion"
+   },
+   "function": {
+    "id": "business_development",
+    "label": "Business Development"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1129113",
+     "valueLabel": "Fashion"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "ABOUT YOU SE & Co. KG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "0b44bea8-9b13-4c37-920a-2d6d10bf2fa6",
+     "valueLabel": "Buying & Merchandising"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157112019",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157086539",
+   "name": "Security Analyst  - Incident Response (all genders)",
+   "uuid": "5c082c6b-8869-46e2-8ca2-f70e6158a55a",
+   "jobAdId": "16938123-9953-458f-a5d2-3d6c817c9963",
+   "defaultJobAd": false,
+   "refNumber": "ID2609-00469A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T09:43:40.674Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "fef2f611-842f-46cb-ae7c-bd6816ff3786",
+     "valueLabel": "ABOUT YOU Holding AG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157086539",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157086479",
+   "name": "Security Analyst - Incident Response (all genders)",
+   "uuid": "ea3d8458-19bc-4b7a-a40e-8afd69fec3d3",
+   "jobAdId": "6bcab61d-8abb-4026-8778-3417115f4064",
+   "defaultJobAd": true,
+   "refNumber": "ID2609-00469A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T09:43:25.571Z",
+   "location": {
+    "city": "Hamburg",
+    "region": "HH",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "53.5488282",
+    "longitude": "9.987170299999999",
+    "fullLocation": "Hamburg, HH, Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "fef2f611-842f-46cb-ae7c-bd6816ff3786",
+     "valueLabel": "ABOUT YOU Holding AG"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157086479",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000157053570",
+   "name": "Senior Platform Engineer - SCAYLE Payments (all genders)",
+   "uuid": "60551a1b-374d-40c9-9cae-b76559226511",
+   "jobAdId": "21361ef2-c8a6-493f-809f-a72360a6ab51",
+   "defaultJobAd": false,
+   "refNumber": "Dummy-HW2512-00582A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T07:29:59.139Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "8b3ab00f-5ad4-4493-943a-2fd23a6be284",
+     "valueLabel": "SCAYLE Payments GmbH"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157053570",
+   "language": {
+    "code": "de",
+    "label": "German",
+    "labelNative": "Deutsch"
+   }
+  },
+  {
+   "id": "744000157053379",
+   "name": "Senior Platform Engineer - SCAYLE Payments (all genders)",
+   "uuid": "10f6ecc6-de7c-4888-81d9-9129c09a0f22",
+   "jobAdId": "4b73504f-0743-45d4-8646-63bf8d654276",
+   "defaultJobAd": true,
+   "refNumber": "Dummy-HW2512-00582A",
+   "company": {
+    "identifier": "ABOUTYOUGmbH",
+    "name": "ABOUT YOU SE & Co. KG"
+   },
+   "releasedDate": "2026-10-22T07:29:33.347Z",
+   "location": {
+    "city": "Hamburg",
+    "country": "de",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Hamburg, , Germany"
+   },
+   "industry": {
+    "id": "internet",
+    "label": "Internet"
+   },
+   "department": {
+    "id": "1131221",
+    "label": "Product & Tech"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "5ba0d1ef6d8bc56bc081b5b0",
+     "fieldLabel": "Department",
+     "valueId": "1131221",
+     "valueLabel": "Product & Tech"
+    },
+    {
+     "fieldId": "5ba0d1efb1f60b42f4edc0db",
+     "fieldLabel": "Brands",
+     "valueId": "8b3ab00f-5ad4-4493-943a-2fd23a6be284",
+     "valueLabel": "SCAYLE Payments GmbH"
+    },
+    {
+     "fieldId": "5ba39ccbb1f60b42f4edc16a",
+     "fieldLabel": "Unterabteilung",
+     "valueId": "c6853302-1df5-4d68-a6af-9c736a782a7d",
+     "valueLabel": "IT & Infrastructure"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "de",
+     "valueLabel": "Germany"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/ABOUTYOUGmbH/postings/744000157053379",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}

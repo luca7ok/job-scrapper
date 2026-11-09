@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EU SWE 2027</title>
+<meta name="description" content="Open 2027 software engineering internships and new-grad roles in Europe, updated daily.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#FBF8FD" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#120D1A" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%238B5CF6'/%3E%3Cstop offset='1' stop-color='%23EC4899'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='32' height='32' rx='8' fill='url(%23g)'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"></noscript>
+<link rel="preload" href="data/roles.json" as="fetch" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <h1>EU SWE 2027</h1>
+    <div class="bar" aria-hidden="true"></div>
+    <p class="meta" id="stats">Loading roles…</p>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#jobs" data-tab="jobs">Jobs</a>
+      <a href="#watchlist" data-tab="watchlist">Watchlist</a>
+      <a href="#applications" data-tab="applications">My applications</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="view-jobs" class="view" aria-labelledby="jobs-heading">
+      <h2 id="jobs-heading" class="sr-only">Jobs</h2>
+      <div class="filterbar" id="filterbar">
+        <div class="searchrow">
+          <label class="sr-only" for="q">Search company, title or city</label>
+          <input id="q" type="search" placeholder="Search company, title, city" autocomplete="off" spellcheck="false">
+          <button type="button" class="btn" id="filters-btn" aria-haspopup="dialog" aria-expanded="false" aria-controls="filters-sheet">Filters<span class="count" id="filters-count" hidden></span></button>
+        </div>
+        <div class="chips" role="group" aria-label="Quick filters" id="chips">
+          <button type="button" class="chip" data-chip="start:any">Any start</button>
+          <button type="button" class="chip" data-chip="start:july">July</button>
+          <button type="button" class="chip" data-chip="start:summer">Summer</button>
+          <button type="button" class="chip" data-chip="status:new">New</button>
+          <button type="button" class="chip" data-chip="status:expected">Not open yet</button>
+          <button type="button" class="chip" data-chip="size:midsize">Mid-size</button>
+        </div>
+        <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+        <div class="sheet" id="filters-sheet" role="dialog" aria-modal="false" aria-labelledby="sheet-title" hidden>
+          <div class="sheet-head">
+            <h3 id="sheet-title">Filters</h3>
+            <button type="button" class="link" id="filters-reset">Reset</button>
+          </div>
+          <div class="field">
+            <label for="f-kind">Kind</label>
+            <select id="f-kind" data-filter="kind">
+              <option value="all">All kinds</option>
+              <option value="Internship">Internship</option>
+              <option value="New grad">New grad</option>
+              <option value="PhD / research">PhD / research</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="f-country">Country</label>
+            <select id="f-country" data-filter="country"></select>
+          </div>
+          <div class="field">
+            <label for="f-size">Company size</label>
+            <select id="f-size" data-filter="size">
+              <option value="all">All companies</option>
+              <option value="midsize">Mid-size European only</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="f-start">Start</label>
+            <select id="f-start" data-filter="start">
+              <option value="any">Any</option>
+              <option value="july">July confirmed</option>
+              <option value="summer">Summer (July-friendly)</option>
+              <option value="stated">Any stated 2027 date</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="f-status">Status</label>
+            <select id="f-status" data-filter="status">
+              <option value="open">Open</option>
+              <option value="new">New this week</option>
+              <option value="expected">Not open yet (watchlist)</option>
+              <option value="closed">Recently closed</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="f-mine">My status</label>
+            <select id="f-mine" data-filter="mine"></select>
+          </div>
+          <div class="sheet-foot">
+            <button type="button" class="btn" id="filters-done">Done</button>
+          </div>
+        </div>
+      </div>
+      <p class="resultline meta" id="resultline" aria-live="polite"></p>
+      <div id="list" class="list"></div>
+      <div class="more"><button type="button" class="btn" id="more" hidden>Show more</button></div>
+    </section>
+
+    <section id="view-watchlist" class="view" aria-labelledby="watch-heading" hidden>
+      <h2 id="watch-heading" class="section-title">Watchlist</h2>
+      <p class="meta intro">Companies that post on their own career sites, and programmes that haven't opened for 2027 yet. A company switches to "Open now" as soon as a matching role appears.</p>
+      <div id="watchlist" class="list"></div>
+    </section>
+
+    <section id="view-applications" class="view" aria-labelledby="apps-heading" hidden>
+      <h2 id="apps-heading" class="section-title">My applications</h2>
+      <p class="meta" id="apps-counts"></p>
+      <div id="apps" class="apps"></div>
+      <div class="tools">
+        <button type="button" class="btn" id="export">Export JSON</button>
+        <label class="btn" for="import-file">Import JSON</label>
+        <input type="file" id="import-file" accept="application/json,.json" class="sr-only">
+      </div>
+      <p class="meta small">Your tracker is stored only in this browser. Export it as a backup, or sync it to a private GitHub Gist to use it on several devices.</p>
+
+      <div class="sync" id="sync">
+        <h3>Sync across devices</h3>
+        <div id="sync-off">
+          <p class="meta small">Create a <a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=EU%20SWE%202027%20tracker" target="_blank" rel="noopener">GitHub token with only the <code>gist</code> scope</a> and paste it here. It is kept in this browser and sent only to api.github.com.</p>
+          <div class="searchrow">
+            <label class="sr-only" for="gist-token">GitHub token</label>
+            <input id="gist-token" type="password" placeholder="ghp_… or github_pat_…" autocomplete="off" spellcheck="false">
+            <button type="button" class="btn primary" id="gist-connect">Connect</button>
+          </div>
+        </div>
+        <div id="sync-on" hidden>
+          <p class="meta small" id="sync-status"></p>
+          <div class="tools">
+            <button type="button" class="btn" id="gist-sync">Sync now</button>
+            <button type="button" class="btn" id="gist-disconnect">Disconnect</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot meta small">
+    Data from company job boards, SimplifyJobs, SpeedyApply, EarlyCareers EU, Arbeitnow and Adzuna. Updated daily. <a href="https://github.com/luca7ok/job-scrapper">Source</a>
+  </footer>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<script src="app.js" defer></script>
+</body>
+</html>
