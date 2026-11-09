@@ -9,7 +9,8 @@
     "gist": "node gist_test.js http://127.0.0.1:8766/",
     "lighthouse": "lighthouse http://127.0.0.1:8766/ --only-categories=performance,accessibility,best-practices --chrome-flags=--headless=new",
     "sheet": "node sheet_test.js",
-    "apps-script": "node gs_test.js ../../scripts/google-sheet.gs"
+    "apps-script": "node gs_test.js ../../scripts/google-sheet.gs",
+    "logged": "node logged_test.js ./shots/logged.png"
   },
   "devDependencies": {
     "lighthouse": "12.3.0",

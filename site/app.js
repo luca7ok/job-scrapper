@@ -17,13 +17,13 @@
   };
 
   const STATUSES = [
-    ["", "—"], ["saved", "Saved"], ["applied", "Applied"], ["oa", "OA"], ["interview", "Interview"],
+    ["", "—"], ["saved", "Saved"], ["applied", "Applied"], ["logged", "Already applied"], ["oa", "OA"], ["interview", "Interview"],
     ["offer", "Offer"], ["rejected", "Rejected"], ["withdrawn", "Withdrawn"],
   ];
   const STATUS_LABEL = Object.fromEntries(STATUSES);
-  const STATUS_ORDER = { offer: 0, interview: 1, oa: 2, applied: 3, saved: 4, rejected: 5, withdrawn: 6 };
+  const STATUS_ORDER = { offer: 0, interview: 1, oa: 2, applied: 3, logged: 3, saved: 4, rejected: 5, withdrawn: 6 };
   const BUCKET_RANK = { july: 3, summer: 2, other: 1, none: 0 };
-  const DONE = new Set(["applied", "oa", "interview", "offer", "rejected", "withdrawn"]);
+  const DONE = new Set(["applied", "logged", "oa", "interview", "offer", "rejected", "withdrawn"]);
   const SHEET_STATUSES = new Set(["applied", "oa", "interview", "offer"]);
   const COUNTRY_ALIASES = ["uk", "u.k.", "great britain", "england", "scotland", "wales", "northern ireland", "the netherlands", "holland", "deutschland", "czech republic", "turkey", "espana", "italia", "polska", "osterreich", "schweiz", "suisse", "belgique", "romania", "worldwide", "europe", "emea", "eu"];
   const DEFAULT_FILTERS = { q: "", kind: "all", country: "noUK", size: "all", start: "any", status: "open", mine: "any" };

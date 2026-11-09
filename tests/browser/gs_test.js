@@ -5,7 +5,15 @@ const formats = {};
 const sheet = {
   getLastRow: () => rows.length, getLastColumn: () => Math.max(...rows.map((r) => r.length)),
   appendRow: (r) => rows.push(r), setFrozenRows() {}, getName: () => "Sheet1",
-  getRange: (r, c, nr, nc) => ({ getValues: () => rows.slice(r - 1, r - 1 + (nr || 1)).map((x) => x.slice(c - 1, c - 1 + (nc || 1))), setNumberFormat: (f) => { formats[`${r},${c}`] = f; }, setFontWeight() {} }),
+  getRange: (r, c, nr, nc) => {
+    const range = {
+      getValues: () => rows.slice(r - 1, r - 1 + (nr || 1)).map((x) => { const out = x.slice(c - 1, c - 1 + (nc || 1)); while (out.length < (nc || 1)) out.push(""); return out; }),
+      setValue: (v) => { while (rows.length < r) rows.push([]); const row = rows[r - 1]; while (row.length < c) row.push(""); row[c - 1] = v; return range; },
+      setNumberFormat: (f) => { formats[`${r},${c}`] = f; return range; },
+      setFontWeight() { return range; },
+    };
+    return range;
+  },
 };
 const props = {};
 const ctx = {
@@ -30,7 +38,7 @@ const r1 = call({ secret: "s3cret", action: "add", rows: [
 check(r1.ok && r1.ids.length === 2, "two rows added");
 const a = rows[2];
 check(a[0] === "Adobe" && a[1] === "2027 Intern - Security Engineer" && a[2] === "Bucharest, Romania", "company/title/location in the right columns");
-check(a[3] === "" && a[4] === "" && a[5] === "" && a[7] === "", "Status, Link, Contact, Interview Stage left empty");
+check([a[3], a[4], a[5], a[7]].every((v) => v === "" || v === undefined), "Status, Link, Contact, Interview Stage left empty");
 check(Object.prototype.toString.call(a[6]) === "[object Date]" && a[6].getFullYear() === 2026 && a[6].getMonth() === 10 && a[6].getDate() === 9, "application date is a real date (9 Nov 2026)");
 check(formats["3,7"] === "MM/dd/yyyy", "date cell formatted MM/dd/yyyy");
 check(rows[3][0].startsWith("'="), "formula-looking text is neutralised");
@@ -62,4 +70,14 @@ const r5 = call({ secret: "s3cret", action: "add", rows: [
   { id: "d2", company: "Amazon", title: "2027 Software Dev Engineer Intern", location: "Berlin, Germany", applied: "2026-11-11" },
 ]});
 check(JSON.stringify(r5.skipped) === JSON.stringify(["d2"]), `same title in another city is a different application (${r5.skipped})`);
+rows.splice(0, rows.length, ["Company", "Title", "Location", "Status", "Job Posting Link", "Contact", "Application Date", "Interview Stage"],
+  ["Old Co", "Old role", "Cluj, Romania", "Applied", "", "", "10/01/2026", ""]);
+for (let i = 0; i < 984; i++) rows.push(["", "", "", false, "", "", "", "=IF(A1,1,\"\")"]);
+const r6 = call({ secret: "s3cret", action: "add", rows: [
+  { id: "e1", company: "Wise", title: "Software Engineering Intern", location: "Tallinn, Estonia", applied: "2026-11-12" },
+  { id: "e2", company: "Bolt", title: "Backend Intern", location: "Tallinn, Estonia", applied: "2026-11-12" },
+]});
+check(r6.ok && rows[2][0] === "Wise" && rows[3][0] === "Bolt", `fills the first empty rows (3 and 4), not row ${rows.length + 1}`);
+check(rows[2][3] === false && rows[2][7] === "=IF(A1,1,\"\")", "leaves your checkboxes and formulas in that row untouched");
+check(rows.length === 986, "no rows appended at the bottom");
 console.log(fails ? `${fails} FAILED` : "ALL PASSED");

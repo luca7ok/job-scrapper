@@ -29,8 +29,8 @@ function doPost(e) {
     const missing = ["company", "title", "location", "application date"].filter((h) => !cols[h]);
     if (missing.length) return reply({ ok: false, error: "missing column(s): " + missing.join(", ") });
     const props = PropertiesService.getScriptProperties();
-    const width = sheet.getLastColumn();
     const existing = existingRows(sheet, cols);
+    const free = freeRows(sheet, cols);
     const done = [];
     const skipped = [];
     for (const r of data.rows || []) {
@@ -46,13 +46,11 @@ function doPost(e) {
         skipped.push(String(r.id));
         continue;
       }
-      const row = new Array(width).fill("");
-      row[cols["company"] - 1] = cell(r.company);
-      row[cols["title"] - 1] = cell(r.title);
-      row[cols["location"] - 1] = cell(r.location);
-      row[cols["application date"] - 1] = toDate(r.applied);
-      sheet.appendRow(row);
-      sheet.getRange(sheet.getLastRow(), cols["application date"]).setNumberFormat(DATE_FORMAT);
+      const target = free.length ? free.shift() : Math.max(sheet.getLastRow(), 1) + 1;
+      sheet.getRange(target, cols["company"]).setValue(cell(r.company));
+      sheet.getRange(target, cols["title"]).setValue(cell(r.title));
+      sheet.getRange(target, cols["location"]).setValue(cell(r.location));
+      sheet.getRange(target, cols["application date"]).setValue(toDate(r.applied)).setNumberFormat(DATE_FORMAT);
       props.setProperty(key, "1");
       existing.push({ company: norm(r.company), title: norm(r.title), location: norm(r.location) });
       done.push(String(r.id));
@@ -71,6 +69,19 @@ function columns(sheet) {
     if (key && !map[key]) map[key] = i + 1;
   });
   return map;
+}
+
+function freeRows(sheet, cols) {
+  const last = sheet.getLastRow();
+  if (last < 2) return [];
+  const width = sheet.getLastColumn();
+  const values = sheet.getRange(2, 1, last - 1, width).getValues();
+  const keys = ["company", "title", "location", "application date"].map((h) => cols[h] - 1);
+  const free = [];
+  values.forEach((row, i) => {
+    if (keys.every((k) => row[k] === "" || row[k] === null)) free.push(i + 2);
+  });
+  return free;
 }
 
 function existingRows(sheet, cols) {

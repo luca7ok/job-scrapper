@@ -395,7 +395,7 @@ input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px
 .track:hover { border-color: var(--purple); }
 .track:focus-within { outline: 2px solid var(--focus); outline-offset: 2px; }
 .track.st-saved { background: var(--purple-soft); color: var(--purple); border-color: transparent; }
-.track.st-applied, .track.st-oa, .track.st-interview { background: var(--pink-soft); color: var(--pink); border-color: transparent; }
+.track.st-applied, .track.st-logged, .track.st-oa, .track.st-interview { background: var(--pink-soft); color: var(--pink); border-color: transparent; }
 .track.st-offer { border-color: var(--purple); }
 .track.st-offer .val {
   background: var(--gradient-button);
