@@ -3,7 +3,7 @@
 A personal tracker for **2027 software engineering internships and new-grad roles in Europe**, with continental Europe and mid-size European companies front and centre and July starts highlighted.
 
 - **Site:** https://luca7ok.github.io/job-scrapper/
-- **Updates:** every day at 05:00 UTC via GitHub Actions. New roles and watchlist companies that just opened arrive as a GitHub issue (and so as an email).
+- **Updates:** every day at 05:00 UTC via GitHub Actions. New postings, and watchlist companies that just opened, arrive by email.
 - **No server, no database, no accounts.** The scraper writes JSON into the repo and GitHub Pages serves it.
 
 ## How it works
@@ -19,7 +19,7 @@ GitHub Actions (daily 05:00 UTC)
        ├─ merge + diff   dedupe across sources, first/last seen, new / closed, watchlist hits
        └─ write          site/data/roles.json, data/state.json, data/run_report.md
   └─ commit data → deploy site/ to GitHub Pages
-  └─ new roles or watchlist hits → open a GitHub issue labelled new-roles
+  └─ new roles or watchlist hits → email (Gmail SMTP), or a GitHub issue if email isn't set up
 ```
 
 A role is marked **closed** only after it has been missing for **2 consecutive healthy runs** of every source that listed it. If a source suddenly returns zero roles, that's treated as an outage and nothing is closed.
@@ -32,9 +32,14 @@ A role is marked **closed** only after it has been missing for **2 consecutive h
    - `ADZUNA_KEY`
 
    Without them the run logs "adzuna skipped" and carries on.
-3. **Phone notifications** (optional). Install the [ntfy](https://ntfy.sh/) app, subscribe to a topic name only you know (e.g. `luca-swe-7f3k2`), and add it as the secret `NTFY_TOPIC`. Every run with new roles then sends a one-line push.
-4. **Run it once by hand.** Actions → *update* → *Run workflow*. The first run fills `data/state.json` and does not send a notification (everything would be "new"). From the next run on you'll get an issue whenever something new appears.
-5. **Watch issues.** Make sure your GitHub notification settings email you for issues in this repo (Watch → *All Activity* or *Custom → Issues*).
+3. **Email alerts.** On days with new postings, the run emails you a list of only the roles first seen that day (watchlist companies that just opened come first, then July starts, then the rest). It sends through Gmail:
+   1. Turn on 2-Step Verification for your Google account, then create an app password at https://myaccount.google.com/apppasswords.
+   2. Add the secrets `SMTP_USER` (your Gmail address) and `SMTP_PASSWORD` (the 16-character app password).
+   3. Optional: `EMAIL_TO` to send to a different address (defaults to `SMTP_USER`).
+
+   If these secrets aren't set, the run opens a GitHub issue labelled `new-roles` instead, which GitHub can email you if you watch the repo's issues.
+4. **Phone notifications** (optional). Install the [ntfy](https://ntfy.sh/) app, subscribe to a topic name only you know (e.g. `luca-swe-7f3k2`), and add it as the secret `NTFY_TOPIC`. Every run with new roles then also sends a one-line push.
+5. **Run it once by hand.** Actions → *update* → *Run workflow*. The first run fills `data/state.json` and sends nothing (everything would be "new"). From the next run on you'll get an email whenever something new appears, and nothing on days without new postings.
 
 ## Editing what it tracks: `config/companies.yaml`
 

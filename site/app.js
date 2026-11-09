@@ -23,6 +23,7 @@
   const STATUS_LABEL = Object.fromEntries(STATUSES);
   const STATUS_ORDER = { offer: 0, interview: 1, oa: 2, applied: 3, saved: 4, rejected: 5, withdrawn: 6 };
   const BUCKET_RANK = { july: 3, summer: 2, other: 1, none: 0 };
+  const DONE = new Set(["applied", "oa", "interview", "offer", "rejected", "withdrawn"]);
   const DEFAULT_FILTERS = { q: "", kind: "all", country: "noUK", size: "all", start: "any", status: "open", mine: "any" };
 
   const $ = (sel) => document.querySelector(sel);
@@ -88,6 +89,15 @@
     return it && it.status ? it : null;
   }
 
+  function isDone(id) {
+    const t = track(id);
+    return !!(t && DONE.has(t.status));
+  }
+
+  function allDone(g) {
+    return g.roles.length > 0 && g.roles.every((r) => isDone(r.id));
+  }
+
   function setTrack(id, patch) {
     const role = S.byId.get(id);
     const prev = S.tracker.items[id] || {};
@@ -143,12 +153,13 @@
     return true;
   }
 
-  function pillFor(bucket, label) {
-    if (bucket === "expected") return `<span class="pill expected">Not open yet</span>`;
+  function pillFor(bucket, label, muted) {
+    const m = muted ? " muted" : "";
+    if (bucket === "expected") return `<span class="pill expected${m}">Not open yet</span>`;
     if (bucket === "closed") return `<span class="pill closed">Closed</span>`;
     const text = { july: "July", summer: "Summer", other: "2027", none: "Not stated" }[bucket] || "Not stated";
     const title = label ? ` title="${esc(label)}"` : "";
-    return `<span class="pill ${esc(bucket)}"${title}>${text}</span>`;
+    return `<span class="pill ${esc(bucket)}${m}"${title}>${text}</span>`;
   }
 
   function groupRoles(list) {
@@ -209,7 +220,7 @@
     const noteOpen = S.openNotes.has(r.id);
     const noteBtn = t ? `<button type="button" class="link notebtn" data-note="${esc(r.id)}" aria-expanded="${noteOpen}">${t.notes ? "Notes" : "Add note"}</button>` : "";
     const notes = t && noteOpen ? `<div class="role-notes"><label class="sr-only" for="n-${esc(r.id)}">Notes</label><textarea id="n-${esc(r.id)}" data-notes="${esc(r.id)}" placeholder="Notes: referral, deadlines, contacts…">${esc(t.notes || "")}</textarea></div>` : "";
-    const cls = t && t.status === "rejected" ? " rejected" : "";
+    const cls = (t && DONE.has(t.status) ? " done" : "") + (t && t.status === "rejected" ? " rejected" : "");
     const newDot = r.is_new ? `<span class="sr-only">New. </span>` : "";
     return `<div class="role${cls}">
       <div>${newDot}<a class="role-title" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)} <span class="arrow" aria-hidden="true">↗</span></a></div>
@@ -225,10 +236,11 @@
     const id = "co-" + g.key;
     const n = g.roles.length;
     const kinds = [...g.kinds].join(", ");
-    return `<div class="co${open ? " open" : ""}" data-co="${esc(g.key)}">
+    const done = allDone(g);
+    return `<div class="co${open ? " open" : ""}${done ? " done" : ""}" data-co="${esc(g.key)}">
       <button type="button" class="co-head" aria-expanded="${open}" aria-controls="${esc(id)}">
         <span class="co-name">${g.isNew ? `<span class="dot" aria-hidden="true"></span><span class="sr-only">New roles: </span>` : ""}<span class="nm">${esc(g.company)}</span>${g.midsize ? `<span class="tag">mid-size</span>` : ""}</span>
-        <span class="co-right">${pillFor(g.pill, g.pillLabel)}<span class="co-count" aria-label="${n} role${n === 1 ? "" : "s"}">${n}</span></span>
+        <span class="co-right">${pillFor(g.pill, g.pillLabel, done)}<span class="co-count" aria-label="${n} role${n === 1 ? "" : "s"}">${n}</span></span>
         <span class="co-sub">${esc(kinds)} · ${esc(countryList(g.countries))}</span>
       </button>
       <div class="roles" id="${esc(id)}"><div class="roles-inner">${open ? g.roles.map((r) => roleHtml(r, g.kinds.size > 1)).join("") : ""}</div></div>
@@ -284,6 +296,10 @@
     const g = S.groups.find((x) => x.key === key);
     const el = document.querySelector(`.co[data-co="${CSS.escape(key)}"]`);
     if (!g || !el) return;
+    const done = allDone(g);
+    el.classList.toggle("done", done);
+    const pill = el.querySelector(".co-right .pill");
+    if (pill) pill.outerHTML = pillFor(g.pill, g.pillLabel, done);
     const inner = el.querySelector(".roles-inner");
     inner.innerHTML = S.expanded.has(key) ? g.roles.map((r) => roleHtml(r, g.kinds.size > 1)).join("") : "";
   }

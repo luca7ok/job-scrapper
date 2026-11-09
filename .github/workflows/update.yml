@@ -51,10 +51,18 @@ jobs:
 
       - name: Notify
         if: github.event_name != 'push' && hashFiles('data/notify.md') != ''
-        env: {GH_TOKEN: "${{ github.token }}"}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
-          gh label create new-roles --color DB2777 --description "Daily new-role alerts" --force
-          gh issue create --title "New roles $(date -u +%F)" --body-file data/notify.md --label new-roles
+          if [ -n "$SMTP_USER" ] && [ -n "$SMTP_PASSWORD" ]; then
+            python -m tracker.mail data/notify.md
+          else
+            gh label create new-roles --color DB2777 --description "Daily new-role alerts" --force
+            gh issue create --title "New roles $(date -u +%F)" --body-file data/notify.md --label new-roles
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with: {path: site}
