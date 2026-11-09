@@ -1,0 +1,19 @@
+{
+ "date": "2026-11-09",
+ "stats": {
+  "companies": 405,
+  "roles": 1124,
+  "outside_uk": 803,
+  "midsize_eu": 94,
+  "new_week": 0,
+  "july": 25,
+  "expected": 14,
+  "recently_closed": 0
+ },
+ "new": [],
+ "closed": [],
+ "reopened": [],
+ "hits": [],
+ "outages": [],
+ "errors": {}
+}
