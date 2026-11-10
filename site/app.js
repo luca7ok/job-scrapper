@@ -357,8 +357,10 @@
     const g = S.groups.find((x) => x.key === key);
     const el = document.querySelector(`.co[data-co="${CSS.escape(key)}"]`);
     if (!g || !el) return;
-    const done = allDone(g);
+    const hiddenCo = isHidden(g.key);
+    const done = allDone(g) || hiddenCo;
     el.classList.toggle("done", done);
+    el.classList.toggle("is-hidden", hiddenCo);
     const pill = el.querySelector(".co-right .pill");
     if (pill) pill.outerHTML = pillFor(g.pill, g.pillLabel, done);
     const inner = el.querySelector(".roles-inner");

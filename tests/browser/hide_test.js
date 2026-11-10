@@ -29,6 +29,7 @@ const URL = "http://127.0.0.1:8766/";
   check((await p.$eval(`[data-hide="${first.key}"]`, (e) => e.textContent)) === "Unmark company", "link now says 'Unmark company'");
   await p.click(".toast-action"); await sleep(300);
   check(!(await p.$eval(sel, (e) => e.classList.contains("done"))), "Undo removes the grey");
+  check((await p.$eval(`${sel} .nm`, (e) => getComputedStyle(e).textDecorationLine)) === "none", "Undo removes the strike-through");
 
   await p.click(`[data-hide="${first.key}"]`); await sleep(300);
   await p.type("#q", first.name.slice(0, 5)); await sleep(400);
@@ -38,6 +39,16 @@ const URL = "http://127.0.0.1:8766/";
 
   await p.reload({ waitUntil: "networkidle0" }); await p.waitForSelector(".co-head");
   check(await p.$eval(sel, (e) => e.classList.contains("done")), "still greyed after reload");
+  const struck = () => p.$eval(sel, (e) => ({ done: e.classList.contains("done"), line: getComputedStyle(e.querySelector(".nm")).textDecorationLine }));
+  check((await struck()).line === "line-through", "marked company name is crossed out");
+  await p.click(`${sel} .co-head`); await sleep(300);
+  const reopened = await struck();
+  check(reopened.done && reopened.line === "line-through", "expanding it keeps it greyed and crossed out");
+  await p.click(`${sel} .co-head`); await sleep(300);
+  await p.click(`${sel} .co-head`); await sleep(300);
+  const again = await struck();
+  check(again.done && again.line === "line-through", "collapsing and expanding again keeps it greyed and crossed out");
+  await p.click(`${sel} .co-head`); await sleep(300);
   await p.mouse.move(5, 5);
   await p.screenshot({ path: process.argv[2] || "marked.png" });
 
