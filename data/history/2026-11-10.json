@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-10",
+ "stats": {
+  "companies": 410,
+  "roles": 1145,
+  "outside_uk": 821,
+  "midsize_eu": 96,
+  "new_week": 21,
+  "july": 25,
+  "expected": 14,
+  "recently_closed": 0
+ },
+ "new": [
+  "6405d48e4bfceeda",
+  "904c7cbdd747bf0f",
+  "9084fd6fd238e472",
+  "c300315f8003881d",
+  "6dfbfd1d23965228",
+  "4c9a249d61f1cfa1",
+  "5deefeb5603b1f01",
+  "63576565ac492545",
+  "26c037024453cc07",
+  "f56521b7fd3258a1",
+  "3b8b5c7b3283b823",
+  "4ec0117703f24192",
+  "fb8cb171a37ffb4d",
+  "904981adeb9e934d",
+  "8894ceb32b7eac00",
+  "75995cd3f5a8d4dc",
+  "6b2e6696d8e90b83",
+  "3a033622886ae03b",
+  "d03e7e7209c39f5c",
+  "7a5e6c566a5b10f7",
+  "508a8a6f602f44db"
+ ],
+ "closed": [],
+ "reopened": [],
+ "hits": [],
+ "outages": [
+  "lever:tomtom",
+  "smartrecruiters:2NTELEKOMUNIKACEAs",
+  "smartrecruiters:MaxMaraFashionGroup",
+  "workday:genpt|wd1|careers",
+  "workday:roche|wd3|roche-ext",
+  "workday:vanderlande|wd3|careers"
+ ],
+ "errors": {}
+}
