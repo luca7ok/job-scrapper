@@ -61,7 +61,10 @@
     if (Number.isNaN(d.getTime())) return "";
     return d.toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
   };
-  const todayIso = () => new Date().toISOString().slice(0, 10);
+  const todayIso = () => {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  };
 
   const S = {
     data: null,

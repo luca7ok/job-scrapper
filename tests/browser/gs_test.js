@@ -1,4 +1,18 @@
+process.env.TZ = "Europe/Bucharest";
 const fs = require("fs"), vm = require("vm");
+const SHEET_TZ = "America/New_York";
+const parts = (t, tz) => Object.fromEntries(new Intl.DateTimeFormat("en-US", { timeZone: tz, hourCycle: "h23", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" }).formatToParts(new Date(t)).map((x) => [x.type, x.value]));
+const dayIn = (d, tz) => { const x = parts(d.getTime(), tz); return `${x.year}-${x.month}-${x.day}`; };
+const Utilities = {
+  parseDate: (s, tz) => {
+    const [y, m, d] = s.split("-").map(Number);
+    const guess = Date.UTC(y, m - 1, d);
+    const x = parts(guess, tz);
+    const off = Date.UTC(+x.year, +x.month - 1, +x.day, +x.hour, +x.minute) - guess;
+    return new Date(guess - off);
+  },
+  formatDate: (d, tz) => dayIn(d, tz),
+};
 let src = fs.readFileSync(process.argv[2], "utf8").replace('const SECRET = "PUT-A-LONG-RANDOM-WORD-HERE";', 'const SECRET = "s3cret";');
 const rows = [["Company", "Title", "Location", "Status", "Job Posting Link", "Contact", "Application Date", "Interview Stage"], ["Old Co", "Old role", "Cluj, Romania", "Rejected", "", "", "10/01/2026", ""]];
 const formats = {};
@@ -10,6 +24,7 @@ const sheet = {
       getValues: () => rows.slice(r - 1, r - 1 + (nr || 1)).map((x) => { const out = x.slice(c - 1, c - 1 + (nc || 1)); while (out.length < (nc || 1)) out.push(""); return out; }),
       setValue: (v) => { while (rows.length < r) rows.push([]); const row = rows[r - 1]; while (row.length < c) row.push(""); row[c - 1] = v; return range; },
       setNumberFormat: (f) => { formats[`${r},${c}`] = f; return range; },
+      getNumberFormat: () => formats[`${r},${c}`] || "General",
       setFontWeight() { return range; },
     };
     return range;
@@ -17,10 +32,11 @@ const sheet = {
 };
 const props = {};
 const ctx = {
-  SpreadsheetApp: { getActiveSpreadsheet: () => ({ getSheets: () => [sheet], getSheetByName: () => sheet, insertSheet: () => sheet, getName: () => "Job applications" }) },
+  SpreadsheetApp: { getActiveSpreadsheet: () => ({ getSheets: () => [sheet], getSheetByName: () => sheet, insertSheet: () => sheet, getName: () => "Job applications", getSpreadsheetTimeZone: () => SHEET_TZ }) },
   PropertiesService: { getScriptProperties: () => ({ getProperty: (k) => props[k] || null, setProperty: (k, v) => { props[k] = v; } }) },
   LockService: { getScriptLock: () => ({ waitLock() {}, releaseLock() {} }) },
   ContentService: { MimeType: { JSON: "json" }, createTextOutput: (t) => ({ setMimeType: () => JSON.parse(t) }) },
+  Utilities,
   console,
 };
 vm.createContext(ctx);
@@ -39,8 +55,8 @@ check(r1.ok && r1.ids.length === 2, "two rows added");
 const a = rows[2];
 check(a[0] === "Adobe" && a[1] === "2027 Intern - Security Engineer" && a[2] === "Bucharest, Romania", "company/title/location in the right columns");
 check([a[3], a[4], a[5], a[7]].every((v) => v === "" || v === undefined), "Status, Link, Contact, Interview Stage left empty");
-check(Object.prototype.toString.call(a[6]) === "[object Date]" && a[6].getFullYear() === 2026 && a[6].getMonth() === 10 && a[6].getDate() === 9, "application date is a real date (9 Nov 2026)");
-check(formats["3,7"] === "MM/dd/yyyy", "date cell formatted MM/dd/yyyy");
+check(Object.prototype.toString.call(a[6]) === "[object Date]" && dayIn(a[6], SHEET_TZ) === "2026-11-09", `application date is 9 Nov 2026 in the spreadsheet's time zone (${dayIn(a[6], SHEET_TZ)})`);
+check(formats["3,7"] === "dd mmmm yyyy", "unformatted date cell gets dd mmmm yyyy");
 check(rows[3][0].startsWith("'="), "formula-looking text is neutralised");
 const r2 = call({ secret: "s3cret", action: "add", rows: [{ id: "a1", company: "Adobe", title: "x", location: "y", applied: "2026-11-09" }] });
 check(r2.ok && rows.length === 4, "same role is never added twice");
@@ -73,6 +89,8 @@ check(JSON.stringify(r5.skipped) === JSON.stringify(["d2"]), `same title in anot
 rows.splice(0, rows.length, ["Company", "Title", "Location", "Status", "Job Posting Link", "Contact", "Application Date", "Interview Stage"],
   ["Old Co", "Old role", "Cluj, Romania", "Applied", "", "", "10/01/2026", ""]);
 for (let i = 0; i < 984; i++) rows.push(["", "", "", false, "", "", "", "=IF(A1,1,\"\")"]);
+for (const k of Object.keys(formats)) delete formats[k];
+formats["3,7"] = "d mmmm yyyy";
 const r6 = call({ secret: "s3cret", action: "add", rows: [
   { id: "e1", company: "Wise", title: "Software Engineering Intern", location: "Tallinn, Estonia", applied: "2026-11-12" },
   { id: "e2", company: "Bolt", title: "Backend Intern", location: "Tallinn, Estonia", applied: "2026-11-12" },
@@ -80,4 +98,7 @@ const r6 = call({ secret: "s3cret", action: "add", rows: [
 check(r6.ok && rows[2][0] === "Wise" && rows[3][0] === "Bolt", `fills the first empty rows (3 and 4), not row ${rows.length + 1}`);
 check(rows[2][3] === false && rows[2][7] === "=IF(A1,1,\"\")", "leaves your checkboxes and formulas in that row untouched");
 check(rows.length === 986, "no rows appended at the bottom");
+check(formats["3,7"] === "d mmmm yyyy", "keeps the date format already on the column");
+check(formats["4,7"] === "dd mmmm yyyy", "falls back to dd mmmm yyyy where the column has none");
+check(dayIn(rows[2][6], SHEET_TZ) === "2026-11-12", "12 Nov stays 12 Nov in the spreadsheet");
 console.log(fails ? `${fails} FAILED` : "ALL PASSED");

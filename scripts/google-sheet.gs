@@ -1,7 +1,7 @@
 const SECRET = "PUT-A-LONG-RANDOM-WORD-HERE";
 const SHEET_NAME = "";
 const HEADERS = ["Company", "Title", "Location", "Status", "Job Posting Link", "Contact", "Application Date", "Interview Stage"];
-const DATE_FORMAT = "MM/dd/yyyy";
+const DATE_FORMAT = "dd mmmm yyyy";
 
 function doPost(e) {
   let data;
@@ -50,7 +50,9 @@ function doPost(e) {
       sheet.getRange(target, cols["company"]).setValue(cell(r.company));
       sheet.getRange(target, cols["title"]).setValue(cell(r.title));
       sheet.getRange(target, cols["location"]).setValue(cell(r.location));
-      sheet.getRange(target, cols["application date"]).setValue(toDate(r.applied)).setNumberFormat(DATE_FORMAT);
+      const dateCell = sheet.getRange(target, cols["application date"]);
+      dateCell.setValue(toDate(r.applied, book.getSpreadsheetTimeZone()));
+      if (!isDateFormat(dateCell.getNumberFormat())) dateCell.setNumberFormat(DATE_FORMAT);
       props.setProperty(key, "1");
       existing.push({ company: norm(r.company), title: norm(r.title), location: norm(r.location) });
       done.push(String(r.id));
@@ -128,9 +130,15 @@ function alreadyListed(existing, company, title, location) {
   });
 }
 
-function toDate(iso) {
-  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(iso || ""));
-  return m ? new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3])) : new Date();
+function toDate(iso, tz) {
+  const s = String(iso || "");
+  const day = /^\d{4}-\d{2}-\d{2}$/.test(s) ? s : Utilities.formatDate(new Date(), tz, "yyyy-MM-dd");
+  return Utilities.parseDate(day, tz, "yyyy-MM-dd");
+}
+
+function isDateFormat(format) {
+  const f = String(format || "").toLowerCase();
+  return f.indexOf("d") !== -1 && f.indexOf("y") !== -1;
 }
 
 function cell(value) {
