@@ -1,19 +1,21 @@
-# Run report 2026-11-16
+# Run report 2026-11-19
 
-Finished in 260s. Open roles: **1200** (857 outside the UK, 90 at mid-size companies, 21 July start).
+Finished in 260s. Open roles: **1229** (878 outside the UK, 89 at mid-size companies, 22 July start).
 
-New: 72 · Closed: 89 · Reopened: 1
+New: 93 · Closed: 66 · Reopened: 2
 
 ## Possible outages (roles kept open)
 - ashby:Escape
 - ashby:docebo
+- ashby:reonic
+- greenhouse:veeamsoftware
 - lever:anybotics
 - lever:equativ
 - lever:sonarsource
-- lever:tomtom
 - lever:wingtra-2
 - smartrecruiters:2NTELEKOMUNIKACEAs
 - smartrecruiters:MaxMaraFashionGroup
+- smartrecruiters:Vattenfall
 - workable:d-one
 - workable:reversinglabs
 
@@ -21,8 +23,6 @@ New: 72 · Closed: 89 · Reopened: 1
 - `workday:abb|wd3|external_career_page`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external_career_page/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:accenture|wd103|accenturecareers`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/accenturecareers/jobs'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
-- `workday:adobe|wd5|external_experienced`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:ag|wd3|airbus`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/airbus/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
@@ -34,7 +34,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:accenture|wd103|avanadecareers`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/avanadecareers/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
-- `workday:blackline|wd108|blacklinecareers`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://blackline.wd108.myworkdayjobs.com/wday/cxs/blackline/blacklinecareers/jobs'
+- `workday:bbh|wd5|bbh`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/bbh/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:cerved|wd3|cerved`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cerved.wd3.myworkdayjobs.com/wday/cxs/cerved/cerved/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
@@ -104,8 +104,6 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:motorolasolutions|wd5|careers`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/careers/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
-- `workday:murex|wd3|murexcareerpage1`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://murex.wd3.myworkdayjobs.com/wday/cxs/murex/murexcareerpage1/jobs'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:ncr|wd1|ext_non_us`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_non_us/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:nvidia|wd5|NVIDIAExternalCareerSite`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs'
@@ -125,6 +123,8 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 - `workday:rabobank|wd3|jobs`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://rabobank.wd3.myworkdayjobs.com/wday/cxs/rabobank/jobs/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:rakuten|wd1|kobo`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/kobo/jobs'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+- `workday:kcura|wd1|external_career_site`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://kcura.wd1.myworkdayjobs.com/wday/cxs/kcura/external_career_site/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
 - `workday:alliancewd|wd3|renault-group-careers`: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://alliancewd.wd3.myworkdayjobs.com/wday/cxs/alliancewd/renault-group-careers/jobs'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
@@ -173,18 +173,18 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 
 | feed | status | postings | kept | detail errors | seconds |
 |---|---|---:|---:|---:|---:|
-| simplify_intern | ok | 4055 | 116 | 0 | 0.8 |
-| simplify_newgrad | ok | 2844 | 145 | 0 | 1.9 |
-| speedyapply_intern | ok | 677 | 225 | 0 | 1.2 |
-| speedyapply_newgrad | ok | 851 | 261 | 0 | 1.8 |
-| earlycareers | ok | 168 | 87 | 0 | 2.6 |
+| simplify_intern | ok | 3914 | 114 | 0 | 0.7 |
+| simplify_newgrad | ok | 2753 | 140 | 0 | 1.5 |
+| speedyapply_intern | ok | 704 | 236 | 0 | 1.3 |
+| speedyapply_newgrad | ok | 926 | 274 | 0 | 1.7 |
+| earlycareers | ok | 168 | 87 | 0 | 3.1 |
 | manual | ok | 44 | 44 | 0 | 0.0 |
-| arbeitnow | ok | 2528 | 23 | 0 | 6.4 |
+| arbeitnow | ok | 2683 | 24 | 0 | 8.0 |
 | adzuna | skipped | 0 | 0 | 0 | 0.0 |
-| ashby (16/16 companies ok) | ok | 767 | 25 | 0 | 2.5 |
-| greenhouse (21/21 companies ok) | ok | 5434 | 26 | 0 | 39.2 |
-| lever (18/18 companies ok) | ok | 887 | 30 | 0 | 68.6 |
-| smartrecruiters (35/35 companies ok) | ok | 18834 | 309 | 0 | 876.2 |
-| workable (9/9 companies ok) | ok | 613 | 24 | 0 | 2.6 |
-| workday (5/80 companies ok) | partial | 186 | 1 | 0 | 460.9 |
+| ashby (16/16 companies ok) | ok | 778 | 25 | 0 | 2.5 |
+| greenhouse (21/21 companies ok) | ok | 5495 | 26 | 0 | 41.3 |
+| lever (18/18 companies ok) | ok | 921 | 30 | 0 | 58.0 |
+| smartrecruiters (35/35 companies ok) | ok | 18928 | 303 | 0 | 821.6 |
+| workable (9/9 companies ok) | ok | 673 | 24 | 0 | 1.5 |
+| workday (6/80 companies ok) | partial | 228 | 6 | 7 | 492.9 |
 
